@@ -1,6 +1,8 @@
 <div style="text-align: center;">
     <h1><img src="assets/logo.png" height="28px" /> Speculative Decoding Papers </h1>
 </div>
+
+
 This is a paper list about **Speculative Decoding**.
 
 ## Content
