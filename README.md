@@ -36,6 +36,10 @@ This is a paper list about **Speculative Decoding**.
 
   *Heming Xia, Tao Ge, Furu Wei, Zhifang Sui*. [[pdf](https://arxiv.org/abs/2203.16487)], 2022.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Draft_model:_specialized_NAT-green) ![](https://img.shields.io/badge/SpecDec-blue)
 
+- **Speculative Decoding with Big Little Decoder**
+
+  *Sehoon Kim, Karttikeya Mangalam, Suhong Moon, John Canny, Jitendra Malik, Michael W. Mahoney, Amir Gholami, Kurt Keutzer*. [[pdf](https://arxiv.org/pdf/2302.07863.pdf)], 2023.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/BiLD-blue)
+
 - **Accelerating Transformer Inference for Translation via Parallel Decoding**
 
   *Andrea Santilli, Silvio Severino, Emilian Postolache, Valentino Maiorca, Michele Mancusi, Riccardo Marin, Emanuele Rodolà*. [[pdf](https://aclanthology.org/2023.acl-long.689.pdf)], 2023.05. ![](https://img.shields.io/badge/ACL2023-orange) ![](https://img.shields.io/badge/Draft_model:_model_itself-green)
