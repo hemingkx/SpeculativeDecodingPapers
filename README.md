@@ -11,6 +11,7 @@ This is a paper list about **Speculative Decoding**.
 - [Papers](#papers)
   - [Speculative Decoding for Seq2Seq](#speculative-decoding-for-seq2seq)
   - [Speculative Decoding for LLMs](#speculative-decoding-for-llms)
+  - [Applications](#applications)
 - [Blogs](#blogs)
 - [Contribution](#contribution)
   - [Contributors](#contributors)
@@ -69,6 +70,16 @@ This is a paper list about **Speculative Decoding**.
 - **Draft & Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding**
 
   *Jun Zhang, Jue Wang, Huan Li, Lidan Shou, Ke Chen, Gang Chen, Sharad Mehrotra*. [[pdf](https://arxiv.org/pdf/2309.08168.pdf)], 2023.09. ![](https://img.shields.io/badge/Arxiv-orange)
+
+### Applications
+
+- **Instantaneous Grammatical Error Correction with Shallow Aggressive Decoding**
+
+  *Xin Sun, Tao Ge, Furu Wei, Houfeng Wang*. [[pdf](https://aclanthology.org/2021.acl-long.462.pdf)], 2021.07. ![](https://img.shields.io/badge/ACL2021-orange) ![](https://img.shields.io/badge/Draft:_original_input-green) ![](https://img.shields.io/badge/SAD-blue)
+
+- **Inference with Reference: Lossless Acceleration of Large Language Models**
+
+  *Nan Yang, Tao Ge, Liang Wang, Binxing Jiao, Daxin Jiang, Linjun Yang, Rangan Majumder, Furu W*ei. [[pdf](https://arxiv.org/pdf/2304.04487.pdf)], 2023.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Draft:_the_reference-green)
 
 ## Blog & Project
 
