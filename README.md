@@ -61,7 +61,7 @@ This is a paper list about **Speculative Decoding**.
 
 - **Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding**
 
-  Xuefei Ning, Zinan Lin, Zixuan Zhou, Huazhong Yang, Yu Wang. [[pdf](https://arxiv.org/pdf/2307.15337.pdf)], 2023.07. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Xuefei Ning, Zinan Lin, Zixuan Zhou, Huazhong Yang, Yu Wang*. [[pdf](https://arxiv.org/pdf/2307.15337.pdf)], 2023.07. ![](https://img.shields.io/badge/Arxiv-orange)
 
 - **Accelerating LLM Inference with Staged Speculative Decoding**
 
