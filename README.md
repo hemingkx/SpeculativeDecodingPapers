@@ -59,6 +59,10 @@ This is a paper list about **Speculative Decoding**.
 
   *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia.* [[pdf](https://arxiv.org/abs/2305.09781)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Draft_model:_boost--tuned_small_LMs-green) ![](https://img.shields.io/badge/SpecInfer-blue)
 
+- **Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding**
+
+  Xuefei Ning, Zinan Lin, Zixuan Zhou, Huazhong Yang, Yu Wang. [[pdf](https://arxiv.org/pdf/2307.15337.pdf)], 2023.07. ![](https://img.shields.io/badge/Arxiv-orange)
+
 - **Accelerating LLM Inference with Staged Speculative Decoding**
 
   *Benjamin Spector, Chris Re*. [[pdf](https://arxiv.org/abs/2308.04623)], 2023.08. ![](https://img.shields.io/badge/ES--FOMO_at_ICML2023-orange)
