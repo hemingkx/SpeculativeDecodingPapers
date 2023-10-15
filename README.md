@@ -35,11 +35,11 @@ This is a paper list about **Speculative Decoding**.
 
 - **Lossless speedup of autoregressive translation with generalized aggressive decoding**
 
-  *Heming Xia, Tao Ge, Furu Wei, Zhifang Sui*. [[pdf](https://arxiv.org/abs/2203.16487)], 2022.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Draft_model:_specialized_NAT-green) ![](https://img.shields.io/badge/SpecDec-blue)
+  *Heming Xia, Tao Ge, Furu Wei, Zhifang Sui*. [[pdf](https://arxiv.org/abs/2203.16487)], 2022.03. ![](https://img.shields.io/badge/EMNLP2023--findings-orange) ![](https://img.shields.io/badge/Draft_model:_specialized_NAT-green) ![](https://img.shields.io/badge/SpecDec-blue)
 
 - **Speculative Decoding with Big Little Decoder**
 
-  *Sehoon Kim, Karttikeya Mangalam, Suhong Moon, John Canny, Jitendra Malik, Michael W. Mahoney, Amir Gholami, Kurt Keutzer*. [[pdf](https://arxiv.org/pdf/2302.07863.pdf)], 2023.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/BiLD-blue)
+  *Sehoon Kim, Karttikeya Mangalam, Suhong Moon, John Canny, Jitendra Malik, Michael W. Mahoney, Amir Gholami, Kurt Keutzer*. [[pdf](https://arxiv.org/pdf/2302.07863.pdf)], 2023.02. ![](https://img.shields.io/badge/NIPS2023-orange) ![](https://img.shields.io/badge/BiLD-blue)
 
 - **Accelerating Transformer Inference for Translation via Parallel Decoding**
 
