@@ -96,6 +96,10 @@ This is a paper list about **Speculative Decoding**.
 - **LLMCad: Fast and Scalable On-device Large Language Model Inference**
 
   *Daliang Xu, Wangsong Yin, Xin Jin, Ying Zhang, Shiyun Wei, Mengwei Xu, Xuanzhe Liu.* [[pdf](https://arxiv.org/pdf/2309.04255.pdf)], 2023.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LLMCad-blue)
+  
+- **Accelerating Retrieval-augmented Language Model Serving with Speculation**
+
+  *ICLR 2024 Conference Submission.* [[pdf](https://openreview.net/forum?id=vkzPuZJ80a)], 2023.10. ![](https://img.shields.io/badge/ICLR2024--submission-orange) ![](https://img.shields.io/badge/RaLMSpec-blue)
 
 ## Blog & Project
 
