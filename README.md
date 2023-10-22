@@ -67,6 +67,10 @@ This is a paper list about **Speculative Decoding**.
 
   *Xuefei Ning, Zinan Lin, Zixuan Zhou, Huazhong Yang, Yu Wang*. [[pdf](https://arxiv.org/pdf/2307.15337.pdf)], 2023.07. ![](https://img.shields.io/badge/Arxiv-orange)
 
+- **Predictive Pipelined Decoding: A Compute-Latency Trade-off for Exact LLM Decoding**
+
+  *Seongjun Yang, Gibbeum Lee, Jaewoong Cho, Dimitris Papailiopoulos, Kangwook Lee*. [[pdf](https://arxiv.org/pdf/2307.05908.pdf)], 2023.08. ![](https://img.shields.io/badge/ES--FOMO_at_ICML2023-orange) ![](https://img.shields.io/badge/PPD-blue)
+
 - **Accelerating LLM Inference with Staged Speculative Decoding**
 
   *Benjamin Spector, Chris Re*. [[pdf](https://arxiv.org/abs/2308.04623)], 2023.08. ![](https://img.shields.io/badge/ES--FOMO_at_ICML2023-orange)
