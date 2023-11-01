@@ -23,7 +23,7 @@ This is a paper list about **Speculative Decoding**.
 
 ![](https://img.shields.io/badge/ACL2022-orange) Conference
 
-![](https://img.shields.io/badge/Draft_model-green) Important Feature
+![](https://img.shields.io/badge/Drafter: small LM-green) Drafting Methods in Speculative Decoding
 
 ## Papers
 
