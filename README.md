@@ -63,10 +63,6 @@ This is a paper list about **Speculative Decoding**.
 
   *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia.* [[pdf](https://arxiv.org/abs/2305.09781)], 2023.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Draft_model:_boost--tuned_small_LMs-green) ![](https://img.shields.io/badge/SpecInfer-blue)
 
-- **Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding**
-
-  *Xuefei Ning, Zinan Lin, Zixuan Zhou, Huazhong Yang, Yu Wang*. [[pdf](https://arxiv.org/pdf/2307.15337.pdf)], 2023.07. ![](https://img.shields.io/badge/Arxiv-orange)
-
 - **Predictive Pipelined Decoding: A Compute-Latency Trade-off for Exact LLM Decoding**
 
   *Seongjun Yang, Gibbeum Lee, Jaewoong Cho, Dimitris Papailiopoulos, Kangwook Lee*. [[pdf](https://arxiv.org/pdf/2307.05908.pdf)], 2023.08. ![](https://img.shields.io/badge/ES--FOMO_at_ICML2023-orange) ![](https://img.shields.io/badge/PPD-blue)
@@ -99,7 +95,7 @@ This is a paper list about **Speculative Decoding**.
 
 - **Inference with Reference: Lossless Acceleration of Large Language Models**
 
-  *Nan Yang, Tao Ge, Liang Wang, Binxing Jiao, Daxin Jiang, Linjun Yang, Rangan Majumder, Furu Wei.* [[pdf](https://arxiv.org/pdf/2304.04487.pdf)], 2023.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Draft:_the_reference-green)
+  *Nan Yang, Tao Ge, Liang Wang, Binxing Jiao, Daxin Jiang, Linjun Yang, Rangan Majumder, Furu Wei.* [[pdf](https://arxiv.org/pdf/2304.04487.pdf)], 2023.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Draft:_the_reference-green) ![](https://img.shields.io/badge/LLMA-blue)
   
 - **LLMCad: Fast and Scalable On-device Large Language Model Inference**
 
