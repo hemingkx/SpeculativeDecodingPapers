@@ -35,7 +35,7 @@ This is a paper list about **Speculative Decoding**.
 
 - **Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**
 
-  *Heming Xia, Tao Ge, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui*. [[pdf](https://arxiv.org/abs/2203.16487)], 2022.03. ![](https://img.shields.io/badge/EMNLP2023--findings-orange) ![](https://img.shields.io/badge/Drafter:_specialized_NAT-green) ![](https://img.shields.io/badge/SpecDec-blue)
+  *Heming Xia, Tao Ge, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui*. [[pdf](https://arxiv.org/abs/2211.17192], 2022.03. ![](https://img.shields.io/badge/EMNLP2023--findings-orange) ![](https://img.shields.io/badge/Drafter:_specialized_NAT-green) ![](https://img.shields.io/badge/SpecDec-blue)
 
 - **Speculative Decoding with Big Little Decoder**
 
