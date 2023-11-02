@@ -53,7 +53,7 @@ This is a paper list about **Speculative Decoding**.
 
 - **Fast Inference from Transformers via Speculative Decoding**
 
-  *Yaniv Leviathan, Matan Kalman, Yossi Matias*. [[pdf](https://arxiv.org/pdf/2308.00675.pdf)], 2022.11. ![](https://img.shields.io/badge/ICML2023--Oral-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green)
+  *Yaniv Leviathan, Matan Kalman, Yossi Matias*. [[pdf](https://arxiv.org/abs/2211.17192)], 2022.11. ![](https://img.shields.io/badge/ICML2023--Oral-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green)
 
 - **Accelerating Large Language Model Decoding with Speculative Sampling**
 
