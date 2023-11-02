@@ -113,7 +113,7 @@ This is a paper list about **Speculative Decoding**.
 
 **Assisted Generation: a new direction toward low-latency text generation**. Huggingface 2023.05. [[Link](https://huggingface.co/blog/assisted-generation)]
 
-**Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads.** 2023.09. [[Project]](https://github.com/FasterDecoding/Medusa)
+**Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads.** 2023.09. [[Project](https://github.com/FasterDecoding/Medusa)]
 
 ## Contributors
 
