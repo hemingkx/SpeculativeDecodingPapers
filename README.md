@@ -12,6 +12,7 @@ This is a paper list about **Speculative Decoding**.
   - [Speculative Decoding for Seq2Seq](#speculative-decoding-for-seq2seq)
   - [Speculative Decoding for LLMs](#speculative-decoding-for-llms)
   - [Applications](#applications)
+  - [Analysis](#analysis)
 - [Blogs](#blogs)
 - [Contribution](#contribution)
   - [Contributors](#contributors)
@@ -24,6 +25,8 @@ This is a paper list about **Speculative Decoding**.
 ![](https://img.shields.io/badge/ACL2022-orange) Conference
 
 ![](https://img.shields.io/badge/Drafter:_small_LM-green) Drafting Methods in Speculative Decoding
+
+![](https://img.shields.io/badge/Batching-lightgray) Main Features in Analysis
 
 ## Papers
 
@@ -108,6 +111,12 @@ This is a paper list about **Speculative Decoding**.
 - **An Emulator for Fine-Tuning Large Language Models using Small Language Models**
 
   *Eric Mitchell, Rafael Rafailov, Archit Sharma, Chelsea Finn, Christopher D. Manning*. [[pdf](https://arxiv.org/pdf/2310.12962.pdf)], 2023.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/EFT-blue)
+
+### Analysis
+
+- **The Synergy of Speculative Decoding and Batching in Serving Large Language Models**
+
+  *Qidong Su, Christina Giannoula, Gennady Pekhimenko.* [[pdf](https://arxiv.org/pdf/2310.18813.pdf)], 2023.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Optimal_Speculation_Length_in_Batching-lightgray)
 
 ## Blog & Project
 
