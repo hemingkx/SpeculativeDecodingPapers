@@ -107,10 +107,6 @@ This is a paper list about **Speculative Decoding**.
 - **Accelerating Retrieval-augmented Language Model Serving with Speculation**
 
   *ICLR 2024 Conference Submission.* [[pdf](https://openreview.net/forum?id=vkzPuZJ80a)], 2023.10. ![](https://img.shields.io/badge/ICLR2024--submission-orange) ![](https://img.shields.io/badge/RaLMSpec-blue)
-  
-- **An Emulator for Fine-Tuning Large Language Models using Small Language Models**
-
-  *Eric Mitchell, Rafael Rafailov, Archit Sharma, Chelsea Finn, Christopher D. Manning*. [[pdf](https://arxiv.org/pdf/2310.12962.pdf)], 2023.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/EFT-blue)
 
 ### Analysis
 
