@@ -93,6 +93,10 @@ This is a paper list about **Speculative Decoding**.
 - **REST: Retrieval-Based Speculative Decoding**
 
   *Zhenyu He, Zexuan Zhong, Tianle Cai, Jason D Lee, Di He.* [[pdf](https://arxiv.org/pdf/2311.08252.pdf)], 2023.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Draft:_retrieved_Doc-green) ![](https://img.shields.io/badge/REST-blue)
+  
+- **Speculative Contrastive Decoding**
+
+  *Hongyi Yuan, Keming Lu, Fei Huang, Zheng Yuan, Chang Zhou.* [[pdf](https://arxiv.org/pdf/2311.08981.pdf)], 2023.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green) ![](https://img.shields.io/badge/SCD-blue)
 
 ### Applications
 
