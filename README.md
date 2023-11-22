@@ -128,6 +128,8 @@ This is a paper list about **Speculative Decoding**.
 
 **Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads.** 2023.09. [[Project](https://github.com/FasterDecoding/Medusa)]
 
+**Break the Sequential Dependency of LLM Inference Using Lookahead Decoding**. 2023.11.  [[Project](https://github.com/hao-ai-lab/LookaheadDecoding)]
+
 ## Contributors
 
 <a href="https://github.com/hemingkx/SpeculativeDecodingPapers/graphs/contributors">
