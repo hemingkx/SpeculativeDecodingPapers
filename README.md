@@ -124,11 +124,13 @@ This is a paper list about **Speculative Decoding**.
 
 ## Blog & Project
 
-**Assisted Generation: a new direction toward low-latency text generation**. Huggingface 2023.05. [[Link](https://huggingface.co/blog/assisted-generation)]
+**Assisted Generation: a new direction toward low-latency text generation.** Huggingface. 2023.05. [[Blog](https://huggingface.co/blog/assisted-generation)] [[Code](https://github.com/huggingface/transformers/blob/849367ccf741d8c58aa88ccfe1d52d8636eaf2b7/src/transformers/generation/utils.py#L4064)]
 
-**Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads.** 2023.09. [[Project](https://github.com/FasterDecoding/Medusa)]
+**Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads.** 2023.09. [[Blog](https://sites.google.com/view/medusa-llm)] [[Code](https://github.com/FasterDecoding/Medusa)]
 
-**Break the Sequential Dependency of LLM Inference Using Lookahead Decoding**. 2023.11.  [[Project](https://github.com/hao-ai-lab/LookaheadDecoding)]
+**Break the Sequential Dependency of LLM Inference Using Lookahead Decoding.** 2023.11. [[Blog](https://lmsys.org/blog/2023-11-21-lookahead-decoding/)] [[Code](https://github.com/hao-ai-lab/LookaheadDecoding)]
+
+**Accelerating Generative AI with PyTorch II: GPT, Fast.** Pytorch. 2023.11. [[Blog](https://pytorch.org/blog/accelerating-generative-ai-2/)] [[Code](https://github.com/pytorch-labs/gpt-fast/blob/main/generate.py#L76)]
 
 ## Contributors
 
