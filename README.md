@@ -132,6 +132,8 @@ This is a paper list about **Speculative Decoding**.
 
 **Accelerating Generative AI with PyTorch II: GPT, Fast.** Pytorch. 2023.11. [[Blog](https://pytorch.org/blog/accelerating-generative-ai-2/)] [[Code](https://github.com/pytorch-labs/gpt-fast/blob/main/generate.py#L76)]
 
+**EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation.** Vector Institute, University of Waterloo, Peking University. 2023.12. [[Blog](https://sites.google.com/view/eagle-llm)] [[Code](https://github.com/SafeAILab/EAGLE)]
+
 ## Contributors
 
 <a href="https://github.com/hemingkx/SpeculativeDecodingPapers/graphs/contributors">
