@@ -5,6 +5,8 @@
 
 This is a paper list about **Speculative Decoding**.
 
+![timeline](./assets/timeline.png)
+
 ## Content
 
 - [Keywords Convention](#keywords-convention)
@@ -105,6 +107,10 @@ This is a paper list about **Speculative Decoding**.
 - **Cascade Speculative Drafting for Even Faster LLM Inference**
 
   *Ziyi Chen, Xiaocong Yang, Jiacheng Lin, Chenkai Sun, Jie Huang, Kevin Chen-Chuan Chang.* [[pdf](https://arxiv.org/pdf/2312.11462.pdf)], 2023.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_cascade_LM-green)
+  
+- **Multi-Candidate Speculative Decoding**
+
+  *Sen Yang, Shujian Huang, Xinyu Dai, Jiajun Chen.* [[pdf](https://arxiv.org/pdf/2401.06706.pdf)], 2024.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green)
 
 ### Applications
 
