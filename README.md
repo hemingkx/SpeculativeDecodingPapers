@@ -1,5 +1,5 @@
 <div align="center">
-  <b><font size="5">  <img src="assets/logo.png" height="28px" /><i>Unlocking Efficiency in Large Language Model Inference:</i><br>A Comprehensive Survey of Speculative Decoding </font></b> 
+  <b><font size="6">  <img src="assets/logo.png" height="28px" /><i>Unlocking Efficiency in Large Language Model Inference:</i><br>A Comprehensive Survey of Speculative Decoding </font></b> 
 </div>
 
 
