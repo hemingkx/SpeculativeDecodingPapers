@@ -1,9 +1,34 @@
-<div style="text-align: center;">
-    <h1><img src="assets/logo.png" height="28px" /> Speculative Decoding Papers </h1>
+<div align="center">
+<h3><img src="assets/logo.png" height="28px" /> Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding </h3>
 </div>
 
+<div align="center">
+<b>Heming Xia</b><sup>1</sup>,
+<b>Zhe Yang</b><sup>2</sup>,
+<b>Qingxiu Dong</b><sup>2</sup>,
+<b>Peiyi Wang</b><sup>2</sup>,
+<b>Yongqi Li</b><sup>1</sup>,
+<b>Tao Ge</b><sup>3</sup>,
+<b>Tianyu Liu</b><sup>4</sup>,
+<b>Wenjie Li</b><sup>1</sup>,
+<b>Zhifang Sui</b><sup>2</sup>
+</div>
 
-This is a paper list about **Speculative Decoding**.
+<div align="center">
+<sup>1</sup>Department of Computing, The Hong Kong Polytechnic University
+</div>
+<div align="center">
+<sup>2</sup>National Key Laboratory for Multimedia Information Processing, Peking University
+</div>
+<div align="center">
+<sup>3</sup>Microsoft Research Asia <sup>4</sup>Alibaba Group
+</div>
+
+------
+
+This repository contains a regularly updated paper list for **Speculative Decoding**.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![License: MIT](https://img.shields.io/badge/License-Apache--2.0-green.svg)](./LICENSE)![GitHub last commit (branch)](https://img.shields.io/github/last-commit/hemingkx/SpeculativeDecodingPapers/main?logo=github&color=blue)
 
 ![timeline](./assets/timeline.png)
 
@@ -20,6 +45,7 @@ This is a paper list about **Speculative Decoding**.
 - [Contribution](#contribution)
   - [Contributors](#contributors)
   - [Contributing to this paper list](#contributing-to-this-paper-list)
+- [Citation](#citation)
 
 ## Keywords Convention
 
@@ -172,3 +198,19 @@ This is a paper list about **Speculative Decoding**.
 ## Contributing to this paper list
 
 -  There are cases where we miss important works in this field, please feel free to contribute and promote your awesome work or other related works here! Thanks for the efforts in advance.
+
+## Citation
+
+If you find the resources in this repository useful, please cite our paper:
+
+```
+@misc{xia2024unlocking,
+      title={Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding}, 
+      author={Heming Xia and Zhe Yang and Qingxiu Dong and Peiyi Wang and Yongqi Li and Tao Ge and Tianyu Liu and Wenjie Li and Zhifang Sui},
+      year={2024},
+      eprint={2401.07851},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
