@@ -1,6 +1,7 @@
 <div align="center">
-<h2><img src="assets/logo.png" height="28px" /><i>Unlocking Efficiency in Large Language Model Inference:</i><br> A Comprehensive Survey of Speculative Decoding </h2>
+<h3><img src="assets/logo.png" height="28px" /><i>Unlocking Efficiency in Large Language Model Inference:</i><br> A Comprehensive Survey of Speculative Decoding </h3>
 </div>
+
 
 <div align="center">
 <b>Heming Xia</b><sup>1</sup>,
@@ -23,6 +24,8 @@
 <div align="center">
 <sup>3</sup>Microsoft Research Asia <sup>4</sup>Alibaba Group
 </div>
+------
+
 This repository contains a regularly updated paper list for **Speculative Decoding**.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![License: MIT](https://img.shields.io/badge/License-Apache--2.0-green.svg)](./LICENSE)![GitHub last commit (branch)](https://img.shields.io/github/last-commit/hemingkx/SpeculativeDecodingPapers/main?logo=github&color=blue)
