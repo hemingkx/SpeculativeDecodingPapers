@@ -1,6 +1,7 @@
 <div align="center">
-  <h2><img src="assets/logo.png" height="28px" /><i>Unlocking Efficiency in Large Language Model Inference:</i><br>A Comprehensive Survey of Speculative Decoding </h2>
+  <b><font size="5">  <img src="assets/logo.png" height="28px" /><i>Unlocking Efficiency in Large Language Model Inference:</i><br>A Comprehensive Survey of Speculative Decoding </font></b> 
 </div>
+
 
 <div align="center">
 <b>Heming Xia</b><sup>1</sup>,
