@@ -118,6 +118,10 @@ This is a paper list about **Speculative Decoding**.
 - **Multi-Candidate Speculative Decoding**
 
   *Sen Yang, Shujian Huang, Xinyu Dai, Jiajun Chen.* [[pdf](https://arxiv.org/pdf/2401.06706.pdf)], 2024.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green)
+  
+- **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**
+
+  *Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao.* [[pdf](https://arxiv.org/pdf/2401.10774.pdf)], 2024.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Drafter:_specialized_FFN_heads-green) ![](https://img.shields.io/badge/Medusa-blue)
 
 ### Applications
 
@@ -136,6 +140,10 @@ This is a paper list about **Speculative Decoding**.
 - **Accelerating Retrieval-augmented Language Model Serving with Speculation**
 
   *ICLR 2024 Conference Submission.* [[pdf](https://openreview.net/forum?id=vkzPuZJ80a)], 2023.10. ![](https://img.shields.io/badge/ICLR2024--submission-orange) ![](https://img.shields.io/badge/RaLMSpec-blue)
+  
+- **A Simple Framework to Accelerate Multilingual Language Model for Monolingual Text Generation**
+
+  *Jimin Hong, Gibbeum Lee, Jaewoong Cho.* [[pdf](https://arxiv.org/pdf/2401.10660.pdf)], 2024.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Drafter:_specialized_FFN_heads-green)![](https://img.shields.io/badge/MuMo-blue)![](https://img.shields.io/badge/Korean_&_Japanese-lightgray)
 
 ### Analysis
 
