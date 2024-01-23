@@ -28,7 +28,7 @@
 
 This repository contains a regularly updated paper list for **Speculative Decoding**.
 
-[![Arxiv](https://img.shields.io/badge/Arxiv-2401.07851-orange.svg)](https://arxiv.org/abs/2401.07851) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License](https://img.shields.io/badge/License-Apache--2.0-green.svg)](./LICENSE) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/hemingkx/SpeculativeDecodingPapers/main?logo=github&color=blue)
+[![Arxiv](https://img.shields.io/badge/Arxiv-2401.07851-orange.svg)](https://arxiv.org/abs/2401.07851) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](./LICENSE) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/hemingkx/SpeculativeDecodingPapers/main?logo=github&color=blue)
 
 ## Content
 
@@ -83,7 +83,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   
 - **SPEED: Speculative Pipelined Execution for Efficient Decoding**
 
-  *Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Hasan Genc, Kurt Keutzer, Amir Gholami, Sophia Shao*. [[pdf](https://arxiv.org/pdf/2310.12072.pdf)], 2023.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:early--existing-green) ![](https://img.shields.io/badge/SPEED-blue)
+  *Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Hasan Genc, Kurt Keutzer, Amir Gholami, Sophia Shao*. [[pdf](https://arxiv.org/pdf/2310.12072.pdf)], 2023.10. ![](https://img.shields.io/badge/ENLSP_at_NIPS2023-orange) ![](https://img.shields.io/badge/Self--Draft:early--existing-green) ![](https://img.shields.io/badge/SPEED-blue)
 
 ### Speculative Decoding for LLMs
 
@@ -93,7 +93,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 
 - **Accelerating Large Language Model Decoding with Speculative Sampling**
 
-  *Charlie Chen, Sebastian Borgeaud, Geoffrey Irving, Jean-Baptiste Lespiau, Laurent Sifre, John Jumper*. [[pdf](http://arxiv.org/abs/2302.01318)], 2023.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green) ![](https://img.shields.io/badge/SpS-blue)
+  *Charlie Chen, Sebastian Borgeaud, Geoffrey Irving, Jean-Baptiste Lespiau, Laurent Sifre, John Jumper*. [[pdf](http://arxiv.org/abs/2302.01318)], 2023.02. ![](https://img.shields.io/badge/Technical_Report-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green) ![](https://img.shields.io/badge/SpS-blue)
 
 - **SpecInfer: Accelerating Generative LLM Serving with Speculative Inference and Token Tree Verification**
 
@@ -121,7 +121,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   
 - **DistillSpec: Improving Speculative Decoding via Knowledge Distillation**
 
-  *Yongchao Zhou, Kaifeng Lyu, Ankit Singh Rawat, Aditya Krishna Menon, Afshin Rostamizadeh, Sanjiv Kumar, Jean-François Kagy, Rishabh Agarwal.* [[pdf](https://arxiv.org/pdf/2310.08461.pdf)], 2023.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_distilled_small_LM-green) ![](https://img.shields.io/badge/DistillSpec-blue) ![](https://img.shields.io/badge/Distillation_Strategy-lightgray)
+  *Yongchao Zhou, Kaifeng Lyu, Ankit Singh Rawat, Aditya Krishna Menon, Afshin Rostamizadeh, Sanjiv Kumar, Jean-François Kagy, Rishabh Agarwal.* [[pdf](https://arxiv.org/pdf/2310.08461.pdf)], 2023.10. ![](https://img.shields.io/badge/ICLR_2024-orange) ![](https://img.shields.io/badge/Drafter:_distilled_small_LM-green) ![](https://img.shields.io/badge/DistillSpec-blue) ![](https://img.shields.io/badge/Distillation_Strategy-lightgray)
   
 - **REST: Retrieval-Based Speculative Decoding**
 
@@ -145,7 +145,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   
 - **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**
 
-  *Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao.* [[pdf](https://arxiv.org/pdf/2401.10774.pdf)], 2024.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Drafter:_specialized_FFN_heads-green) ![](https://img.shields.io/badge/Medusa-blue)
+  *Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao.* [[pdf](https://arxiv.org/pdf/2401.10774.pdf)], 2024.01. ![](https://img.shields.io/badge/Technical_Report-orange)![](https://img.shields.io/badge/Drafter:_specialized_FFN_heads-green) ![](https://img.shields.io/badge/Medusa-blue)
 
 ### Applications
 
@@ -163,7 +163,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   
 - **Accelerating Retrieval-augmented Language Model Serving with Speculation**
 
-  *ICLR 2024 Conference Submission.* [[pdf](https://openreview.net/forum?id=vkzPuZJ80a)], 2023.10. ![](https://img.shields.io/badge/ICLR2024--submission-orange) ![](https://img.shields.io/badge/RaLMSpec-blue)
+  *ICLR 2024 Conference Submission.* [[pdf](https://openreview.net/forum?id=vkzPuZJ80a)], 2023.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RaLMSpec-blue)
   
 - **A Simple Framework to Accelerate Multilingual Language Model for Monolingual Text Generation**
 
