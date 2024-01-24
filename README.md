@@ -133,7 +133,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   
 - **PaSS: Parallel Speculative Sampling**
 
-  *Giovanni Monea, Armand Joulin, Edouard Grave.* [[pdf](https://arxiv.org/pdf/2311.13581.pdf)], 2023.11. ![](https://img.shields.io/badge/ENLSP_at_NIPS2023-orange) ![](https://img.shields.io/badge/Self--Draft:mask--predict-green) ![](https://img.shields.io/badge/PaSS-blue)
+  *Giovanni Monea, Armand Joulin, Edouard Grave.* [[pdf](https://arxiv.org/pdf/2311.13581.pdf)], 2023.11. ![](https://img.shields.io/badge/ENLSP_at_NIPS2023-orange) ![](https://img.shields.io/badge/Self--Draft:prompt--tuning-green) ![](https://img.shields.io/badge/PaSS-blue)
 
 - **Cascade Speculative Drafting for Even Faster LLM Inference**
 
@@ -146,6 +146,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**
 
   *Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao.* [[pdf](https://arxiv.org/pdf/2401.10774.pdf)], 2024.01. ![](https://img.shields.io/badge/Technical_Report-orange)![](https://img.shields.io/badge/Drafter:_specialized_FFN_heads-green) ![](https://img.shields.io/badge/Medusa-blue)
+  
+- **BiTA: Bi-Directional Tuning for Lossless Acceleration in Large Language Models**
+
+  *Feng Lin, Hanling Yi, Hongbin Li, Yifan Yang, Xiaotian Yu, Guangming Lu, Rong Xiao*. [[pdf](https://arxiv.org/pdf/2401.10774.pdf)], 2024.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Self--Draft:prompt--tuning-green) ![](https://img.shields.io/badge/BiTA-blue)
 
 ### Applications
 
