@@ -140,8 +140,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **LLMCad: Fast and Scalable On-device Large Language Model Inference**  
   *Daliang Xu, Wangsong Yin, Xin Jin, Ying Zhang, Shiyun Wei, Mengwei Xu, Xuanzhe Liu.* [[pdf](https://arxiv.org/pdf/2309.04255.pdf)], 2023.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LLMCad-blue)
   
-- **Accelerating Retrieval-augmented Language Model Serving with Speculation**  
-  *ICLR 2024 Conference Submission.* [[pdf](https://openreview.net/forum?id=vkzPuZJ80a)], 2023.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RaLMSpec-blue)
+- **Accelerating Retrieval-Augmented Language Model Serving with Speculation**  
+  *Zhihao Zhang, Alan Zhu, Lijie Yang, Yihua Xu, Lanting Li, Phitchaya Mangpo Phothilimthana, Zhihao Jia.* [[pdf](https://arxiv.org/pdf/2401.14021.pdf)], 2023.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RaLMSpec-blue)
   
 - **A Simple Framework to Accelerate Multilingual Language Model for Monolingual Text Generation**  
   *Jimin Hong, Gibbeum Lee, Jaewoong Cho.* [[pdf](https://arxiv.org/pdf/2401.10660.pdf)], 2024.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Drafter:_specialized_FFN_heads-green)![](https://img.shields.io/badge/MuMo-blue)![](https://img.shields.io/badge/Korean_&_Japanese-lightgray)
