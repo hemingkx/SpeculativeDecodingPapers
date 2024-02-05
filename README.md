@@ -156,6 +156,9 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 
 - **The Synergy of Speculative Decoding and Batching in Serving Large Language Models**  
   *Qidong Su, Christina Giannoula, Gennady Pekhimenko.* [[pdf](https://arxiv.org/pdf/2310.18813.pdf)], 2023.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Optimal_Speculation_Length_in_Batching-lightgray)
+  
+- **Decoding Speculative Decoding**  
+  *Minghao Yan, Saurabh Agarwal, Shivaram Venkataraman.* [[pdf](https://arxiv.org/pdf/2402.01528.pdf)], 2024.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter_Selection_to_Maximize_Throughput-lightgray)
 
 ## Blog & Project
 
