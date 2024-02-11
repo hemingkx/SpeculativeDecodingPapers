@@ -24,6 +24,7 @@
 <sup>3</sup>Microsoft Research Asia <sup>4</sup>Alibaba Group
 </div>
 
+
 ![timeline](./assets/timeline.png)
 
 This repository contains a regularly updated paper list for **Speculative Decoding**.
