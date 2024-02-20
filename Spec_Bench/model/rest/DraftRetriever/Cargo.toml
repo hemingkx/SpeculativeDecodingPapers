@@ -1,0 +1,43 @@
+[package]
+name = "draftretriever"
+version = "0.1.0"
+authors = ["Zhenyu He <hezhenyu@stu.pku.edu.cn>", "Zexuan Zhong <zzhong@princeton.edu>", "Tianle Cai <tianle.cai@princeton.edu>"]
+edition = "2021"
+description = "Retriver for searching draft tokens for speculative decoding"
+readme = "README.md"
+repository = "https://github.com/zhenyuhe00/DraftRetriever"
+homepage = "https://github.com/zhenyuhe00/DraftRetriever"
+license = "MIT"
+keywords = [
+    "substring",
+    "pattern",
+    "search",
+    "suffix",
+    "array",
+    "rust",
+    "pyo3"
+]
+
+
+[lib]
+name = "draftretriever"
+crate-type = ["cdylib"]
+
+[dependencies]
+ahash = "0.7"
+bstr = "0.2"
+byteorder = "1"
+memchr = "2"
+parking_lot = "0.12"
+rayon = "1"
+
+[dependencies.pyo3]
+version = "0.17.0"
+features = ["extension-module"]
+
+[build-dependencies]
+cc = { version = "1.0", features = ["parallel"] }
+
+[profile.release]
+lto = true
+panic = "abort"
