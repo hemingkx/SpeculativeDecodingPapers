@@ -38,6 +38,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   - [Speculative Decoding for Seq2Seq](#speculative-decoding-for-seq2seq)
   - [Speculative Decoding for LLMs](#speculative-decoding-for-llms)
   - [Applications](#applications)
+  - [Benchmarks](#benchmarks)
   - [Analysis](#analysis)
 - [Blogs](#blogs)
 - [Contribution](#contribution)
@@ -157,6 +158,11 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   
 - **A Simple Framework to Accelerate Multilingual Language Model for Monolingual Text Generation**  
   *Jimin Hong, Gibbeum Lee, Jaewoong Cho.* [[pdf](https://arxiv.org/pdf/2401.10660.pdf)], 2024.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_specialized_FFN_heads-green) ![](https://img.shields.io/badge/MuMo-blue)![](https://img.shields.io/badge/Korean_&_Japanese-lightgray)
+
+### Benchmarks
+
+- **Spec-Bench: A Comprehensive Benchmark for Speculative Decoding**  
+  *Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, Tao Ge, Tianyu Liu, Wenjie Li, Zhifang Sui.* [[pdf](https://arxiv.org/pdf/2401.07851.pdf)], [[code](https://github.com/hemingkx/Spec-Bench)], 2024.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Spec--Bench-blue)
 
 ### Analysis
 
