@@ -162,6 +162,15 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   
 - **Chimera: A Lossless Decoding Method for Accelerating Large Language Models Inference by Fusing all Tokens**  
   *Ziqian Zeng, Jiahong Yu, Qianshi Pang, Zihao Wang, Huiping Zhuang, Cen Chen*. [[pdf](https://arxiv.org/pdf/2402.15758.pdf)], 2024.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_lightweight_draft_model-green) ![](https://img.shields.io/badge/Chimera-blue)
+  
+- **Speculative Decoding via Early-exiting for Faster LLM Inference with Thompson Sampling Control Mechanism**  
+  *Anonymous ACL submission*. [[pdf](https://openreview.net/pdf?id=B3qT4gVHwqY)], 2024.02. ![](https://img.shields.io/badge/ACL2024_submission-orange) ![](https://img.shields.io/badge/EESD-blue) 
+  
+- **Specuna: A Speculative Vicuna with Shallow Layer Reuse**  
+  *Anonymous ACL submission*. [[pdf](https://openreview.net/pdf?id=D1iAiSaLOy)], 2024.02. ![](https://img.shields.io/badge/ACL2024_submission-orange) ![](https://img.shields.io/badge/Specuna-blue)
+
+- **Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration**  
+  *Anonymous ACL submission*. [[pdf](https://openreview.net/pdf?id=eExwTP0Fwv)], 2024.02. ![](https://img.shields.io/badge/ACL2024_submission-orange) ![](https://img.shields.io/badge/Hidden_Transfer-blue)
 
 ### Applications
 
