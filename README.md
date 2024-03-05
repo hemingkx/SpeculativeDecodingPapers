@@ -194,6 +194,9 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   
 - **A Simple Framework to Accelerate Multilingual Language Model for Monolingual Text Generation**  
   *Jimin Hong, Gibbeum Lee, Jaewoong Cho.* [[pdf](https://arxiv.org/pdf/2401.10660.pdf)], 2024.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_specialized_FFN_heads-green) ![](https://img.shields.io/badge/MuMo-blue)![](https://img.shields.io/badge/Korean_&_Japanese-lightgray)
+  
+- **Accelerating Greedy Coordinate Gradient via Probe Sampling**  
+  *Yiran Zhao, Wenyue Zheng, Tianle Cai, Xuan Long Do, Kenji Kawaguchi, Anirudh Goyal, Michael Shieh.* [[pdf](https://arxiv.org/pdf/2403.01251.pdf)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green) ![](https://img.shields.io/badge/Greedy_Coordinate_Gradient-lightgray)
 
 ### Benchmarks
 
