@@ -37,6 +37,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   - [Survey](#survey)
   - [Speculative Decoding for Seq2Seq](#speculative-decoding-for-seq2seq)
   - [Speculative Decoding for LLMs](#speculative-decoding-for-llms)
+  - [Alignment](#alignment)
   - [Applications](#applications)
   - [Benchmarks](#benchmarks)
   - [Analysis](#analysis)
