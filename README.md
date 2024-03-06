@@ -178,6 +178,11 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **CLLMs: Consistency Large Language Models**  
   *Siqi Kou, Lanxiang Hu, Zhezhi He, Zhijie Deng, Hao Zhang*. [[pdf](https://arxiv.org/pdf/2403.00835.pdf)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft-green) ![](https://img.shields.io/badge/CLLM-blue)
 
+### Alignment
+
+- **Direct Alignment of Draft Model for Speculative Decoding with Chat-Fine-Tuned LLMs**  
+  *Raghavv Goel, Mukul Gagrani, Wonseok Jeon, Junyoung Park, Mingu Lee, Christopher Lott.* [[pdf](https://arxiv.org/pdf/2403.00858.pdf)], 2024.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter_Alignment-lightgray)
+
 ### Applications
 
 - **Instantaneous Grammatical Error Correction with Shallow Aggressive Decoding**  
