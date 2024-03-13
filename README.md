@@ -41,7 +41,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   - [Applications](#applications)
   - [Benchmarks](#benchmarks)
   - [Analysis](#analysis)
-- [Blogs](#blogs)
+- [Blogs](#blog-&-project)
 - [Contribution](#contribution)
   - [Contributors](#contributors)
   - [Contributing to this paper list](#contributing-to-this-paper-list)
