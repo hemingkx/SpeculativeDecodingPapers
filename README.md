@@ -181,6 +181,12 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   
 - **CLLMs: Consistency Large Language Models**  
   *Siqi Kou, Lanxiang Hu, Zhezhi He, Zhijie Deng, Hao Zhang*. [[pdf](https://arxiv.org/pdf/2403.00835.pdf)], [[code](https://github.com/hao-ai-lab/Consistency_LLM)], [[blog](https://hao-ai-lab.github.io/blogs/cllm/)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_training_with_jacobi_trajectories-green) ![](https://img.shields.io/badge/CLLM-blue)
+  
+- **Recurrent Drafter for Fast Speculative Decoding in Large Language Models**  
+  *Aonan Zhang, Chong Wang, Yi Wang, Xuanyu Zhang, Yunfei Cheng*. [[pdf](https://arxiv.org/pdf/2403.09919.pdf)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_recurrent_drafter-green) ![](https://img.shields.io/badge/ReDrafter-blue)
+
+- **Optimal Block-Level Draft Verification for Accelerating Speculative Decoding**  
+  *Ziteng Sun, Jae Hun Ro, Ahmad Beirami, Ananda Theertha Suresh*. [[pdf](https://arxiv.org/pdf/2403.10444.pdf)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Block--Level_Draft_Verification-lightgray)
 
 ### Alignment
 
