@@ -194,8 +194,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Optimal Block-Level Draft Verification for Accelerating Speculative Decoding**  
   *Ziteng Sun, Jae Hun Ro, Ahmad Beirami, Ananda Theertha Suresh*. [[pdf](https://arxiv.org/pdf/2403.10444.pdf)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Block--Level_Draft_Verification-lightgray)
   
-- **SDSAT: Accelerating LLM Inference through Speculative Decoding with Semantic Adaptive Tokens**
-
+- **SDSAT: Accelerating LLM Inference through Speculative Decoding with Semantic Adaptive Tokens**  
   *Chengbo Liu, Yong Zhu*. [[pdf](https://arxiv.org/pdf/2403.18647.pdf)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_semantic_adaptive_tokens-green) ![](https://img.shields.io/badge/SDSAT-blue)
 
 ### Alignment
