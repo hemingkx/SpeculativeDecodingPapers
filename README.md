@@ -37,6 +37,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   - [Survey](#survey)
   - [Speculative Decoding for Seq2Seq](#speculative-decoding-for-seq2seq)
   - [Speculative Decoding for LLMs](#speculative-decoding-for-llms)
+  - [Multimodal Speculative Decoding](#multimodal-speculative-decoding)
   - [Alignment](#alignment)
   - [Applications](#applications)
   - [Benchmarks](#benchmarks)
@@ -196,6 +197,17 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   
 - **SDSAT: Accelerating LLM Inference through Speculative Decoding with Semantic Adaptive Tokens**  
   *Chengbo Liu, Yong Zhu*. [[pdf](https://arxiv.org/pdf/2403.18647.pdf)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_semantic_adaptive_tokens-green) ![](https://img.shields.io/badge/SDSAT-blue)
+  
+- **Lossless Acceleration of Large Language Model via Adaptive N-gram Parallel Decoding**  
+  *Jie Ou, Yueming Chen, Wenhong Tian*. [[pdf](https://arxiv.org/pdf/2404.08698.pdf)], 2024.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_N--gram_model-green) ![](https://img.shields.io/badge/ANPD-blue)
+  
+- **Towards Fast Inference: Exploring and Improving Blockwise Parallel Drafts**  
+  *Taehyeon Kim, Ananda Theertha Suresh, Kishore Papineni, Michael Riley, Sanjiv Kumar, Adrian Benton*. [[pdf](https://arxiv.org/pdf/2404.09221.pdf)], 2024.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_specialized_FFN_heads-green)
+
+### Multimodal Speculative Decoding
+
+- **On Speculative Decoding for Multimodal Large Language Models**  
+  *Mukul Gagrani, Raghavv Goel, Wonseok Jeon, Junyoung Park, Mingu Lee, Christopher Lott*. [[pdf](https://arxiv.org/pdf/2404.08856.pdf)], 2024.04. ![](https://img.shields.io/badge/ELVM_at_CVPR2024-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green)
 
 ### Alignment
 
