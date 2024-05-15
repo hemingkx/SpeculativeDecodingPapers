@@ -186,6 +186,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Bin Xiao, Chunan Shi, Xiaonan Nie, Fan Yang, Xiangwei Deng, Lei Su, Weipeng Chen, Bin Cui*. [[pdf](https://arxiv.org/pdf/2405.00263)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_auto--regressive_attention_block-green) ![](https://img.shields.io/badge/Clover-blue)
 - **Accelerating Speculative Decoding using Dynamic Speculation Length**  
   *Jonathan Mamou, Oren Pereg, Daniel Korat, Moshe Berchansky, Nadav Timor, Moshe Wasserblat, Roy Schwartz*. [[pdf](https://arxiv.org/pdf/2405.04304)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DISCO-blue)
+- **EMS-SD: Efficient Multi-sample Speculative Decoding for Accelerating Large Language Models**  
+  *Yunsheng Ni, Chuanjian Liu, Yehui Tang, Kai Han, Yunhe Wang*. [[pdf](https://arxiv.org/pdf/2405.07542)], [[code](https://github.com/niyunsheng/EMS-SD)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Batched_Speculative_Decoding-lightgray) ![](https://img.shields.io/badge/EMS--SD-blue)
 
 ### Multimodal Speculative Decoding
 
