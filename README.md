@@ -231,6 +231,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   
 - **Decoding Speculative Decoding**  
   *Minghao Yan, Saurabh Agarwal, Shivaram Venkataraman.* [[pdf](https://arxiv.org/pdf/2402.01528.pdf)], 2024.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter_Selection_to_Maximize_Throughput-lightgray)
+  
+- **How Speculative Can Speculative Decoding Be?**  
+  *Zhuorui Liu, Chen Zhang, Dawei Song.* [[pdf](https://aclanthology.org/2024.lrec-main.725.pdf)], [[code](https://github.com/ZhuoruiLiu12/SpecGame)], 2024.05. ![](https://img.shields.io/badge/COLING2024-orange) ![](https://img.shields.io/badge/Drafter_Scale_&_Draft_Length-lightgray)
+  
 
 ## Blog & Project
 
