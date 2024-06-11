@@ -168,7 +168,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Chengbo Liu, Yong Zhu*. [[pdf](https://arxiv.org/pdf/2403.18647.pdf)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_semantic_adaptive_tokens-green) ![](https://img.shields.io/badge/SDSAT-blue)
 - **Lossless Acceleration of Large Language Model via Adaptive N-gram Parallel Decoding**  
   *Jie Ou, Yueming Chen, Wenhong Tian*. [[pdf](https://arxiv.org/pdf/2404.08698.pdf)], 2024.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_N--gram_model-green) ![](https://img.shields.io/badge/ANPD-blue)
-- **Towards Fast Inference: Exploring and Improving Blockwise Parallel Drafts**  
+- **Exploring and Improving Drafts in Blockwise Parallel Decoding**  
   *Taehyeon Kim, Ananda Theertha Suresh, Kishore Papineni, Michael Riley, Sanjiv Kumar, Adrian Benton*. [[pdf](https://arxiv.org/pdf/2404.09221.pdf)], 2024.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_specialized_FFN_heads-green)
 - **Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration**  
   *Pengfei Wu, Jiahao Liu, Zhuocheng Gong, Qifan Wang, Jinpeng Li, Jingang Wang, Xunliang Cai, Dongyan Zhao*. [[pdf](https://arxiv.org/pdf/2404.12022.pdf)], 2024.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_hidden_transfer-green)
