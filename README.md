@@ -253,6 +253,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 
 **Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads.** Princeton, UIUC. 2023.09. [[Blog](https://sites.google.com/view/medusa-llm)] [[Code](https://github.com/FasterDecoding/Medusa)]
 
+**An Optimal Lossy Variant of Speculative Decoding.** Unsupervised Thoughts (blog). 2023.09. [[Blog](https://vivien000.github.io/blog/journal/a-provably-optimal-lossy-variant-of-speculative-decoding.html)][[Code](https://github.com/vivien000/mentored_decoding)]
+
 **Break the Sequential Dependency of LLM Inference Using Lookahead Decoding.** LMSys. 2023.11. [[Blog](https://lmsys.org/blog/2023-11-21-lookahead-decoding/)] [[Code](https://github.com/hao-ai-lab/LookaheadDecoding)]
 
 **Accelerating Generative AI with PyTorch II: GPT, Fast.** Pytorch. 2023.11. [[Blog](https://pytorch.org/blog/accelerating-generative-ai-2/)] [[Code](https://github.com/pytorch-labs/gpt-fast/blob/main/generate.py#L76)]
