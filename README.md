@@ -64,7 +64,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 ### Survey
 
 - **Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding**  
-  *Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, Tao Ge, Tianyu Liu, Wenjie Li, Zhifang Sui.* [[pdf](https://arxiv.org/pdf/2401.07851.pdf)], [[code](https://github.com/hemingkx/SpeculativeDecodingPapers)], 2024.01. ![](https://img.shields.io/badge/ACL2024--findings-orange) ![](https://img.shields.io/badge/Survey_on_Speculative_Decoding-lightgray)
+  *Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, Tao Ge, Tianyu Liu, Wenjie Li, Zhifang Sui.* [[pdf](https://arxiv.org/pdf/2401.07851.pdf)], [[code](https://github.com/hemingkx/Spec-Bench)], 2024.01. ![](https://img.shields.io/badge/ACL2024--findings-orange) ![](https://img.shields.io/badge/Survey_on_Speculative_Decoding-lightgray)
 - **Beyond the Speculative Game: A Survey of Speculative Execution in Large Language Models**  
   *Chen Zhang, Zhuorui Liu, Dawei Song.* [[pdf](https://arxiv.org/pdf/2404.14897.pdf)], 2024.04. ![](https://img.shields.io/badge/Arxiv-orange)
 
