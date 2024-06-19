@@ -246,6 +246,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   
 - **How Speculative Can Speculative Decoding Be?**  
   *Zhuorui Liu, Chen Zhang, Dawei Song.* [[pdf](https://aclanthology.org/2024.lrec-main.725.pdf)], [[code](https://github.com/ZhuoruiLiu12/SpecGame)], 2024.05. ![](https://img.shields.io/badge/COLING2024-orange) ![](https://img.shields.io/badge/Drafter_Scale_&_Draft_Length-lightgray)
+  
+- **Fast and Slow Generating: An Empirical Study on Large and Small Language Models Collaborative Decoding**  
+  *Kaiyan Zhang, Jianyu Wang, Ning Ding, Biqing Qi, Ermo Hua, Xingtai Lv, Bowen Zhou.* [[pdf](https://arxiv.org/pdf/2406.12295)], [[code](https://github.com/TsinghuaC3I/FS-GEN)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange)
+
 
 ## Blog & Project
 
