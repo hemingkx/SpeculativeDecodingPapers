@@ -198,6 +198,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Wei Zhong, Manasa Bharadwaj*. [[pdf](https://arxiv.org/pdf/2405.20314)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_layer--skipping_&_mask--predict-green) ![](https://img.shields.io/badge/S3D-blue)
 - **SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths**  
   *Kaixuan Huang, Xudong Guo, Mengdi Wang*. [[pdf](https://arxiv.org/pdf/2405.19715)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Adaptive_Candidate_Lengths-lightgray) ![](https://img.shields.io/badge/SpecDec++-blue)
+- **Accelerated Speculative Sampling Based on Tree Monte Carlo**  
+  *Zhengmian Hu, Heng Huang*. [[pdf](https://openreview.net/pdf?id=stMhi1Sn2G)], 2024.05. ![](https://img.shields.io/badge/ICML2024-orange) ![](https://img.shields.io/badge/Tree_Monte_Carlo-lightgray) ![](https://img.shields.io/badge/ASpS-blue)
 - **SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices**  
   *Ruslan Svirschevski, Avner May, Zhuoming Chen, Beidi Chen, Zhihao Jia, Max Ryabinin*. [[pdf](https://arxiv.org/pdf/2406.02532)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecExec-blue)
 - **Amphista: Accelerate LLM Inference with Bi-directional Multiple Drafting Heads in a Non-autoregressive Style**  
