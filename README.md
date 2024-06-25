@@ -206,6 +206,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Zeping Li, Xinlong Yang, Ziheng Gao, Ji Liu, Zhuang Liu, Dong Li, Jinzhang Peng, Lu Tian, Emad Barsoum*. [[pdf](https://arxiv.org/pdf/2406.13170)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_Auto--embedding_Block-green) ![](https://img.shields.io/badge/Amphista-blue)
 - **Optimizing Speculative Decoding for Serving Large Language Models Using Goodput**  
   *Xiaoxuan Liu, Cade Daniel, Langxiang Hu, Woosuk Kwon, Zhuohan Li, Xiangxi Mo, Alvin Cheung, Zhijie Deng, Ion Stoica, Hao Zhang*. [[pdf](https://arxiv.org/pdf/2406.14066)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green) ![](https://img.shields.io/badge/Continuous_Batching-lightgray) ![](https://img.shields.io/badge/SmartSpec-blue)
+- **EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**  
+  *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*. [[pdf](https://arxiv.org/pdf/2406.16858)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_auto--regression_heads-green) ![](https://img.shields.io/badge/Dynamic_Draft_Trees-lightgray) ![](https://img.shields.io/badge/EAGLE--2-blue)
 
 ### Multimodal Speculative Decoding
 
@@ -243,6 +245,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Yiran Zhao, Wenyue Zheng, Tianle Cai, Xuan Long Do, Kenji Kawaguchi, Anirudh Goyal, Michael Shieh.* [[pdf](https://arxiv.org/pdf/2403.01251.pdf)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green) ![](https://img.shields.io/badge/Greedy_Coordinate_Gradient-lightgray)
 - **Optimized Speculative Sampling for GPU Hardware Accelerators**  
   *Dominik Wagner, Seanie Lee, Ilja Baumann, Philipp Seeberger, Korbinian Riedhammer, Tobias Bocklet.* [[pdf](https://arxiv.org/pdf/2406.11016)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green)
+- **Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**  
+  *Euiin Yi, Taehyeon Kim, Hongseok Jeung, Du-Seong Chang, Se-Young Yun*. [[pdf](https://arxiv.org/pdf/2406.16758)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Multilingual-lightgray)
 
 ### Analysis
 
