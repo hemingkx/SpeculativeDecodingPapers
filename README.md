@@ -212,6 +212,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Yixuan Wang, Xianzhen Luo, Fuxuan Wei, Yijun Liu, Qingfu Zhu, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che*. [[pdf](https://arxiv.org/pdf/2406.17404)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_jacobi_decoding-green) ![](https://img.shields.io/badge/MSN-blue)
 - **OPT-Tree: Speculative Decoding with Adaptive Draft Tree Structure**  
   *Jikai Wang, Yi Su, Juntao Li, Qinrong Xia, Zi Ye, Xinyu Duan, Zhefeng Wang, Min Zhang*. [[pdf](https://arxiv.org/pdf/2406.17276)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Dynamic_Draft_Trees-lightgray) ![](https://img.shields.io/badge/OPT--Tree-blue)
+- **Cerberus: Efficient Inference with Adaptive Parallel Decoding and Sequential Knowledge Enhancement**  
+  *Anonymous EMNLP submission*. [[pdf](https://openreview.net/attachment?id=kWlUDTGCb9&name=pdf)], 2024.06. ![](https://img.shields.io/badge/EMNLP2024_submission-orange) ![](https://img.shields.io/badge/Cerberus-blue)
+- **SpecHub: Provable Acceleration to Multi-Draft Speculative Decoding**  
+  *Anonymous EMNLP submission*. [[pdf](https://openreview.net/pdf?id=z4zVpx8OLs)], 2024.06. ![](https://img.shields.io/badge/EMNLP2024_submission-orange) ![](https://img.shields.io/badge/SpecHub-blue)
 
 ### Multimodal Speculative Decoding
 
