@@ -154,8 +154,6 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Jiahao Liu, Qifan Wang, Jingang Wang, Xunliang Cai*. [[pdf](https://arxiv.org/pdf/2406.03853)], 2024.02. ![](https://img.shields.io/badge/ACL2024--findings-orange) ![](https://img.shields.io/badge/EESD-blue) 
 - **Specuna: A Speculative Vicuna with Shallow Layer Reuse**  
   *Anonymous ACL submission*. [[pdf](https://openreview.net/pdf?id=D1iAiSaLOy)], 2024.02. ![](https://img.shields.io/badge/ACL2024_submission-orange) ![](https://img.shields.io/badge/Specuna-blue)
-- **Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration**  
-  *Anonymous ACL submission*. [[pdf](https://openreview.net/pdf?id=eExwTP0Fwv)], 2024.02. ![](https://img.shields.io/badge/ACL2024_submission-orange) ![](https://img.shields.io/badge/Hidden_Transfer-blue)
 - **Minions: Accelerating Large Language Model Inference with Adaptive and Collective Speculative Decoding**  
   *Siqi Wang, Hailong Yang, Xuezhu Wang, Tongxuan Liu, Pengbo Wang, Xuning Liang, Kejie Ma, Tianyu Feng, Xin You, Yongjun Bao, Yi Liu, Zhongzhi Luan, Depei Qian*. [[pdf](https://arxiv.org/pdf/2402.15678.pdf)], 2024.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Minions-blue)
 - **CLLMs: Consistency Large Language Models**  
