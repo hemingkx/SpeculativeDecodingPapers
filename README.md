@@ -216,6 +216,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Anonymous EMNLP submission*. [[pdf](https://openreview.net/pdf?id=z4zVpx8OLs)], 2024.06. ![](https://img.shields.io/badge/EMNLP2024_submission-orange) ![](https://img.shields.io/badge/SpecHub-blue)
 - **S2D: Sorted Speculative Decoding For More Efficient Deployment of Nested Large Language Models**  
   *Parsa Kavehzadeh, Mohammadreza Pourreza, Mojtaba Valipour, Tinashu Zhu, Haoli Bai, Ali Ghodsi, Boxing Chen, Mehdi Rezagholizadeh*. [[pdf](https://arxiv.org/pdf/2407.01955)], 2024.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/S2D-blue)
+- **Multi-Token Joint Speculative Decoding for Accelerating Large Language Model Inference**  
+  *Zongyue Qin, Ziniu Hu, Zifan He, Neha Prakriya, Jason Cong, Yizhou Sun*. [[pdf](https://arxiv.org/pdf/2407.09722)], 2024.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MJSD-blue)
 
 ### Multimodal Speculative Decoding
 
