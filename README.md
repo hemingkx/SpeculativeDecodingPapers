@@ -222,6 +222,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Branden Butler, Sixing Yu, Arya Mazaheri, Ali Jannesari*. [[pdf](https://arxiv.org/pdf/2407.11798)], 2024.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PipeInfer-blue)
 - **Adaptive Draft-Verification for Efficient Large Language Model Decoding**  
   *Xukun Liu, Bowen Lei, Ruqi Zhang, Dongkuan Xu*. [[pdf](https://arxiv.org/pdf/2407.12021)], 2024.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ADED-blue)
+- **Graph-Structured Speculative Decoding**  
+  *Zhuocheng Gong, Jiahao Liu, Ziyue Wang, Pengfei Wu, Jingang Wang, Xunliang Cai, Dongyan Zhao, Rui Yan*. [[pdf](https://arxiv.org/pdf/2407.16207)], 2024.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/GSD-blue)
 
 ### Multimodal Speculative Decoding
 
