@@ -224,6 +224,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Xukun Liu, Bowen Lei, Ruqi Zhang, Dongkuan Xu*. [[pdf](https://arxiv.org/pdf/2407.12021)], 2024.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ADED-blue)
 - **Graph-Structured Speculative Decoding**  
   *Zhuocheng Gong, Jiahao Liu, Ziyue Wang, Pengfei Wu, Jingang Wang, Xunliang Cai, Dongyan Zhao, Rui Yan*. [[pdf](https://arxiv.org/pdf/2407.16207)], 2024.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/GSD-blue)
+- **Inference acceleration for large language models using "stairs" assisted greedy generation**  
+  *Domas Grigaliūnas, Mantas Lukoševičius*. [[pdf](https://arxiv.org/pdf/2407.19947)], 2024.07. ![](https://img.shields.io/badge/IVUS2024-orange) 
 
 ### Multimodal Speculative Decoding
 
