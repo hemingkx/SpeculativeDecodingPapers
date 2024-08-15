@@ -64,7 +64,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 ### Survey
 
 - **Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding**  
-  *Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, Tao Ge, Tianyu Liu, Wenjie Li, Zhifang Sui.* [[pdf](https://arxiv.org/pdf/2401.07851.pdf)], [[code](https://github.com/hemingkx/Spec-Bench)], 2024.01. ![](https://img.shields.io/badge/ACL2024--findings-orange) ![](https://img.shields.io/badge/Survey_on_Speculative_Decoding-lightgray)
+  *Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, Tao Ge, Tianyu Liu, Wenjie Li, Zhifang Sui.* [[pdf](https://aclanthology.org/2024.findings-acl.456.pdf)], [[code](https://github.com/hemingkx/Spec-Bench)], 2024.01. ![](https://img.shields.io/badge/ACL2024--findings-orange) ![](https://img.shields.io/badge/Survey_on_Speculative_Decoding-lightgray)
 - **Beyond the Speculative Game: A Survey of Speculative Execution in Large Language Models**  
   *Chen Zhang, Zhuorui Liu, Dawei Song.* [[pdf](https://arxiv.org/pdf/2404.14897.pdf)], 2024.04. ![](https://img.shields.io/badge/Arxiv-orange)
 
@@ -113,7 +113,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **REST: Retrieval-Based Speculative Decoding**  
   *Zhenyu He, Zexuan Zhong, Tianle Cai, Jason D Lee, Di He.* [[pdf](https://arxiv.org/pdf/2311.08252.pdf)], [[code](https://github.com/FasterDecoding/REST)], 2023.11. ![](https://img.shields.io/badge/NAACL2024-orange) ![](https://img.shields.io/badge/Draft:_retrieved_Docs-green) ![](https://img.shields.io/badge/REST-blue)
 - **Speculative Contrastive Decoding**  
-  *Hongyi Yuan, Keming Lu, Fei Huang, Zheng Yuan, Chang Zhou.* [[pdf](https://arxiv.org/pdf/2311.08981.pdf)], 2023.11. ![](https://img.shields.io/badge/ACL2024-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green) ![](https://img.shields.io/badge/SCD-blue)
+  *Hongyi Yuan, Keming Lu, Fei Huang, Zheng Yuan, Chang Zhou.* [[pdf](https://aclanthology.org/2024.acl-short.5.pdf)], 2023.11. ![](https://img.shields.io/badge/ACL2024-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green) ![](https://img.shields.io/badge/SCD-blue)
 - **PaSS: Parallel Speculative Sampling**  
   *Giovanni Monea, Armand Joulin, Edouard Grave.* [[pdf](https://arxiv.org/pdf/2311.13581.pdf)], 2023.11. ![](https://img.shields.io/badge/ENLSP_at_NIPS2023-orange) ![](https://img.shields.io/badge/Self--Draft:_prompt--tuning-green) ![](https://img.shields.io/badge/PaSS-blue)
 - **Cascade Speculative Drafting for Even Faster LLM Inference**  
@@ -229,6 +229,13 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 
 - **Clover-2: Accurate Inference for Regressive Lightweight Speculative Decoding**  
   *Bin Xiao, Lujun Gui, Lei Su, Weipeng Chen*. [[pdf](https://arxiv.org/pdf/2408.00264)], [[code](https://github.com/XiaoBin1992/clover)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Self--Draft:_auto--regressive_attention_block-green) ![](https://img.shields.io/badge/Clover--2-blue)
+  
+- **CREST: Effectively Compacting a Datastore For Retrieval-Based Speculative Decoding**  
+  *Sophia Ho, Jinsol Park, Patrick Wang*. [[pdf](https://arxiv.org/pdf/2408.04678)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Draft:_retrieved_Docs-green) ![](https://img.shields.io/badge/CREST-blue)
+  
+- **Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion**  
+  *Jacob K Christopher, Brian R Bartoldson, Bhavya Kailkhura, Ferdinando Fioretto*. [[pdf](https://arxiv.org/pdf/2408.05636)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Drafter:_discrete_diffusion_models-green) ![](https://img.shields.io/badge/SpecDiff-blue)
+  
 
 ### Multimodal Speculative Decoding
 
@@ -272,6 +279,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Zhenglin Wang, Jialong Wu, Yilong Lai, Congzhi Zhang, Deyu Zhou.* [[pdf](https://arxiv.org/pdf/2406.18200)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green) ![](https://img.shields.io/badge/SEED-blue)
 - **Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting**  
   *Zilong Wang, Zifeng Wang, Long Le, Huaixiu Steven Zheng, Swaroop Mishra, Vincent Perot, Yuwei Zhang, Anush Mattapalli, Ankur Taly, Jingbo Shang, Chen-Yu Lee, Tomas Pfister.* [[pdf](https://arxiv.org/pdf/2407.08223)], 2024.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Speculative_RAG-blue)
+- **A Decoding Acceleration Framework for Industrial Deployable LLM-based Recommender Systems**  
+  *Yunjia Xi, Hangyu Wang, Bo Chen, Jianghao Lin, Menghui Zhu, Weiwen Liu, Ruiming Tang, Weinan Zhang, Yong Yu.* [[pdf](https://arxiv.org/pdf/2408.05676)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DARE-blue)
 
 ### Analysis
 
