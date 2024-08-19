@@ -165,7 +165,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **SDSAT: Accelerating LLM Inference through Speculative Decoding with Semantic Adaptive Tokens**  
   *Chengbo Liu, Yong Zhu*. [[pdf](https://arxiv.org/pdf/2403.18647.pdf)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_semantic_adaptive_tokens-green) ![](https://img.shields.io/badge/SDSAT-blue)
 - **Lossless Acceleration of Large Language Model via Adaptive N-gram Parallel Decoding**  
-  *Jie Ou, Yueming Chen, Wenhong Tian*. [[pdf](https://arxiv.org/pdf/2404.08698.pdf)], 2024.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_N--gram_model-green) ![](https://img.shields.io/badge/ANPD-blue)
+  *Jie Ou, Yueming Chen, Wenhong Tian*. [[pdf](https://aclanthology.org/2024.naacl-industry.2.pdf)], 2024.04. ![](https://img.shields.io/badge/NAACL2024--industry-orange) ![](https://img.shields.io/badge/Drafter:_N--gram_model-green) ![](https://img.shields.io/badge/ANPD-blue)
 - **Exploring and Improving Drafts in Blockwise Parallel Decoding**  
   *Taehyeon Kim, Ananda Theertha Suresh, Kishore Papineni, Michael Riley, Sanjiv Kumar, Adrian Benton*. [[pdf](https://arxiv.org/pdf/2404.09221.pdf)], 2024.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_specialized_FFN_heads-green)
 - **Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration**  
@@ -238,6 +238,9 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   
 - **KOALA: Enhancing Speculative Decoding for LLM via Multi-Layer Draft Heads with Adversarial Learning**  
   *Kaiqi Zhang, Jing Zhao, Rui Chen*. [[pdf](https://arxiv.org/pdf/2408.08146)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Self--Draft:_multi--layer_draft_heads-green)![](https://img.shields.io/badge/Adversarial_Learning-lightgray) ![](https://img.shields.io/badge/KOALA-blue)
+  
+- **Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling**  
+  *Xianzhen Luo, Yixuan Wang, Qingfu Zhu, Zhiming Zhang, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che*. [[pdf](https://arxiv.org/pdf/2408.08696)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Draft:_retrieved_tokens-green) ![](https://img.shields.io/badge/Token_Recycling-blue)
   
 
 ### Multimodal Speculative Decoding
