@@ -252,6 +252,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 
 - **TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding**  
   *Hanshi Sun, Zhuoming Chen, Xinyu Yang, Yuandong Tian, Beidi Chen*. [[pdf](https://arxiv.org/pdf/2404.11912.pdf)], [[code](https://github.com/Infini-AI-Lab/TriForce)], 2024.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_retrieval--based_drafting_&_hierarchical_speculation-green) ![](https://img.shields.io/badge/TriForce-blue)
+- **MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**  
+  *Jian Chen, Vashisth Tiwari, Ranajoy Sadhukhan, Zhuoming Chen, Jinyuan Shi, Ian En-Hsu Yen, Beidi Chen*. [[pdf](https://arxiv.org/pdf/2408.11049)], [[code](https://github.com/Infini-AI-Lab/MagicDec/)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MagicDec-blue)
 
 ### Alignment
 
