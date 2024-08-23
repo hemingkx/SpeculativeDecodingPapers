@@ -242,6 +242,9 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling**  
   *Xianzhen Luo, Yixuan Wang, Qingfu Zhu, Zhiming Zhang, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che*. [[pdf](https://arxiv.org/pdf/2408.08696)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Draft:_retrieved_tokens-green) ![](https://img.shields.io/badge/Token_Recycling-blue)
   
+- **Parallel Speculative Decoding with Adaptive Draft Length**  
+  *Tianyu Liu, Yun Li, Qitan Lv, Kai Liu, Jianchen Zhu, Winston Hu*. [[pdf](https://arxiv.org/pdf/2408.11850)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PEARL-blue)
+  
 
 ### Multimodal Speculative Decoding
 
