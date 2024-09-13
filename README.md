@@ -244,6 +244,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Lefan Zhang, Xiaodan Wang, Yanhua Huang, Ruiwen Xu*. [[pdf](https://arxiv.org/pdf/2408.15766)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HASS-blue)
 - **Dynamic Depth Decoding: Faster Speculative Decoding for LLMs**  
   *Oscar Brown, Zhengjie Wang, Andrea Do, Nikhil Mathew, Cheng Yu*. [[pdf](https://arxiv.org/pdf/2409.00142)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DDD-blue)
+- **The Mamba in the Llama: Distilling and Accelerating Hybrid Models**  
+  *Junxiong Wang, Daniele Paliotta, Avner May, Alexander M. Rush, Tri Dao*. [[pdf](https://arxiv.org/pdf/2408.15237)], [[code](https://github.com/jxiw/MambaInLlama)], 2024.08. ![](https://img.shields.io/badge/ES--FoMo--II_2024-orange) ![](https://img.shields.io/badge/Mamba--Llama-blue)
 
 ### Multimodal Speculative Decoding
 
@@ -291,6 +293,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Zilong Wang, Zifeng Wang, Long Le, Huaixiu Steven Zheng, Swaroop Mishra, Vincent Perot, Yuwei Zhang, Anush Mattapalli, Ankur Taly, Jingbo Shang, Chen-Yu Lee, Tomas Pfister.* [[pdf](https://arxiv.org/pdf/2407.08223)], 2024.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Speculative_RAG-blue)
 - **A Decoding Acceleration Framework for Industrial Deployable LLM-based Recommender Systems**  
   *Yunjia Xi, Hangyu Wang, Bo Chen, Jianghao Lin, Menghui Zhu, Weiwen Liu, Ruiming Tang, Weinan Zhang, Yong Yu.* [[pdf](https://arxiv.org/pdf/2408.05676)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DARE-blue)
+- **Faster Speech-LLaMA Inference with Multi-token Prediction**  
+  *Desh Raj, Gil Keren, Junteng Jia, Jay Mahadeokar, Ozlem Kalinli.* [[pdf](https://arxiv.org/pdf/2409.08148)], 2024.09. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
@@ -326,6 +330,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 **EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation.** Vector Institute, University of Waterloo, Peking University. 2023.12. [[Blog](https://sites.google.com/view/eagle-llm)] [[Code](https://github.com/SafeAILab/EAGLE)]
 
 **SEQUOIA: Serving exact Llama2-70B on an RTX4090 with half-second per token latency.** Carnegie Mellon University, Together AI, Yandex, Meta AI. 2024.02. [[Blog](https://infini-ai-lab.github.io/Sequoia-Page/)] [[Code](https://github.com/Infini-AI-Lab/Sequoia)]
+
+**The Mamba in the Llama: Distilling and Accelerating Hybrid Models.** Together AI. 2024.09. [[Blog](https://www.together.ai/blog/the-mamba-in-the-llama-distilling-and-accelerating-hybrid-models)] [[Code](https://github.com/jxiw/MambaInLlama)]
 
 ## Contributors
 
