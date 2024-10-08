@@ -117,7 +117,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **PaSS: Parallel Speculative Sampling**  
   *Giovanni Monea, Armand Joulin, Edouard Grave.* [[pdf](https://arxiv.org/pdf/2311.13581.pdf)], 2023.11. ![](https://img.shields.io/badge/ENLSP_at_NIPS2023-orange) ![](https://img.shields.io/badge/Self--Draft:_prompt--tuning-green) ![](https://img.shields.io/badge/PaSS-blue)
 - **Cascade Speculative Drafting for Even Faster LLM Inference**  
-  *Ziyi Chen, Xiaocong Yang, Jiacheng Lin, Chenkai Sun, Jie Huang, Kevin Chen-Chuan Chang.* [[pdf](https://arxiv.org/pdf/2312.11462.pdf)], [[code](https://github.com/lfsszd/CS-Drafting)], 2023.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_cascaded_LMs-green) ![](https://img.shields.io/badge/NeurIPS_2024-orange)
+  *Ziyi Chen, Xiaocong Yang, Jiacheng Lin, Chenkai Sun, Jie Huang, Kevin Chen-Chuan Chang.* [[pdf](https://arxiv.org/pdf/2312.11462.pdf)], [[code](https://github.com/lfsszd/CS-Drafting)], 2023.12. ![](https://img.shields.io/badge/NeurIPS2024-orange) ![](https://img.shields.io/badge/Drafter:_cascaded_LMs-green)
 - **SLiM: Speculative Decoding with Hypothesis Reduction**  
   *Hongxia Jin, Chi-Heng Lin, Shikhar Tuli, James Seale Smith, Yen-Chang Hsu, Yilin Shen*. [[pdf](https://openreview.net/pdf?id=aPOFpNWwzl)], 2023.12. ![](https://img.shields.io/badge/NAACL2024--findings-orange) ![](https://img.shields.io/badge/Hypothesis_Reduction-lightgray) ![](https://img.shields.io/badge/SLiM-blue)
 - **Graph-Structured Speculative Decoding**  
@@ -141,7 +141,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Generation Meets Verification: Accelerating Large Language Model Inference with Smart Parallel Auto-Correct Decoding**  
   *Hanling Yi, Feng Lin, Hongbin Li, Peiyang Ning, Xiaotian Yu, Rong Xiao*. [[pdf](https://arxiv.org/pdf/2402.11809.pdf)], 2024.02. ![](https://img.shields.io/badge/ACL2024--findings-orange) ![](https://img.shields.io/badge/Self--Draft:_semi--autoregressive_finetuning-green) ![](https://img.shields.io/badge/SPACE-blue)
 - **Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding**  
-  *Zhuoming Chen, Avner May, Ruslan Svirschevski, Yuhsun Huang, Max Ryabinin, Zhihao Jia, Beidi Chen*. [[pdf](https://arxiv.org/pdf/2402.12374.pdf)], [[code](https://github.com/Infini-AI-Lab/Sequoia)], 2024.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Token_Tree_Optimization-lightgray) ![](https://img.shields.io/badge/Sequoia-blue) ![](https://img.shields.io/badge/NeurIPS_2024-orange)
+  *Zhuoming Chen, Avner May, Ruslan Svirschevski, Yuhsun Huang, Max Ryabinin, Zhihao Jia, Beidi Chen*. [[pdf](https://arxiv.org/pdf/2402.12374.pdf)], [[code](https://github.com/Infini-AI-Lab/Sequoia)], 2024.02. ![](https://img.shields.io/badge/NeurIPS2024-orange) ![](https://img.shields.io/badge/Token_Tree_Optimization-lightgray) ![](https://img.shields.io/badge/Sequoia-blue)
 - **ProPD: Dynamic Token Tree Pruning and Generation for LLM Parallel Decoding**  
   *Shuzhang Zhong, Zebin Yang, Meng Li, Ruihao Gong, Runsheng Wang, Ru Huang*. [[pdf](https://arxiv.org/pdf/2402.13485.pdf)], 2024.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Token_Tree_Pruning_&_Generation-lightgray) ![](https://img.shields.io/badge/ProPD-blue)
 - **Ouroboros: Speculative Decoding with Large Model Enhanced Drafting**  
@@ -187,7 +187,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **EMS-SD: Efficient Multi-sample Speculative Decoding for Accelerating Large Language Models**  
   *Yunsheng Ni, Chuanjian Liu, Yehui Tang, Kai Han, Yunhe Wang*. [[pdf](https://arxiv.org/pdf/2405.07542)], [[code](https://github.com/niyunsheng/EMS-SD)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Batched_Speculative_Decoding-lightgray) ![](https://img.shields.io/badge/EMS--SD-blue)
 - **Nearest Neighbor Speculative Decoding for LLM Generation and Attribution**  
-  *Minghan Li, Xilun Chen, Ari Holtzman, Beidi Chen, Jimmy Lin, Wen-tau Yih, Xi Victoria Lin*. [[pdf](https://arxiv.org/pdf/2405.19325)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Draft:_retrieved_Docs-green) ![](https://img.shields.io/badge/NEST-blue) ![](https://img.shields.io/badge/NeurIPS_2024-orange)
+  *Minghan Li, Xilun Chen, Ari Holtzman, Beidi Chen, Jimmy Lin, Wen-tau Yih, Xi Victoria Lin*. [[pdf](https://arxiv.org/pdf/2405.19325)], 2024.05. ![](https://img.shields.io/badge/NeurIPS2024-orange) ![](https://img.shields.io/badge/Draft:_retrieved_Docs-green) ![](https://img.shields.io/badge/NEST-blue)
 - **Hardware-Aware Parallel Prompt Decoding for Memory-Efficient Acceleration of LLM Inference**  
   *Hao (Mark)Chen, Wayne Luk, Ka Fai Cedric Yiu, Rui Li, Konstantin Mishchenko, Stylianos I. Venieris, Hongxiang Fan*. [[pdf](https://arxiv.org/pdf/2405.18628)], [[code](https://github.com/hmarkc/parallel-prompt-decoding)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_prompt--tuning-green) ![](https://img.shields.io/badge/PPD-blue)
 - **Faster Cascades via Speculative Decoding**  
@@ -199,7 +199,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Accelerated Speculative Sampling Based on Tree Monte Carlo**  
   *Zhengmian Hu, Heng Huang*. [[pdf](https://openreview.net/pdf?id=stMhi1Sn2G)], 2024.05. ![](https://img.shields.io/badge/ICML2024-orange) ![](https://img.shields.io/badge/Tree_Monte_Carlo-lightgray) ![](https://img.shields.io/badge/ASpS-blue)
 - **SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices**  
-  *Ruslan Svirschevski, Avner May, Zhuoming Chen, Beidi Chen, Zhihao Jia, Max Ryabinin*. [[pdf](https://arxiv.org/pdf/2406.02532)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecExec-blue) ![](https://img.shields.io/badge/NeurIPS_2024-orange)
+  *Ruslan Svirschevski, Avner May, Zhuoming Chen, Beidi Chen, Zhihao Jia, Max Ryabinin*. [[pdf](https://arxiv.org/pdf/2406.02532)], 2024.06. ![](https://img.shields.io/badge/NeurIPS2024-orange) ![](https://img.shields.io/badge/SpecExec-blue)
 - **Amphista: Accelerate LLM Inference with Bi-directional Multiple Drafting Heads in a Non-autoregressive Style**  
   *Zeping Li, Xinlong Yang, Ziheng Gao, Ji Liu, Zhuang Liu, Dong Li, Jinzhang Peng, Lu Tian, Emad Barsoum*. [[pdf](https://arxiv.org/pdf/2406.13170)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_Auto--embedding_Block-green) ![](https://img.shields.io/badge/Amphista-blue)
 - **Optimizing Speculative Decoding for Serving Large Language Models Using Goodput**  
