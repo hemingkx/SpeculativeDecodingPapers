@@ -247,12 +247,22 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **The Mamba in the Llama: Distilling and Accelerating Hybrid Models**  
   *Junxiong Wang, Daniele Paliotta, Avner May, Alexander M. Rush, Tri Dao*. [[pdf](https://arxiv.org/pdf/2408.15237)], [[code](https://github.com/jxiw/MambaInLlama)], 2024.08. ![](https://img.shields.io/badge/ES--FoMo--II_2024-orange) ![](https://img.shields.io/badge/Mamba--Llama-blue)
 - **Improving Multi-candidate Speculative Decoding**  
-  *Xiaofan Lu, Yixiao Zeng, Feiyang Ma, Zixu Yu, Marco Levorato*. [[pdf](https://arxiv.org/pdf/2409.10644)], 2024.09. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Xiaofan Lu, Yixiao Zeng, Feiyang Ma, Zixu Yu, Marco Levorato*. [[pdf](https://arxiv.org/pdf/2409.10644)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MCSD-blue)
+- **Draft on the Fly: Adaptive Self-Speculative Decoding using Cosine Similarity**  
+  *Michael R. Metel, Peng Lu, Boxing Chen, Mehdi Rezagholizadeh, Ivan Kobyzev*. [[pdf](https://arxiv.org/pdf/2410.01028)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ASD-blue)
+- **Dynamic-Width Speculative Beam Decoding for Efficient LLM Inference**  
+  *Zongyue Qin, Zifan He, Neha Prakriya, Jason Cong, Yizhou Sun*. [[pdf](https://arxiv.org/pdf/2409.16560)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DSBD-blue)
+- **Mixture of Attentions For Speculative Decoding**  
+  *Matthieu Zimmer, Milan Gritta, Gerasimos Lampouras, Haitham Bou Ammar, Jun Wang*. [[pdf](https://arxiv.org/pdf/2410.03804)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Multimodal Speculative Decoding
 
 - **On Speculative Decoding for Multimodal Large Language Models**  
   *Mukul Gagrani, Raghavv Goel, Wonseok Jeon, Junyoung Park, Mingu Lee, Christopher Lott*. [[pdf](https://arxiv.org/pdf/2404.08856.pdf)], 2024.04. ![](https://img.shields.io/badge/ELVM_at_CVPR2024-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green)
+- **LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**  
+  *Doohyuk Jang, Sihwan Park, June Yong Yang, Yeonsung Jung, Jihun Yun, Souvik Kundu, Sung-Yub Kim, Eunho Yang*. [[pdf](https://arxiv.org/pdf/2410.03355)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Image_Generation-lightgray)
+- **Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding**  
+  *Yao Teng, Han Shi, Xian Liu, Xuefei Ning, Guohao Dai, Yu Wang, Zhenguo Li, Xihui Liu*. [[pdf](https://arxiv.org/pdf/2410.01699)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Image_Generation-lightgray) ![](https://img.shields.io/badge/SJD-blue)
 
 ### Long-Context Speculative Decoding
 
@@ -297,6 +307,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Yunjia Xi, Hangyu Wang, Bo Chen, Jianghao Lin, Menghui Zhu, Weiwen Liu, Ruiming Tang, Weinan Zhang, Yong Yu.* [[pdf](https://arxiv.org/pdf/2408.05676)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DARE-blue)
 - **Faster Speech-LLaMA Inference with Multi-token Prediction**  
   *Desh Raj, Gil Keren, Junteng Jia, Jay Mahadeokar, Ozlem Kalinli.* [[pdf](https://arxiv.org/pdf/2409.08148)], 2024.09. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Interactive Speculative Planning: Enhance Agent Efficiency through Co-design of System and User Interface**  
+  *Wenyue Hua, Mengting Wan, Shashank Vadrevu, Ryan Nadel, Yongfeng Zhang, Chi Wang.* [[pdf](https://arxiv.org/pdf/2410.00079)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
