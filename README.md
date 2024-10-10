@@ -254,6 +254,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Zongyue Qin, Zifan He, Neha Prakriya, Jason Cong, Yizhou Sun*. [[pdf](https://arxiv.org/pdf/2409.16560)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DSBD-blue)
 - **Mixture of Attentions For Speculative Decoding**  
   *Matthieu Zimmer, Milan Gritta, Gerasimos Lampouras, Haitham Bou Ammar, Jun Wang*. [[pdf](https://arxiv.org/pdf/2410.03804)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration**  
+  *Heming Xia, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li*. [[pdf](https://arxiv.org/pdf/2410.06916)], [[code](https://github.com/hemingkx/SWIFT)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_layer--skipping-green) ![](https://img.shields.io/badge/SWIFT-blue)
+- **ParallelSpec: Parallel Drafter for Efficient Speculative Decoding**  
+  *Zilin Xiao, Hongming Zhang, Tao Ge, Siru Ouyang, Vicente Ordonez, Dong Yu*. [[pdf](https://arxiv.org/pdf/2410.05589)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ParallelSpec-blue)
 
 ### Multimodal Speculative Decoding
 
