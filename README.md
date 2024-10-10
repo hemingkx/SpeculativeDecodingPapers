@@ -366,13 +366,18 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 If you find the resources in this repository useful, please cite our paper:
 
 ```
-@misc{xia2024unlocking,
-      title={Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding}, 
-      author={Heming Xia and Zhe Yang and Qingxiu Dong and Peiyi Wang and Yongqi Li and Tao Ge and Tianyu Liu and Wenjie Li and Zhifang Sui},
-      year={2024},
-      eprint={2401.07851},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{xia-etal-2024-unlocking,
+    title = "Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding",
+    author = "Xia, Heming and Yang, Zhe and Dong, Qingxiu and Wang, Peiyi and Li, Yongqi  and Ge, Tao and Liu, Tianyu and Li, Wenjie and Sui, Zhifang",
+    editor = "Ku, Lun-Wei and Martins, Andre and Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.456",
+    doi = "10.18653/v1/2024.findings-acl.456",
+    pages = "7655--7671",
 }
 ```
 
