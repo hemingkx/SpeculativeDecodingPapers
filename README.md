@@ -43,6 +43,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   - [Benchmarks](#benchmarks)
   - [Applications](#applications)
   - [Analysis](#analysis)
+  - [Other Techniques](#other-techniques)
 - [Blogs](#blog--project)
 - [Contribution](#contribution)
   - [Contributors](#contributors)
@@ -196,6 +197,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Wei Zhong, Manasa Bharadwaj*. [[pdf](https://arxiv.org/pdf/2405.20314)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_layer--skipping_&_mask--predict-green) ![](https://img.shields.io/badge/S3D-blue)
 - **SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths**  
   *Kaixuan Huang, Xudong Guo, Mengdi Wang*. [[pdf](https://arxiv.org/pdf/2405.19715)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Adaptive_Candidate_Lengths-lightgray) ![](https://img.shields.io/badge/SpecDec++-blue)
+- **Distributed Speculative Inference of Large Language Models**  
+  *Nadav Timor, Jonathan Mamou, Daniel Korat, Moshe Berchansky, Oren Pereg, Moshe Wasserblat, Tomer Galanti, Michal Gordon*. [[pdf](https://arxiv.org/pdf/2405.14105v1)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DSI-blue)
 - **Accelerated Speculative Sampling Based on Tree Monte Carlo**  
   *Zhengmian Hu, Heng Huang*. [[pdf](https://openreview.net/pdf?id=stMhi1Sn2G)], 2024.05. ![](https://img.shields.io/badge/ICML2024-orange) ![](https://img.shields.io/badge/Tree_Monte_Carlo-lightgray) ![](https://img.shields.io/badge/ASpS-blue)
 - **SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices**  
@@ -258,6 +261,32 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Heming Xia, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li*. [[pdf](https://arxiv.org/pdf/2410.06916)], [[code](https://github.com/hemingkx/SWIFT)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_layer--skipping-green) ![](https://img.shields.io/badge/SWIFT-blue)
 - **ParallelSpec: Parallel Drafter for Efficient Speculative Decoding**  
   *Zilin Xiao, Hongming Zhang, Tao Ge, Siru Ouyang, Vicente Ordonez, Dong Yu*. [[pdf](https://arxiv.org/pdf/2410.05589)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ParallelSpec-blue)
+- **Polybasic Speculative Decoding Under a Theoretical Perspective**  
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/pdf?id=n7iwmPacDt)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange)
+- **Towards Optimal Multi-draft Speculative Decoding**  
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/pdf?id=9KxnxWOBA5)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange)
+- **A Unified Framework for Speculative Decoding with Multiple Drafters as a Bandit**  
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=5haYLrlyGj&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/MetaSD-blue)
+- **DySpec: Faster Speculative Decoding with Dynamic Token Tree Structure**  
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=orr5uPZY28&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/DySpec-blue)
+- **Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment**  
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=mtSSFiqW6y&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange)
+- **QSpec: Speculative Decoding with Complementary Quantization Schemes**  
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=RCiwz7WqUU&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/QSpec-blue)
+- **Multi-Draft Speculative Sampling: Canonical Architectures and Theoretical Limits**  
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=N1L5TgtkAw&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) 
+- **CASD: Enhancing Generation Accuracy via Context-Aware Speculative Decoding**  
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=g3D27bfmrf&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/CASD-blue)
+- **Optimized Multi-Token Joint Decoding With Auxiliary Model for LLM Inference**  
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=ZHhBawo3k5&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/MTAD-blue)
+- **A Drop-In Solution for On-the-Fly Adaptation of Speculative Decoding in Large Language Models**  
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=xOtOfdbBqK&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) 
+- **Semi-autoregressive Decoding for Efficient LLM Inference**  
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=gfDbD1MRYk&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange)
+- **Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding**  
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=2Y6xGE1K60&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/CoSD-blue)
+- **Fast and Accurate Language Model Decoding via Parallel Token Processing**  
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=IRsxTYPqhQ&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/ParaDecode-blue)
 
 ### Multimodal Speculative Decoding
 
@@ -267,6 +296,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Doohyuk Jang, Sihwan Park, June Yong Yang, Yeonsung Jung, Jihun Yun, Souvik Kundu, Sung-Yub Kim, Eunho Yang*. [[pdf](https://arxiv.org/pdf/2410.03355)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Image_Generation-lightgray)
 - **Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding**  
   *Yao Teng, Han Shi, Xian Liu, Xuefei Ning, Guohao Dai, Yu Wang, Zhenguo Li, Xihui Liu*. [[pdf](https://arxiv.org/pdf/2410.01699)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Image_Generation-lightgray) ![](https://img.shields.io/badge/SJD-blue)
+- **In-batch Ensemble Drafting: Toward Fast and Robust Speculative Decoding for Multimodal Language Models**  
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=8o7131Lm83&name=pdf)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/IbED-blue)
 
 ### Long-Context Speculative Decoding
 
@@ -313,6 +344,16 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Desh Raj, Gil Keren, Junteng Jia, Jay Mahadeokar, Ozlem Kalinli.* [[pdf](https://arxiv.org/pdf/2409.08148)], 2024.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Interactive Speculative Planning: Enhance Agent Efficiency through Co-design of System and User Interface**  
   *Wenyue Hua, Mengting Wan, Shashank Vadrevu, Ryan Nadel, Yongfeng Zhang, Chi Wang.* [[pdf](https://arxiv.org/pdf/2410.00079)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Speculative Coreset Selection for Task-Specific Fine-tuning**  
+  *Xiaoyu Zhang, Juan Zhai, Shiqing Ma, Chao Shen, Tianlin Li, Weipeng Jiang, Yang Liu.* [[pdf](https://arxiv.org/pdf/2410.01296v1)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/STAFF-blue)
+- **Efficient Inference for Large Language Model-based Generative Recommendation**  
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=ACSNlt77hq&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/AtSpeed-blue)
+- **Watermarking using Semantic-aware Speculative Sampling: from Theory to Practice**  
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=LdIlnsePNt&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/SEAL-blue)
+- **Speculative Knowledge Distillation: Bridging the Teacher-Student Gap Through Interleaved Sampling**  
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=EgJhwYR2tB&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/SKD-blue)
+- **Root Defence Strategies: Ensuring Safety of LLM at the Decoding Level**  
+  *Xinyi Zeng, Yuying Shang, Yutao Zhu, Jiawei Chen, Yu Tian*. [[pdf](https://arxiv.org/pdf/2410.06809v1)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RDS-blue)
 
 ### Analysis
 
@@ -328,6 +369,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Fast and Slow Generating: An Empirical Study on Large and Small Language Models Collaborative Decoding**  
   *Kaiyan Zhang, Jianyu Wang, Ning Ding, Biqing Qi, Ermo Hua, Xingtai Lv, Bowen Zhou.* [[pdf](https://arxiv.org/pdf/2406.12295)], [[code](https://github.com/TsinghuaC3I/FS-GEN)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
+### Other Techniques
+
+- **DeFT: Decoding with Flash Tree-attention for Efficient Tree-structured LLM Inference**  
+  *Jinwei Yao, Kaiqi Chen, Kexun Zhang, Jiaxuan You, Binhang Yuan, Zeke Wang, Tao Lin.* [[pdf](https://arxiv.org/pdf/2404.00242)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Flash_Tree_Attention-lightgray)
 
 ## Blog & Project
 
