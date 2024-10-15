@@ -216,7 +216,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Cerberus: Efficient Inference with Adaptive Parallel Decoding and Sequential Knowledge Enhancement**  
   *Anonymous EMNLP submission*. [[pdf](https://openreview.net/attachment?id=kWlUDTGCb9&name=pdf)], 2024.06. ![](https://img.shields.io/badge/EMNLP2024_submission-orange) ![](https://img.shields.io/badge/Cerberus-blue)
 - **SpecHub: Provable Acceleration to Multi-Draft Speculative Decoding**  
-  *Anonymous EMNLP submission*. [[pdf](https://openreview.net/pdf?id=z4zVpx8OLs)], 2024.06. ![](https://img.shields.io/badge/EMNLP2024_submission-orange) ![](https://img.shields.io/badge/SpecHub-blue)
+  *Anonymous EMNLP submission*. [[pdf](https://openreview.net/pdf?id=z4zVpx8OLs)], 2024.06. ![](https://img.shields.io/badge/EMNLP_2024-orange) ![](https://img.shields.io/badge/SpecHub-blue)
 - **S2D: Sorted Speculative Decoding For More Efficient Deployment of Nested Large Language Models**  
   *Parsa Kavehzadeh, Mohammadreza Pourreza, Mojtaba Valipour, Tinashu Zhu, Haoli Bai, Ali Ghodsi, Boxing Chen, Mehdi Rezagholizadeh*. [[pdf](https://arxiv.org/pdf/2407.01955)], 2024.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/S2D-blue)
 - **Multi-Token Joint Speculative Decoding for Accelerating Large Language Model Inference**  
@@ -252,7 +252,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Improving Multi-candidate Speculative Decoding**  
   *Xiaofan Lu, Yixiao Zeng, Feiyang Ma, Zixu Yu, Marco Levorato*. [[pdf](https://arxiv.org/pdf/2409.10644)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MCSD-blue)
 - **Draft on the Fly: Adaptive Self-Speculative Decoding using Cosine Similarity**  
-  *Michael R. Metel, Peng Lu, Boxing Chen, Mehdi Rezagholizadeh, Ivan Kobyzev*. [[pdf](https://arxiv.org/pdf/2410.01028)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ASD-blue)
+  *Michael R. Metel, Peng Lu, Boxing Chen, Mehdi Rezagholizadeh, Ivan Kobyzev*. [[pdf](https://arxiv.org/pdf/2410.01028)], 2024.10. ![](https://img.shields.io/badge/EMNLP2024--findings-orange) ![](https://img.shields.io/badge/ASD-blue)
 - **Dynamic-Width Speculative Beam Decoding for Efficient LLM Inference**  
   *Zongyue Qin, Zifan He, Neha Prakriya, Jason Cong, Yizhou Sun*. [[pdf](https://arxiv.org/pdf/2409.16560)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DSBD-blue)
 - **Mixture of Attentions For Speculative Decoding**  
@@ -331,7 +331,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Accelerating Greedy Coordinate Gradient via Probe Sampling**  
   *Yiran Zhao, Wenyue Zheng, Tianle Cai, Xuan Long Do, Kenji Kawaguchi, Anirudh Goyal, Michael Shieh.* [[pdf](https://arxiv.org/pdf/2403.01251.pdf)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green) ![](https://img.shields.io/badge/Greedy_Coordinate_Gradient-lightgray)
 - **Optimized Speculative Sampling for GPU Hardware Accelerators**  
-  *Dominik Wagner, Seanie Lee, Ilja Baumann, Philipp Seeberger, Korbinian Riedhammer, Tobias Bocklet.* [[pdf](https://arxiv.org/pdf/2406.11016)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green)
+  *Dominik Wagner, Seanie Lee, Ilja Baumann, Philipp Seeberger, Korbinian Riedhammer, Tobias Bocklet.* [[pdf](https://arxiv.org/pdf/2406.11016)], 2024.06. ![](https://img.shields.io/badge/EMNLP_2024-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green)
 - **Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**  
   *Euiin Yi, Taehyeon Kim, Hongseok Jeung, Du-Seong Chang, Se-Young Yun*. [[pdf](https://arxiv.org/pdf/2406.16758)], 2024.06. ![](https://img.shields.io/badge/EMNLP_2024-orange) ![](https://img.shields.io/badge/Multilingual-lightgray)
 - **SEED: Accelerating Reasoning Tree Construction via Scheduled Speculative Decoding**  
@@ -368,6 +368,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   
 - **Fast and Slow Generating: An Empirical Study on Large and Small Language Models Collaborative Decoding**  
   *Kaiyan Zhang, Jianyu Wang, Ning Ding, Biqing Qi, Ermo Hua, Xingtai Lv, Bowen Zhou.* [[pdf](https://arxiv.org/pdf/2406.12295)], [[code](https://github.com/TsinghuaC3I/FS-GEN)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange)
+  
+- **Temperature-Centric Investigation of Speculative Decoding with Knowledge Distillation**  
+  *Siru Ouyang, Shuohang Wang, Minhao Jiang, Ming Zhong, Donghan Yu, Jiawei Han, Yelong Shen.* [[pdf](https://arxiv.org/pdf/2410.10141)], [[code](https://github.com/ozyyshr/TempSpec)], 2024.06. ![](https://img.shields.io/badge/EMNLP2024--findings-orange)
+  
 
 ### Other Techniques
 
