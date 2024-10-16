@@ -268,11 +268,11 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **A Unified Framework for Speculative Decoding with Multiple Drafters as a Bandit**  
   *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=5haYLrlyGj&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/MetaSD-blue)
 - **DySpec: Faster Speculative Decoding with Dynamic Token Tree Structure**  
-  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=orr5uPZY28&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/DySpec-blue)
+  *Yunfan Xiong, Ruoyu Zhang, Yanzeng Li, Tianhao Wu, Lei Zou*. [[pdf](https://arxiv.org/pdf/2410.11744)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DySpec-blue)
 - **Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment**  
   *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=mtSSFiqW6y&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange)
 - **QSpec: Speculative Decoding with Complementary Quantization Schemes**  
-  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=RCiwz7WqUU&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/QSpec-blue)
+  *Juntao Zhao, Wenhao Lu, Sheng Wang, Lingpeng Kong, Chuan Wu*. [[pdf](https://arxiv.org/pdf/2410.11305)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/QSpec-blue)
 - **Multi-Draft Speculative Sampling: Canonical Architectures and Theoretical Limits**  
   *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=N1L5TgtkAw&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) 
 - **CASD: Enhancing Generation Accuracy via Context-Aware Speculative Decoding**  
@@ -351,7 +351,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Watermarking using Semantic-aware Speculative Sampling: from Theory to Practice**  
   *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=LdIlnsePNt&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/SEAL-blue)
 - **Speculative Knowledge Distillation: Bridging the Teacher-Student Gap Through Interleaved Sampling**  
-  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=EgJhwYR2tB&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/SKD-blue)
+  *Wenda Xu, Rujun Han, Zifeng Wang, Long T. Le, Dhruv Madeka, Lei Li, William Yang Wang, Rishabh Agarwal, Chen-Yu Lee, Tomas Pfister*. [[pdf](https://arxiv.org/pdf/2410.11325)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SKD-blue)
 - **Root Defence Strategies: Ensuring Safety of LLM at the Decoding Level**  
   *Xinyi Zeng, Yuying Shang, Yutao Zhu, Jiawei Chen, Yu Tian*. [[pdf](https://arxiv.org/pdf/2410.06809v1)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RDS-blue)
 
