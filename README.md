@@ -287,6 +287,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=2Y6xGE1K60&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/CoSD-blue)
 - **Fast and Accurate Language Model Decoding via Parallel Token Processing**  
   *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=IRsxTYPqhQ&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/ParaDecode-blue)
+- **Cerberus: Efficient Inference with Adaptive Parallel Decoding and Sequential Knowledge Enhancement**  
+  *Yuxuan Liu, Wenyuan Li, Laizhong Cui, Hailiang Yang*. [[pdf](https://arxiv.org/pdf/2410.13344)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Cerberus-blue)
 
 ### Multimodal Speculative Decoding
 
