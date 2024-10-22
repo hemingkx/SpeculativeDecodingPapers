@@ -356,6 +356,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Wenda Xu, Rujun Han, Zifeng Wang, Long T. Le, Dhruv Madeka, Lei Li, William Yang Wang, Rishabh Agarwal, Chen-Yu Lee, Tomas Pfister*. [[pdf](https://arxiv.org/pdf/2410.11325)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SKD-blue)
 - **Root Defence Strategies: Ensuring Safety of LLM at the Decoding Level**  
   *Xinyi Zeng, Yuying Shang, Yutao Zhu, Jiawei Chen, Yu Tian*. [[pdf](https://arxiv.org/pdf/2410.06809v1)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RDS-blue)
+- **TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling**  
+  *Jiahao Qiu, Yifu Lu, Yifan Zeng, Jiacheng Guo, Jiayi Geng, Huazheng Wang, Kaixuan Huang, Yue Wu, Mengdi Wang*. [[pdf](https://arxiv.org/pdf/2410.16033)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TreeBoN-blue)
 
 ### Analysis
 
