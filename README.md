@@ -274,7 +274,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **QSpec: Speculative Decoding with Complementary Quantization Schemes**  
   *Juntao Zhao, Wenhao Lu, Sheng Wang, Lingpeng Kong, Chuan Wu*. [[pdf](https://arxiv.org/pdf/2410.11305)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/QSpec-blue)
 - **Multi-Draft Speculative Sampling: Canonical Architectures and Theoretical Limits**  
-  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=N1L5TgtkAw&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) 
+  *Ashish Khisti, M.Reza Ebrahimi, Hassan Dbouk, Arash Behboodi, Roland Memisevic, Christos Louizos*. [[pdf](https://arxiv.org/pdf/2410.18234)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) 
 - **CASD: Enhancing Generation Accuracy via Context-Aware Speculative Decoding**  
   *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=g3D27bfmrf&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/CASD-blue)
 - **Optimized Multi-Token Joint Decoding With Auxiliary Model for LLM Inference**  
@@ -291,6 +291,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Yuxuan Liu, Wenyuan Li, Laizhong Cui, Hailiang Yang*. [[pdf](https://arxiv.org/pdf/2410.13344)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Cerberus-blue)
 - **AMUSD: Asynchronous Multi-Device Speculative Decoding for LLM Acceleration**  
   *Bradley McDanel*. [[pdf](https://arxiv.org/pdf/2410.17375)], [[code](https://github.com/BradMcDanel/AMUSD/)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AMUSD-blue)
+- **AdaEDL: Early Draft Stopping for Speculative Decoding of Large Language Models via an Entropy-based Lower Bound on Token Acceptance Probability**  
+  *Sudhanshu Agrawal, Wonseok Jeon, Mingu Lee*. [[pdf](https://arxiv.org/pdf/2410.18351)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaEDL-blue)
 
 ### Multimodal Speculative Decoding
 
