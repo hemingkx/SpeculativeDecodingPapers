@@ -293,6 +293,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Bradley McDanel*. [[pdf](https://arxiv.org/pdf/2410.17375)], [[code](https://github.com/BradMcDanel/AMUSD/)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AMUSD-blue)
 - **AdaEDL: Early Draft Stopping for Speculative Decoding of Large Language Models via an Entropy-based Lower Bound on Token Acceptance Probability**  
   *Sudhanshu Agrawal, Wonseok Jeon, Mingu Lee*. [[pdf](https://arxiv.org/pdf/2410.18351)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaEDL-blue)
+- **FIRP: Faster LLM inference via future intermediate representation prediction**  
+  *Pengfei Wu, Jiahao Liu, Zhuocheng Gong, Qifan Wang, Jinpeng Li, Jingang Wang, Xunliang Cai, Dongyan Zhao*. [[pdf](https://arxiv.org/pdf/2410.20488)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FIRP-blue)
 
 ### Multimodal Speculative Decoding
 
