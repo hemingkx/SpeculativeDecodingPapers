@@ -364,6 +364,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Xinyi Zeng, Yuying Shang, Yutao Zhu, Jiawei Chen, Yu Tian*. [[pdf](https://arxiv.org/pdf/2410.06809v1)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RDS-blue)
 - **TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling**  
   *Jiahao Qiu, Yifu Lu, Yifan Zeng, Jiacheng Guo, Jiayi Geng, Huazheng Wang, Kaixuan Huang, Yue Wu, Mengdi Wang*. [[pdf](https://arxiv.org/pdf/2410.16033)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TreeBoN-blue)
+- **Fast and High-Quality Auto-Regressive Speech Synthesis via Speculative Decoding**  
+  *Bohan Li, Hankun Wang, Situo Zhang, Yiwei Guo, Kai Yu*. [[pdf](https://arxiv.org/pdf/2410.21951)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VADUSA-blue)
 
 ### Analysis
 
