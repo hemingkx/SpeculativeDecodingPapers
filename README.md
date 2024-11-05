@@ -371,19 +371,18 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 
 - **The Synergy of Speculative Decoding and Batching in Serving Large Language Models**  
   *Qidong Su, Christina Giannoula, Gennady Pekhimenko.* [[pdf](https://arxiv.org/pdf/2310.18813.pdf)], 2023.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Optimal_Speculation_Length_in_Batching-lightgray)
-  
 - **Decoding Speculative Decoding**  
   *Minghao Yan, Saurabh Agarwal, Shivaram Venkataraman.* [[pdf](https://arxiv.org/pdf/2402.01528.pdf)], [[code](https://github.com/uw-mad-dash/decoding-speculative-decoding)], 2024.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter_Selection_to_Maximize_Throughput-lightgray)
-  
 - **How Speculative Can Speculative Decoding Be?**  
   *Zhuorui Liu, Chen Zhang, Dawei Song.* [[pdf](https://aclanthology.org/2024.lrec-main.725.pdf)], [[code](https://github.com/ZhuoruiLiu12/SpecGame)], 2024.05. ![](https://img.shields.io/badge/COLING2024-orange) ![](https://img.shields.io/badge/Drafter_Scale_&_Draft_Length-lightgray)
-  
 - **Fast and Slow Generating: An Empirical Study on Large and Small Language Models Collaborative Decoding**  
   *Kaiyan Zhang, Jianyu Wang, Ning Ding, Biqing Qi, Ermo Hua, Xingtai Lv, Bowen Zhou.* [[pdf](https://arxiv.org/pdf/2406.12295)], [[code](https://github.com/TsinghuaC3I/FS-GEN)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange)
-  
 - **Temperature-Centric Investigation of Speculative Decoding with Knowledge Distillation**  
   *Siru Ouyang, Shuohang Wang, Minhao Jiang, Ming Zhong, Donghan Yu, Jiawei Han, Yelong Shen.* [[pdf](https://arxiv.org/pdf/2410.10141)], [[code](https://github.com/ozyyshr/TempSpec)], 2024.06. ![](https://img.shields.io/badge/EMNLP2024--findings-orange)
-  
+- **A Theoretical Perspective for Speculative Decoding Algorithm**  
+  *Ming Yin, Minshuo Chen, Kaixuan Huang, Mengdi Wang*. [[pdf](https://arxiv.org/pdf/2411.00841)], 2024.11. ![](https://img.shields.io/badge/NeurIPS2024-orange)
+- **Privacy Risks of Speculative Decoding in Large Language Models**  
+  *Jiankun Wei, Abdulrahman Abdulrazzag, Tianchen Zhang, Adel Muursepp, Gururaj Saileshwar.* [[pdf](https://arxiv.org/pdf/2411.01076)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange) 
 
 ### Other Techniques
 
