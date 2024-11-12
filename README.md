@@ -28,7 +28,7 @@
 
 This repository contains a regularly updated paper list for **Speculative Decoding**.
 
-[![Arxiv](https://img.shields.io/badge/Arxiv-2401.07851-orange.svg)](https://arxiv.org/abs/2401.07851) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](./LICENSE) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/hemingkx/SpeculativeDecodingPapers/main?logo=github&color=blue)
+[![Arxiv](https://img.shields.io/badge/ACL--findings-2024-orange.svg)](https://aclanthology.org/2024.findings-acl.456.pdf) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](./LICENSE) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/hemingkx/SpeculativeDecodingPapers/main?logo=github&color=blue)
 
 ## Content
 
