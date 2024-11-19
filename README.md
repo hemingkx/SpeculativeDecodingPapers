@@ -299,6 +299,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Gabriele Oliaro, Zhihao Jia, Daniel Campos, Aurick Qiao*. [[pdf](https://arxiv.org/pdf/2411.04975)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Draft:_prior_outputs-green) ![](https://img.shields.io/badge/SuffixDecoding-blue)
 - **SSSD: Simply-Scalable Speculative Decoding**  
   *Michele Marzollo, Jiawei Zhuang, Niklas Roemer, Lorenz K. Müller, Lukas Cavigelli*. [[pdf](https://arxiv.org/pdf/2411.05894)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SSSD-blue)
+- **FastDraft: How to Train Your Draft**  
+  *Ofir Zafrir, Igor Margulis, Dorin Shteyman, Guy Boudoukh*. [[pdf](https://arxiv.org/pdf/2411.11055)], 2024.11. ![](https://img.shields.io/badge/ENLSP_2024-orange) ![](https://img.shields.io/badge/FastDraft-blue)
+- **SAM Decoding: Speculative Decoding via Suffix Automaton**  
+  *Yuxuan Hu, Ke Wang, Jing Zhang, Cuiping Li, Hong Chen*. [[pdf](https://arxiv.org/pdf/2411.10666)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SAM_Decoding-blue)
 
 ### Multimodal Speculative Decoding
 
