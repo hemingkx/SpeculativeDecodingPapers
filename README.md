@@ -68,6 +68,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, Tao Ge, Tianyu Liu, Wenjie Li, Zhifang Sui.* [[pdf](https://aclanthology.org/2024.findings-acl.456.pdf)], [[code](https://github.com/hemingkx/Spec-Bench)], 2024.01. ![](https://img.shields.io/badge/ACL2024--findings-orange) ![](https://img.shields.io/badge/Survey_on_Speculative_Decoding-lightgray)
 - **Beyond the Speculative Game: A Survey of Speculative Execution in Large Language Models**  
   *Chen Zhang, Zhuorui Liu, Dawei Song.* [[pdf](https://arxiv.org/pdf/2404.14897.pdf)], 2024.04. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding**  
+  *Hyun Ryu, Eric Kim.* [[pdf](https://arxiv.org/pdf/2411.13157)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Speculative Decoding for Seq2Seq
 
@@ -314,6 +316,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Yao Teng, Han Shi, Xian Liu, Xuefei Ning, Guohao Dai, Yu Wang, Zhenguo Li, Xihui Liu*. [[pdf](https://arxiv.org/pdf/2410.01699)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Image_Generation-lightgray) ![](https://img.shields.io/badge/SJD-blue)
 - **In-batch Ensemble Drafting: Toward Fast and Robust Speculative Decoding for Multimodal Language Models**  
   *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=8o7131Lm83&name=pdf)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/IbED-blue)
+- **Continuous Speculative Decoding for Autoregressive Image Generation**  
+  *Zili Wang, Robert Zhang, Kun Ding, Qi Yang, Fei Li, Shiming Xiang*. [[pdf](https://arxiv.org/pdf/2411.11925)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Image_Generation-lightgray) ![](https://img.shields.io/badge/CSpD-blue)
 
 ### Long-Context Speculative Decoding
 
