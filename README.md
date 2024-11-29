@@ -305,6 +305,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Ofir Zafrir, Igor Margulis, Dorin Shteyman, Guy Boudoukh*. [[pdf](https://arxiv.org/pdf/2411.11055)], 2024.11. ![](https://img.shields.io/badge/ENLSP_2024-orange) ![](https://img.shields.io/badge/FastDraft-blue)
 - **SAM Decoding: Speculative Decoding via Suffix Automaton**  
   *Yuxuan Hu, Ke Wang, Jing Zhang, Cuiping Li, Hong Chen*. [[pdf](https://arxiv.org/pdf/2411.10666)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SAM_Decoding-blue)
+- **Draft Model Knows When to Stop: A Self-Verification Length Policy for Speculative Decoding**  
+  *Ziyin Zhang, Jiahao Xu, Tian Liang, Xingyu Chen, Zhiwei He, Rui Wang, Zhaopeng Tu*. [[pdf](https://arxiv.org/pdf/2411.18462)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SVIP-blue)
 
 ### Multimodal Speculative Decoding
 
