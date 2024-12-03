@@ -307,6 +307,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Yuxuan Hu, Ke Wang, Jing Zhang, Cuiping Li, Hong Chen*. [[pdf](https://arxiv.org/pdf/2411.10666)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SAM_Decoding-blue)
 - **Draft Model Knows When to Stop: A Self-Verification Length Policy for Speculative Decoding**  
   *Ziyin Zhang, Jiahao Xu, Tian Liang, Xingyu Chen, Zhiwei He, Rui Wang, Zhaopeng Tu*. [[pdf](https://arxiv.org/pdf/2411.18462)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SVIP-blue)
+- **PLD+: Accelerating LLM inference by leveraging Language Model Artifacts**  
+  *Shwetha Somasundaram, Anirudh Phukan, Apoorv Saxena*. [[pdf](https://arxiv.org/pdf/2412.01447)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PLD+-blue)
+- **Speculative Decoding with CTC-based Draft Model for LLM Inference Acceleration**  
+  *Zhuofan Wen, Shangtong Gui, Yang Feng*. [[pdf](https://arxiv.org/pdf/2412.00061)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Multimodal Speculative Decoding
 
@@ -369,7 +373,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Speculative Coreset Selection for Task-Specific Fine-tuning**  
   *Xiaoyu Zhang, Juan Zhai, Shiqing Ma, Chao Shen, Tianlin Li, Weipeng Jiang, Yang Liu.* [[pdf](https://arxiv.org/pdf/2410.01296v1)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/STAFF-blue)
 - **Efficient Inference for Large Language Model-based Generative Recommendation**  
-  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=ACSNlt77hq&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/AtSpeed-blue)
+  *Xinyu Lin, Chaoqun Yang, Wenjie Wang, Yongqi Li, Cunxiao Du, Fuli Feng, See-Kiong Ng, Tat-Seng Chua*. [[pdf](https://arxiv.org/pdf/2410.05165)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AtSpeed-blue)
 - **Watermarking using Semantic-aware Speculative Sampling: from Theory to Practice**  
   *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=LdIlnsePNt&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/SEAL-blue)
 - **Speculative Knowledge Distillation: Bridging the Teacher-Student Gap Through Interleaved Sampling**  
