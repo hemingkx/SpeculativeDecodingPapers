@@ -311,6 +311,12 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Shwetha Somasundaram, Anirudh Phukan, Apoorv Saxena*. [[pdf](https://arxiv.org/pdf/2412.01447)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PLD+-blue)
 - **Speculative Decoding with CTC-based Draft Model for LLM Inference Acceleration**  
   *Zhuofan Wen, Shangtong Gui, Yang Feng*. [[pdf](https://arxiv.org/pdf/2412.00061)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Falcon: Faster and Parallel Inference of Large Language Models through Enhanced Semi-Autoregressive Drafting and Custom-Designed Decoding Tree**  
+  *Xiangxiang Gao, Weisheng Xie, Yiwei Xiang, Feng Ji*. [[pdf](https://arxiv.org/pdf/2412.12639)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Falcon-blue)
+- **Dovetail: A CPU/GPU Heterogeneous Speculative Decoding for LLM inference**  
+  *Libo Zhang, Zhaoning Zhang, Baizhou Xu, Songzhu Mei, Dongsheng Li*. [[pdf](https://arxiv.org/pdf/2412.18934)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Dovetail-blue)
+- **AdaEAGLE: Optimizing Speculative Decoding via Explicit Modeling of Adaptive Draft Structures**  
+  *Situo Zhang, Hankun Wang, Da Ma, Zichen Zhu, Lu Chen, Kunyao Lan, Kai Yu*. [[pdf](https://arxiv.org/pdf/2412.18910)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaEAGLE-blue)
 
 ### Multimodal Speculative Decoding
 
