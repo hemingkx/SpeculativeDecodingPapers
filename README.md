@@ -33,6 +33,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 ## Content
 
 - [Keywords Convention](#keywords-convention)
+- [Tutorial](#tutorial)
 - [Papers](#papers)
   - [Survey](#survey)
   - [Speculative Decoding for Seq2Seq](#speculative-decoding-for-seq2seq)
@@ -59,6 +60,11 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 ![](https://img.shields.io/badge/Drafter:_small_LM-green) Drafting Methods in Speculative Decoding
 
 ![](https://img.shields.io/badge/Batching-lightgray) Main Features
+
+## Tutorial
+
+- **Speculative Decoding for Efficient LLM Inference**  
+  *Heming Xia, Cunxiao Du, Yongqi Li, Qian Liu and Wenjie Li.* [[homepage](https://speculative-decoding.github.io/)], 2025.01. ![](https://img.shields.io/badge/COLING2025-orange) ![](https://img.shields.io/badge/Tutorial_on_Speculative_Decoding-lightgray)
 
 ## Papers
 
@@ -312,7 +318,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Speculative Decoding with CTC-based Draft Model for LLM Inference Acceleration**  
   *Zhuofan Wen, Shangtong Gui, Yang Feng*. [[pdf](https://arxiv.org/pdf/2412.00061)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Falcon: Faster and Parallel Inference of Large Language Models through Enhanced Semi-Autoregressive Drafting and Custom-Designed Decoding Tree**  
-  *Xiangxiang Gao, Weisheng Xie, Yiwei Xiang, Feng Ji*. [[pdf](https://arxiv.org/pdf/2412.12639)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Falcon-blue)
+  *Xiangxiang Gao, Weisheng Xie, Yiwei Xiang, Feng Ji*. [[pdf](https://arxiv.org/pdf/2412.12639)], 2024.12. ![](https://img.shields.io/badge/AAAI_2025-orange) ![](https://img.shields.io/badge/Falcon-blue)
 - **Dovetail: A CPU/GPU Heterogeneous Speculative Decoding for LLM inference**  
   *Libo Zhang, Zhaoning Zhang, Baizhou Xu, Songzhu Mei, Dongsheng Li*. [[pdf](https://arxiv.org/pdf/2412.18934)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Dovetail-blue)
 - **AdaEAGLE: Optimizing Speculative Decoding via Explicit Modeling of Adaptive Draft Structures**  
