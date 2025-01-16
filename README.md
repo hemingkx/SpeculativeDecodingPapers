@@ -216,9 +216,9 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Optimizing Speculative Decoding for Serving Large Language Models Using Goodput**  
   *Xiaoxuan Liu, Cade Daniel, Langxiang Hu, Woosuk Kwon, Zhuohan Li, Xiangxi Mo, Alvin Cheung, Zhijie Deng, Ion Stoica, Hao Zhang*. [[pdf](https://arxiv.org/pdf/2406.14066)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green) ![](https://img.shields.io/badge/Continuous_Batching-lightgray) ![](https://img.shields.io/badge/SmartSpec-blue)
 - **EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**  
-  *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*. [[pdf](https://arxiv.org/pdf/2406.16858)], 2024.06. ![](https://img.shields.io/badge/EMNLP 2024-orange) ![](https://img.shields.io/badge/Self--Draft:_auto--regression_heads-green) ![](https://img.shields.io/badge/Dynamic_Draft_Trees-lightgray) ![](https://img.shields.io/badge/EAGLE--2-blue)
+  *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*. [[pdf](https://arxiv.org/pdf/2406.16858)], 2024.06. ![](https://img.shields.io/badge/EMNLP_2024-orange) ![](https://img.shields.io/badge/Self--Draft:_auto--regression_heads-green) ![](https://img.shields.io/badge/Dynamic_Draft_Trees-lightgray) ![](https://img.shields.io/badge/EAGLE--2-blue)
 - **Context-Aware Assistant Selection for Improved Inference Acceleration with Large Language Models**  
-  *Jerry Huang, Prasanna Parthasarathi, Mehdi Rezagholizadeh, Sarath Chandar*. [[pdf](https://aclanthology.org/2024.emnlp-main.332.pdf)], 2024.06. ![](https://img.shields.io/badge/EMNLP 2024-orange) 
+  *Jerry Huang, Prasanna Parthasarathi, Mehdi Rezagholizadeh, Sarath Chandar*. [[pdf](https://aclanthology.org/2024.emnlp-main.332.pdf)], 2024.06. ![](https://img.shields.io/badge/EMNLP_2024-orange) 
 - **Make Some Noise: Unlocking Language Model Parallel Inference Capability through Noisy Training**  
   *Yixuan Wang, Xianzhen Luo, Fuxuan Wei, Yijun Liu, Qingfu Zhu, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che*. [[pdf](https://arxiv.org/pdf/2406.17404)], 2024.06. ![](https://img.shields.io/badge/EMNLP_2024-orange) ![](https://img.shields.io/badge/Self--Draft:_jacobi_decoding-green) ![](https://img.shields.io/badge/MSN-blue)
 - **OPT-Tree: Speculative Decoding with Adaptive Draft Tree Structure**  
