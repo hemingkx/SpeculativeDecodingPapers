@@ -144,7 +144,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Break the Sequential Dependency of LLM Inference Using Lookahead Decoding**  
   *Yichao Fu, Peter Bailis, Ion Stoica, Hao Zhang*. [[pdf](https://arxiv.org/pdf/2402.02057.pdf)], [[code](https://github.com/hao-ai-lab/LookaheadDecoding)], 2024.02. ![](https://img.shields.io/badge/ICML2024-orange) ![](https://img.shields.io/badge/Self--Draft:_jacobi_decoding-green) ![](https://img.shields.io/badge/Lookahead-blue)
 - **Hydra: Sequentially-Dependent Draft Heads for Medusa Decoding**  
-  *Zachary Ankner, Rishab Parthasarathy, Aniruddha Nrusimha, Christopher Rinard, Jonathan Ragan-Kelley, William Brandon*. [[pdf](https://arxiv.org/pdf/2402.05109.pdf)], [[code](https://github.com/zankner/hydra)], 2024.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_specialized_FFN_heads-green) ![](https://img.shields.io/badge/Hydra-blue)
+  *Zachary Ankner, Rishab Parthasarathy, Aniruddha Nrusimha, Christopher Rinard, Jonathan Ragan-Kelley, William Brandon*. [[pdf](https://arxiv.org/pdf/2402.05109.pdf)], [[code](https://github.com/zankner/hydra)], 2024.02. ![](https://img.shields.io/badge/COLM2024-orange) ![](https://img.shields.io/badge/Self--Draft:_specialized_FFN_heads-green) ![](https://img.shields.io/badge/Hydra-blue)
 - **Speculative Streaming: Fast LLM Inference without Auxiliary Models**  
   *Nikhil Bhendawade, Irina Belousova, Qichen Fu, Henry Mason, Mohammad Rastegari, Mahyar Najibi*. [[pdf](https://arxiv.org/pdf/2402.11131.pdf)], 2024.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_multi--stream_attention-green) 
 - **Generation Meets Verification: Accelerating Large Language Model Inference with Smart Parallel Auto-Correct Decoding**  
@@ -170,7 +170,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Recurrent Drafter for Fast Speculative Decoding in Large Language Models**  
   *Aonan Zhang, Chong Wang, Yi Wang, Xuanyu Zhang, Yunfei Cheng*. [[pdf](https://arxiv.org/pdf/2403.09919.pdf)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_recurrent_drafter-green) ![](https://img.shields.io/badge/ReDrafter-blue)
 - **Block Verification Accelerates Speculative Decoding**  
-  *Ziteng Sun, Uri Mendlovic, Yaniv Leviathan, Asaf Aharoni, Ahmad Beirami, Jae Hun Ro, Ananda Theertha Suresh*. [[pdf](https://arxiv.org/pdf/2403.10444.pdf)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Block--Level_Draft_Verification-lightgray)
+  *Ziteng Sun, Uri Mendlovic, Yaniv Leviathan, Asaf Aharoni, Ahmad Beirami, Jae Hun Ro, Ananda Theertha Suresh*. [[pdf](https://arxiv.org/pdf/2403.10444.pdf)], 2024.03. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/Block--Level_Draft_Verification-lightgray)
 - **SDSAT: Accelerating LLM Inference through Speculative Decoding with Semantic Adaptive Tokens**  
   *Chengbo Liu, Yong Zhu*. [[pdf](https://arxiv.org/pdf/2403.18647.pdf)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_semantic_adaptive_tokens-green) ![](https://img.shields.io/badge/SDSAT-blue)
 - **Lossless Acceleration of Large Language Model via Adaptive N-gram Parallel Decoding**  
@@ -200,7 +200,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Hardware-Aware Parallel Prompt Decoding for Memory-Efficient Acceleration of LLM Inference**  
   *Hao (Mark)Chen, Wayne Luk, Ka Fai Cedric Yiu, Rui Li, Konstantin Mishchenko, Stylianos I. Venieris, Hongxiang Fan*. [[pdf](https://arxiv.org/pdf/2405.18628)], [[code](https://github.com/hmarkc/parallel-prompt-decoding)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_prompt--tuning-green) ![](https://img.shields.io/badge/PPD-blue)
 - **Faster Cascades via Speculative Decoding**  
-  *Harikrishna Narasimhan, Wittawat Jitkrittum, Ankit Singh Rawat, Seungyeon Kim, Neha Gupta, Aditya Krishna Menon, Sanjiv Kumar*. [[pdf](https://arxiv.org/pdf/2405.19261)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green) ![](https://img.shields.io/badge/SpecCascade-blue)
+  *Harikrishna Narasimhan, Wittawat Jitkrittum, Ankit Singh Rawat, Seungyeon Kim, Neha Gupta, Aditya Krishna Menon, Sanjiv Kumar*. [[pdf](https://arxiv.org/pdf/2405.19261)], 2024.05. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green) ![](https://img.shields.io/badge/SpecCascade-blue)
 - **S3D: A Simple and Cost-Effective Self-Speculative Decoding Scheme for Low-Memory GPUs**  
   *Wei Zhong, Manasa Bharadwaj*. [[pdf](https://arxiv.org/pdf/2405.20314)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_layer--skipping_&_mask--predict-green) ![](https://img.shields.io/badge/S3D-blue)
 - **SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths**  
@@ -230,11 +230,11 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **S2D: Sorted Speculative Decoding For More Efficient Deployment of Nested Large Language Models**  
   *Parsa Kavehzadeh, Mohammadreza Pourreza, Mojtaba Valipour, Tinashu Zhu, Haoli Bai, Ali Ghodsi, Boxing Chen, Mehdi Rezagholizadeh*. [[pdf](https://arxiv.org/pdf/2407.01955)], 2024.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/S2D-blue)
 - **Multi-Token Joint Speculative Decoding for Accelerating Large Language Model Inference**  
-  *Zongyue Qin, Ziniu Hu, Zifan He, Neha Prakriya, Jason Cong, Yizhou Sun*. [[pdf](https://arxiv.org/pdf/2407.09722)], 2024.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MJSD-blue)
+  *Zongyue Qin, Ziniu Hu, Zifan He, Neha Prakriya, Jason Cong, Yizhou Sun*. [[pdf](https://arxiv.org/pdf/2407.09722)], 2024.07. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/MJSD-blue)
 - **PipeInfer: Accelerating LLM Inference using Asynchronous Pipelined Speculation**  
-  *Branden Butler, Sixing Yu, Arya Mazaheri, Ali Jannesari*. [[pdf](https://arxiv.org/pdf/2407.11798)], 2024.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PipeInfer-blue)
+  *Branden Butler, Sixing Yu, Arya Mazaheri, Ali Jannesari*. [[pdf](https://arxiv.org/pdf/2407.11798)], 2024.07. ![](https://img.shields.io/badge/SC24-orange) ![](https://img.shields.io/badge/PipeInfer-blue)
 - **Adaptive Draft-Verification for Efficient Large Language Model Decoding**  
-  *Xukun Liu, Bowen Lei, Ruqi Zhang, Dongkuan Xu*. [[pdf](https://arxiv.org/pdf/2407.12021)], 2024.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ADED-blue)
+  *Xukun Liu, Bowen Lei, Ruqi Zhang, Dongkuan Xu*. [[pdf](https://arxiv.org/pdf/2407.12021)], 2024.07. ![](https://img.shields.io/badge/AAAI2025-orange) ![](https://img.shields.io/badge/ADED-blue)
 - **Graph-Structured Speculative Decoding**  
   *Zhuocheng Gong, Jiahao Liu, Ziyue Wang, Pengfei Wu, Jingang Wang, Xunliang Cai, Dongyan Zhao, Rui Yan*. [[pdf](https://arxiv.org/pdf/2407.16207)], 2024.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/GSD-blue)
 - **Inference acceleration for large language models using "stairs" assisted greedy generation**  
@@ -244,21 +244,21 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **CREST: Effectively Compacting a Datastore For Retrieval-Based Speculative Decoding**  
   *Sophia Ho, Jinsol Park, Patrick Wang*. [[pdf](https://arxiv.org/pdf/2408.04678)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Draft:_retrieved_Docs-green) ![](https://img.shields.io/badge/CREST-blue)
 - **Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion**  
-  *Jacob K Christopher, Brian R Bartoldson, Bhavya Kailkhura, Ferdinando Fioretto*. [[pdf](https://arxiv.org/pdf/2408.05636)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Drafter:_discrete_diffusion_models-green) ![](https://img.shields.io/badge/SpecDiff-blue)
+  *Jacob K Christopher, Brian R Bartoldson, Bhavya Kailkhura, Ferdinando Fioretto*. [[pdf](https://arxiv.org/pdf/2408.05636)], 2024.08. ![](https://img.shields.io/badge/ENLSP_at_NIPS2024-orange)![](https://img.shields.io/badge/Drafter:_discrete_diffusion_models-green) ![](https://img.shields.io/badge/SpecDiff-blue)
 - **KOALA: Enhancing Speculative Decoding for LLM via Multi-Layer Draft Heads with Adversarial Learning**  
   *Kaiqi Zhang, Jing Zhao, Rui Chen*. [[pdf](https://arxiv.org/pdf/2408.08146)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_multi--layer_draft_heads-green) ![](https://img.shields.io/badge/Adversarial_Learning-lightgray) ![](https://img.shields.io/badge/KOALA-blue)
 - **Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling**  
   *Xianzhen Luo, Yixuan Wang, Qingfu Zhu, Zhiming Zhang, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che*. [[pdf](https://arxiv.org/pdf/2408.08696)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Draft:_retrieved_tokens-green) ![](https://img.shields.io/badge/Token_Recycling-blue)
 - **Parallel Speculative Decoding with Adaptive Draft Length**  
-  *Tianyu Liu, Yun Li, Qitan Lv, Kai Liu, Jianchen Zhu, Winston Hu*. [[pdf](https://arxiv.org/pdf/2408.11850)], [[code](https://github.com/smart-lty/ParallelSpeculativeDecoding)], [[blog](https://pearl-code.github.io/)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PEARL-blue)
+  *Tianyu Liu, Yun Li, Qitan Lv, Kai Liu, Jianchen Zhu, Winston Hu*. [[pdf](https://arxiv.org/pdf/2408.11850)], [[code](https://github.com/smart-lty/ParallelSpeculativeDecoding)], [[blog](https://pearl-code.github.io/)], 2024.08. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/PEARL-blue)
 - **Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation**  
   *Lujun Gui, Bin Xiao, Lei Su, Weipeng Chen*. [[pdf](https://arxiv.org/pdf/2408.15562)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FSPAD-blue)
 - **Harmonized Speculative Sampling**  
-  *Lefan Zhang, Xiaodan Wang, Yanhua Huang, Ruiwen Xu*. [[pdf](https://arxiv.org/pdf/2408.15766)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HASS-blue)
+  *Lefan Zhang, Xiaodan Wang, Yanhua Huang, Ruiwen Xu*. [[pdf](https://arxiv.org/pdf/2408.15766)], 2024.08. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/HASS-blue)
 - **Dynamic Depth Decoding: Faster Speculative Decoding for LLMs**  
   *Oscar Brown, Zhengjie Wang, Andrea Do, Nikhil Mathew, Cheng Yu*. [[pdf](https://arxiv.org/pdf/2409.00142)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DDD-blue)
 - **The Mamba in the Llama: Distilling and Accelerating Hybrid Models**  
-  *Junxiong Wang, Daniele Paliotta, Avner May, Alexander M. Rush, Tri Dao*. [[pdf](https://arxiv.org/pdf/2408.15237)], [[code](https://github.com/jxiw/MambaInLlama)], 2024.08. ![](https://img.shields.io/badge/ES--FoMo--II_2024-orange) ![](https://img.shields.io/badge/Mamba--Llama-blue)
+  *Junxiong Wang, Daniele Paliotta, Avner May, Alexander M. Rush, Tri Dao*. [[pdf](https://arxiv.org/pdf/2408.15237)], [[code](https://github.com/jxiw/MambaInLlama)], 2024.08. ![](https://img.shields.io/badge/NIPS2024-orange) ![](https://img.shields.io/badge/Mamba--Llama-blue)
 - **Improving Multi-candidate Speculative Decoding**  
   *Xiaofan Lu, Yixiao Zeng, Feiyang Ma, Zixu Yu, Marco Levorato*. [[pdf](https://arxiv.org/pdf/2409.10644)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MCSD-blue)
 - **Draft on the Fly: Adaptive Self-Speculative Decoding using Cosine Similarity**  
@@ -266,29 +266,27 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Dynamic-Width Speculative Beam Decoding for Efficient LLM Inference**  
   *Zongyue Qin, Zifan He, Neha Prakriya, Jason Cong, Yizhou Sun*. [[pdf](https://arxiv.org/pdf/2409.16560)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DSBD-blue)
 - **Mixture of Attentions For Speculative Decoding**  
-  *Matthieu Zimmer, Milan Gritta, Gerasimos Lampouras, Haitham Bou Ammar, Jun Wang*. [[pdf](https://arxiv.org/pdf/2410.03804)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Matthieu Zimmer, Milan Gritta, Gerasimos Lampouras, Haitham Bou Ammar, Jun Wang*. [[pdf](https://arxiv.org/pdf/2410.03804)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange)
 - **SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration**  
-  *Heming Xia, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li*. [[pdf](https://arxiv.org/pdf/2410.06916)], [[code](https://github.com/hemingkx/SWIFT)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_layer--skipping-green) ![](https://img.shields.io/badge/SWIFT-blue)
+  *Heming Xia, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li*. [[pdf](https://arxiv.org/pdf/2410.06916)], [[code](https://github.com/hemingkx/SWIFT)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/Self--Draft:_layer--skipping-green) ![](https://img.shields.io/badge/SWIFT-blue)
 - **ParallelSpec: Parallel Drafter for Efficient Speculative Decoding**  
   *Zilin Xiao, Hongming Zhang, Tao Ge, Siru Ouyang, Vicente Ordonez, Dong Yu*. [[pdf](https://arxiv.org/pdf/2410.05589)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ParallelSpec-blue)
 - **Polybasic Speculative Decoding Under a Theoretical Perspective**  
   *Anonymous ICLR submission*. [[pdf](https://openreview.net/pdf?id=n7iwmPacDt)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange)
 - **Towards Optimal Multi-draft Speculative Decoding**  
-  *Anonymous ICLR submission*. [[pdf](https://openreview.net/pdf?id=9KxnxWOBA5)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange)
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/pdf?id=9KxnxWOBA5)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange)
 - **A Unified Framework for Speculative Decoding with Multiple Drafters as a Bandit**  
   *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=5haYLrlyGj&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/MetaSD-blue)
 - **DySpec: Faster Speculative Decoding with Dynamic Token Tree Structure**  
   *Yunfan Xiong, Ruoyu Zhang, Yanzeng Li, Tianhao Wu, Lei Zou*. [[pdf](https://arxiv.org/pdf/2410.11744)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DySpec-blue)
 - **Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment**  
-  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=mtSSFiqW6y&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange)
+  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=mtSSFiqW6y&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange)
 - **QSpec: Speculative Decoding with Complementary Quantization Schemes**  
   *Juntao Zhao, Wenhao Lu, Sheng Wang, Lingpeng Kong, Chuan Wu*. [[pdf](https://arxiv.org/pdf/2410.11305)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/QSpec-blue)
 - **Multi-Draft Speculative Sampling: Canonical Architectures and Theoretical Limits**  
   *Ashish Khisti, M.Reza Ebrahimi, Hassan Dbouk, Arash Behboodi, Roland Memisevic, Christos Louizos*. [[pdf](https://arxiv.org/pdf/2410.18234)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) 
 - **CASD: Enhancing Generation Accuracy via Context-Aware Speculative Decoding**  
-  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=g3D27bfmrf&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/CASD-blue)
-- **Optimized Multi-Token Joint Decoding With Auxiliary Model for LLM Inference**  
-  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=ZHhBawo3k5&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/MTAD-blue)
+  *Jikai Wang, Zhenxu Tian, Juntao Li, Qingrong Xia, Xinyu Duan, Zhefeng Wang, Baoxing Huai, Min Zhang*. [[pdf](https://openreview.net/attachment?id=g3D27bfmrf&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/CASD-blue)
 - **A Drop-In Solution for On-the-Fly Adaptation of Speculative Decoding in Large Language Models**  
   *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=xOtOfdbBqK&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) 
 - **Semi-autoregressive Decoding for Efficient LLM Inference**  
@@ -300,7 +298,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **AMUSD: Asynchronous Multi-Device Speculative Decoding for LLM Acceleration**  
   *Bradley McDanel*. [[pdf](https://arxiv.org/pdf/2410.17375)], [[code](https://github.com/BradMcDanel/AMUSD/)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AMUSD-blue)
 - **AdaEDL: Early Draft Stopping for Speculative Decoding of Large Language Models via an Entropy-based Lower Bound on Token Acceptance Probability**  
-  *Sudhanshu Agrawal, Wonseok Jeon, Mingu Lee*. [[pdf](https://arxiv.org/pdf/2410.18351)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaEDL-blue)
+  *Sudhanshu Agrawal, Wonseok Jeon, Mingu Lee*. [[pdf](https://arxiv.org/pdf/2410.18351)], 2024.10. ![](https://img.shields.io/badge/ENLSP_at_NIPS2024-orange) ![](https://img.shields.io/badge/AdaEDL-blue)
 - **FIRP: Faster LLM inference via future intermediate representation prediction**  
   *Pengfei Wu, Jiahao Liu, Zhuocheng Gong, Qifan Wang, Jinpeng Li, Jingang Wang, Xunliang Cai, Dongyan Zhao*. [[pdf](https://arxiv.org/pdf/2410.20488)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FIRP-blue)
 - **The N-Grammys: Accelerating Autoregressive Inference with Learning-Free Batched Speculation**  
