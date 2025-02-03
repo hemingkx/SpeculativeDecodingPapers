@@ -64,7 +64,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 ## Tutorial
 
 - **Speculative Decoding for Efficient LLM Inference**  
-  *Heming Xia, Cunxiao Du, Yongqi Li, Qian Liu and Wenjie Li.* [[homepage](https://speculative-decoding.github.io/)], 2025.01. ![](https://img.shields.io/badge/COLING2025-orange) ![](https://img.shields.io/badge/Tutorial_on_Speculative_Decoding-lightgray)
+  *Heming Xia, Cunxiao Du, Yongqi Li, Qian Liu and Wenjie Li.* [[homepage](https://speculative-decoding.github.io/)], [[slides](https://tinyurl.com/speculative-decoding-tutorial)], [[video](https://tinyurl.com/spec-tutorial-recording)], 2025.01. ![](https://img.shields.io/badge/COLING2025-orange) ![](https://img.shields.io/badge/Tutorial_on_Speculative_Decoding-lightgray)
 
 ## Papers
 
@@ -323,6 +323,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Libo Zhang, Zhaoning Zhang, Baizhou Xu, Songzhu Mei, Dongsheng Li*. [[pdf](https://arxiv.org/pdf/2412.18934)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Dovetail-blue)
 - **AdaEAGLE: Optimizing Speculative Decoding via Explicit Modeling of Adaptive Draft Structures**  
   *Situo Zhang, Hankun Wang, Da Ma, Zichen Zhu, Lu Chen, Kunyao Lan, Kai Yu*. [[pdf](https://arxiv.org/pdf/2412.18910)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaEAGLE-blue)
+- **Reward-Guided Speculative Decoding for Efficient LLM Reasoning**  
+  *Baohao Liao, Yuhui Xu, Hanze Dong, Junnan Li, Christof Monz, Silvio Savarese, Doyen Sahoo, Caiming Xiong*. [[pdf](https://arxiv.org/pdf/2501.19324)], 2025.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Reward--Guided_Speculative_Decoding -lightgray) ![](https://img.shields.io/badge/RSD-blue)
 
 ### Multimodal Speculative Decoding
 
