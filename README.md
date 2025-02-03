@@ -280,7 +280,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **DySpec: Faster Speculative Decoding with Dynamic Token Tree Structure**  
   *Yunfan Xiong, Ruoyu Zhang, Yanzeng Li, Tianhao Wu, Lei Zou*. [[pdf](https://arxiv.org/pdf/2410.11744)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DySpec-blue)
 - **Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment**  
-  *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=mtSSFiqW6y&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange)
+  *Gregor Bachmann, Sotiris Anagnostidis, Albert Pumarola, Markos Georgopoulos, Artsiom Sanakoyeu, Yuming Du, Edgar Schönfeld, Ali Thabet, Jonas Kohler*. [[pdf](https://openreview.net/attachment?id=mtSSFiqW6y&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange)
 - **QSpec: Speculative Decoding with Complementary Quantization Schemes**  
   *Juntao Zhao, Wenhao Lu, Sheng Wang, Lingpeng Kong, Chuan Wu*. [[pdf](https://arxiv.org/pdf/2410.11305)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/QSpec-blue)
 - **Multi-Draft Speculative Sampling: Canonical Architectures and Theoretical Limits**  
