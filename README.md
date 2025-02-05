@@ -325,6 +325,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Situo Zhang, Hankun Wang, Da Ma, Zichen Zhu, Lu Chen, Kunyao Lan, Kai Yu*. [[pdf](https://arxiv.org/pdf/2412.18910)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaEAGLE-blue)
 - **Reward-Guided Speculative Decoding for Efficient LLM Reasoning**  
   *Baohao Liao, Yuhui Xu, Hanze Dong, Junnan Li, Christof Monz, Silvio Savarese, Doyen Sahoo, Caiming Xiong*. [[pdf](https://arxiv.org/pdf/2501.19324)], 2025.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Reward--Guided_Speculative_Decoding-lightgray) ![](https://img.shields.io/badge/RSD-blue)
+- **EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**  
+  *Yize Wu, Ke Gao, Yanjun Wu*. [[pdf](https://arxiv.org/pdf/2502.02493)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/EasySpec-blue)
 
 ### Multimodal Speculative Decoding
 
@@ -400,6 +402,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Bohan Li, Hankun Wang, Situo Zhang, Yiwei Guo, Kai Yu*. [[pdf](https://arxiv.org/pdf/2410.21951)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VADUSA-blue)
 - **Constrained Decoding with Speculative Lookaheads**  
   *Nishanth Nakshatri, Shamik Roy, Rajarshi Das, Suthee Chaidaroon, Leonid Boytsov, Rashmi Gangadharaiah*. [[pdf](https://arxiv.org/pdf/2412.10418)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CDSL-blue) ![](https://img.shields.io/badge/Constrained_Decoding-lightgray)
+- **Speculative Ensemble: Fast Large Language Model Ensemble via Speculation**  
+  *Jiale Fu, Yuchu Jiang, Junkai Chen, Jiaming Fan, Xin Geng, Xu Yang*. [[pdf](https://arxiv.org/pdf/2502.01662)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
