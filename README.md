@@ -427,7 +427,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 ### Other Techniques
 
 - **DeFT: Decoding with Flash Tree-attention for Efficient Tree-structured LLM Inference**  
-  *Jinwei Yao, Kaiqi Chen, Kexun Zhang, Jiaxuan You, Binhang Yuan, Zeke Wang, Tao Lin.* [[pdf](https://arxiv.org/pdf/2404.00242)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Flash_Tree_Attention-lightgray)
+  *Jinwei Yao, Kaiqi Chen, Kexun Zhang, Jiaxuan You, Binhang Yuan, Zeke Wang, Tao Lin.* [[pdf](https://arxiv.org/pdf/2404.00242)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/Flash_Tree_Attention-lightgray)
 
 ## Blog & Project
 
