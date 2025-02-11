@@ -329,6 +329,12 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Yize Wu, Ke Gao, Yanjun Wu*. [[pdf](https://arxiv.org/pdf/2502.02493)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/EasySpec-blue)
 - **Speeding up Speculative Decoding via Approximate Verification**  
   *Meiyu Zhong, Noel Teku, Ravi Tandon*. [[pdf](https://arxiv.org/pdf/2502.04557)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPRINTER-blue)
+- **Jakiro: Boosting Speculative Decoding with Decoupled Multi-Head via MoE**  
+  *Haiduo Huang, Fuwei Yang, Zhenhua Liu, Yixing Xu, Jinze Li, Yang Liu, Xuanwu Yin, Dong Li, Pengju Ren, Emad Barsoum*. [[pdf](https://arxiv.org/pdf/2502.06282)], [[code](https://github.com/haiduo/Jakiro)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Jakiro-blue)
+- **Lossless Acceleration of Large Language Models with Hierarchical Drafting based on Temporal Locality in Speculative Decoding**  
+  *Sukmin Cho, Sangjin Choi, Taeho Hwang, Jeongyeon Seo, Soyeong Jeong, Huije Lee, Hoyun Song, Jong C. Park, Youngjin Kwon*. [[pdf](https://arxiv.org/pdf/2502.05609)], [[code](https://github.com/zomss/Hierarchy_Drafting)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HD-blue)
+- **Accelerating LLM Inference with Lossless Speculative Decoding Algorithms for Heterogeneous Vocabularies**  
+  *Nadav Timor, Jonathan Mamou, Daniel Korat, Moshe Berchansky, Oren Pereg, Gaurav Jain, Roy Schwartz, Moshe Wasserblat, David Harel*. [[pdf](https://arxiv.org/pdf/2502.05202)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Multimodal Speculative Decoding
 
@@ -342,6 +348,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Anonymous ICLR submission*. [[pdf](https://openreview.net/attachment?id=8o7131Lm83&name=pdf)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/IbED-blue)
 - **Continuous Speculative Decoding for Autoregressive Image Generation**  
   *Zili Wang, Robert Zhang, Kun Ding, Qi Yang, Fei Li, Shiming Xiang*. [[pdf](https://arxiv.org/pdf/2411.11925)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Image_Generation-lightgray) ![](https://img.shields.io/badge/CSpD-blue)
+- **LANTERN++: Enhanced Relaxed Speculative Decoding with Static Tree Drafting for Visual Auto-regressive Models**  
+  *Sihwan Park, Doohyuk Jang, Sungyub Kim, Souvik Kundu, Eunho Yang*. [[pdf](https://arxiv.org/pdf/2502.06352)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Image_Generation-lightgray) ![](https://img.shields.io/badge/LANTERN++-blue)
 
 ### Long-Context Speculative Decoding
 
