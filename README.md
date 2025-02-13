@@ -290,7 +290,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Semi-autoregressive Decoding for Efficient LLM Inference**  
   *Yanzhi Chen, Menglin Xia, Wenbo Gong, Ankur Mallick, Srikant Bharadwaj, Metod Jazbec, Shoaib Ahmed Siddiqui, Adrian Weller, Victor Rühle*. [[pdf](https://openreview.net/attachment?id=gfDbD1MRYk&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange)
 - **Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding**  
-  *Ziyao Wang, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin*. [[pdf](https://openreview.net/attachment?id=2Y6xGE1K60&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/CoSD-blue)
+  *Ziyao Wang, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin*. [[pdf](https://arxiv.org/pdf/2502.08020)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoSD-blue)
 - **Fast and Accurate Language Model Decoding via Parallel Token Processing**  
   *Zhepei Wei, Wei-Lin Chen, Xinyu Zhu, Yu Meng*. [[pdf](https://openreview.net/attachment?id=IRsxTYPqhQ&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/ParaDecode-blue)
 - **AMUSD: Asynchronous Multi-Device Speculative Decoding for LLM Acceleration**  
