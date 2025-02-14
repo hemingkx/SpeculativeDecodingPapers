@@ -333,6 +333,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Sukmin Cho, Sangjin Choi, Taeho Hwang, Jeongyeon Seo, Soyeong Jeong, Huije Lee, Hoyun Song, Jong C. Park, Youngjin Kwon*. [[pdf](https://arxiv.org/pdf/2502.05609)], [[code](https://github.com/zomss/Hierarchy_Drafting)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HD-blue)
 - **Accelerating LLM Inference with Lossless Speculative Decoding Algorithms for Heterogeneous Vocabularies**  
   *Nadav Timor, Jonathan Mamou, Daniel Korat, Moshe Berchansky, Oren Pereg, Gaurav Jain, Roy Schwartz, Moshe Wasserblat, David Harel*. [[pdf](https://arxiv.org/pdf/2502.05202)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
+- **CopySpec: Accelerating LLMs with Speculative Copy-and-Paste Without Compromising Quality**  
+  *Razvan-Gabriel Dumitru, Minglai Yang, Vikas Yadav, Mihai Surdeanu*. [[pdf](https://arxiv.org/pdf/2502.08923)],  [[code](https://github.com/RazvanDu/CopySpec)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/CopySpec-blue)
 
 ### Multimodal Speculative Decoding
 
