@@ -337,6 +337,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Razvan-Gabriel Dumitru, Minglai Yang, Vikas Yadav, Mihai Surdeanu*. [[pdf](https://arxiv.org/pdf/2502.08923)],  [[code](https://github.com/RazvanDu/CopySpec)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CopySpec-blue)
 - **C2T: A Classifier-Based Tree Construction Method in Speculative Decoding**  
   *Feiye Huo, Jianchao Tan, Kefeng Zhang, Xunliang Cai, Shengli Sun*. [[pdf](https://arxiv.org/pdf/2502.13652)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/C2T-blue)
+- **FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling**  
+  *Weilin Zhao, Tengyu Pan, Xu Han, Yudi Zhang, Ao Sun, Yuxiang Huang, Kaihuo Zhang, Weilun Zhao, Yuxuan Li, Jianyong Wang, Zhiyuan Liu, Maosong Sun*. [[pdf](https://arxiv.org/pdf/2502.14856)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FR--Spec-blue)
 
 ### Multimodal Speculative Decoding
 
