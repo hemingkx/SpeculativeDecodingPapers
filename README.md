@@ -349,6 +349,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Zhaoxuan Wu, Zijian Zhou, Arun Verma, Alok Prakash, Daniela Rus, Bryan Kian Hsiang Low*. [[pdf](https://arxiv.org/pdf/2502.15197)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TETRIS-blue)
 - **CORAL: Learning Consistent Representations across Multi-step Training with Lighter Speculative Drafter**  
   *Yepeng Weng, Dianwen Mei, Huishi Qiu, Xujie Chen, Li Liu, Jiang Tian, Zhongchao Shi*. [[pdf](https://arxiv.org/pdf/2502.16880)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CORAL-blue)
+- **Fuzzy Speculative Decoding for a Tunable Accuracy-Runtime Tradeoff**  
+  *Maximilian Holsman, Yukun Huang, Bhuwan Dhingra*. [[pdf](https://www.arxiv.org/pdf/2502.20704)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FSD-blue)
 - **EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test**  
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*. [[pdf](https://arxiv.org/pdf/2503.01840)], [[code](https://github.com/SafeAILab/EAGLE)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/EAGLE--3-blue)
 - **DuoDecoding: Hardware-aware Heterogeneous Speculative Decoding with Dynamic Multi-Sequence Drafting**  
