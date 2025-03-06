@@ -355,6 +355,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*. [[pdf](https://arxiv.org/pdf/2503.01840)], [[code](https://github.com/SafeAILab/EAGLE)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/EAGLE--3-blue)
 - **DuoDecoding: Hardware-aware Heterogeneous Speculative Decoding with Dynamic Multi-Sequence Drafting**  
   *Kai Lv, Honglin Guo, Qipeng Guo, Xipeng Qiu*. [[pdf](https://arxiv.org/pdf/2503.00784)], [[code](https://github.com/KaiLv69/DuoDecoding)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DuoDecoding-blue)
+- **RASD: Retrieval-Augmented Speculative Decoding**  
+  *Guofeng Quan, Wenfeng Feng, Chuzhan Hao, Guochao Jiang, Yuewei Zhang, Hao Wang*. [[pdf](https://arxiv.org/pdf/2503.03434)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RASD-blue)
 
 ### Multimodal Speculative Decoding
 
