@@ -361,6 +361,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Yiwei Li, Jiayi Shi, Shaoxiong Feng, Peiwen Yuan, Xinglin Wang, Yueqi Zhang, Ji Zhang, Chuyi Tan, Boyuan Pan, Yao Hu, Kan Li*. [[pdf](https://arxiv.org/pdf/2503.05330)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
 - **SpecServe: Efficient and SLO-Aware Large Language Model Serving with Adaptive Speculative Decoding**  
   *Kaiyu Huang, Hao Wu, Zhubo Shi, Han Zou, Minchen Yu, Qingjiang Shi*. [[pdf](https://arxiv.org/pdf/2503.05096)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecServe-blue)
+- **Training Domain Draft Models for Speculative Decoding: Best Practices and Insights**  
+  *Fenglu Hong, Ravi Raju, Jonathan Lingjie Li, Bo Li, Urmish Thakker, Avinash Ravichandran, Swayambhoo Jain, Changran Hu*. [[pdf](https://arxiv.org/pdf/2503.07807)], 2025.03. ![](https://img.shields.io/badge/SCOPE_workshop--ICLR2025-orange)
 
 ### Multimodal Speculative Decoding
 
