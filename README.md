@@ -365,6 +365,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Fenglu Hong, Ravi Raju, Jonathan Lingjie Li, Bo Li, Urmish Thakker, Avinash Ravichandran, Swayambhoo Jain, Changran Hu*. [[pdf](https://arxiv.org/pdf/2503.07807)], 2025.03. ![](https://img.shields.io/badge/SCOPE_workshop--ICLR2025-orange)
 - **Gumiho: A Hybrid Architecture to Prioritize Early Tokens in Speculative Decoding**  
   *Jinze Li, Yixing Xu, Haiduo Huang, Xuanwu Yin, Dong Li, Edith C.H. Ngai, Emad Barsoum*. [[pdf](https://arxiv.org/pdf/2503.10135)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Gumiho-blue)
+- **ML-SpecQD: Multi-Level Speculative Decoding with Quantized Drafts**  
+  *Evangelos Georganas, Dhiraj Kalamkar, Alexander Kozlov, Alexander Heinecke*. [[pdf](https://arxiv.org/pdf/2503.13565)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ML--SpecQD-blue)
+- **SPIN: Accelerating Large Language Model Inference with Heterogeneous Speculative Models**  
+  *Fahao Chen, Peng Li, Tom H. Luan, Zhou Su, Jing Deng*. [[pdf](https://arxiv.org/pdf/2503.15921)], 2025.03. ![](https://img.shields.io/badge/INFOCOM2025-orange) ![](https://img.shields.io/badge/SPIN-blue)
 
 ### Multimodal Speculative Decoding
 
@@ -454,6 +458,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Jingyu Liu, Beidi Chen, Ce Zhang*. [[pdf](https://arxiv.org/pdf/2502.02789v1)], [[code](https://github.com/Jingyu6/speculative_prefill)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Collaborative Speculative Inference for Efficient LLM Inference Serving**  
   *Luyao Gao, Jianchun Liu, Hongli Xu, Liusheng Huang*. [[pdf](https://arxiv.org/pdf/2503.10325)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoSine-blue)
+- **SpeCache: Speculative Key-Value Caching for Efficient Generation of LLMs**  
+  *Shibo Jie, Yehui Tang, Kai Han, Zhi-Hong Deng, Jing Han*. [[pdf](https://arxiv.org/pdf/2503.16163)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpeCache-blue)
+- **Speculative Decoding for Verilog: Speed and Quality, All in One**  
+  *Changran Xu, Yi Liu, Yunhao Zhou, Shan Huang, Ningyi Xu, Qiang Xu*. [[pdf](https://arxiv.org/pdf/2503.14153)], 2025.03. ![](https://img.shields.io/badge/DAC2025-orange)
 
 ### Analysis
 
