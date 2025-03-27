@@ -462,6 +462,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Shibo Jie, Yehui Tang, Kai Han, Zhi-Hong Deng, Jing Han*. [[pdf](https://arxiv.org/pdf/2503.16163)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpeCache-blue)
 - **Speculative Decoding for Verilog: Speed and Quality, All in One**  
   *Changran Xu, Yi Liu, Yunhao Zhou, Shan Huang, Ningyi Xu, Qiang Xu*. [[pdf](https://arxiv.org/pdf/2503.14153)], 2025.03. ![](https://img.shields.io/badge/DAC2025-orange)
+- **A Multi-Model Adaptation of Speculative Decoding for Classification**  
+  *Somnath Roy, Padharthi Sreekar, Srivatsa Narasimha, Anubhav Anand*. [[pdf](https://arxiv.org/pdf/2503.18076)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
