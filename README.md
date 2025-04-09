@@ -369,6 +369,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Evangelos Georganas, Dhiraj Kalamkar, Alexander Kozlov, Alexander Heinecke*. [[pdf](https://arxiv.org/pdf/2503.13565)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ML--SpecQD-blue)
 - **SPIN: Accelerating Large Language Model Inference with Heterogeneous Speculative Models**  
   *Fahao Chen, Peng Li, Tom H. Luan, Zhou Su, Jing Deng*. [[pdf](https://arxiv.org/pdf/2503.15921)], 2025.03. ![](https://img.shields.io/badge/INFOCOM2025-orange) ![](https://img.shields.io/badge/SPIN-blue)
+- **DEL: Context-Aware Dynamic Exit Layer for Efficient SelfSpeculative Decoding**  
+  *Hossein Entezari Zarch, Lei Gao, Chaoyi Jiang, Murali Annavaram*. [[pdf](https://arxiv.org/pdf/2504.05598)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DEL-blue)
 
 ### Multimodal Speculative Decoding
 
