@@ -466,6 +466,9 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Changran Xu, Yi Liu, Yunhao Zhou, Shan Huang, Ningyi Xu, Qiang Xu*. [[pdf](https://arxiv.org/pdf/2503.14153)], 2025.03. ![](https://img.shields.io/badge/DAC2025-orange)
 - **A Multi-Model Adaptation of Speculative Decoding for Classification**  
   *Somnath Roy, Padharthi Sreekar, Srivatsa Narasimha, Anubhav Anand*. [[pdf](https://arxiv.org/pdf/2503.18076)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
+- **SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning**  
+  *Rui Pan, Yinwei Dai, Zhihao Zhang, Gabriele Oliaro, Zhihao Jia, Ravi Netravali*. [[pdf](https://arxiv.org/pdf/2504.07891)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecReason-blue)
+  
 
 ### Analysis
 
