@@ -371,6 +371,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Fahao Chen, Peng Li, Tom H. Luan, Zhou Su, Jing Deng*. [[pdf](https://arxiv.org/pdf/2503.15921)], 2025.03. ![](https://img.shields.io/badge/INFOCOM2025-orange) ![](https://img.shields.io/badge/SPIN-blue)
 - **DEL: Context-Aware Dynamic Exit Layer for Efficient Self-Speculative Decoding**  
   *Hossein Entezari Zarch, Lei Gao, Chaoyi Jiang, Murali Annavaram*. [[pdf](https://arxiv.org/pdf/2504.05598)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DEL-blue)
+- **SD$^2$: Self-Distilled Sparse Drafters**  
+  *Mike Lasby, Nish Sinnadurai, Valavan Manohararajah, Sean Lie, Vithursan Thangarasa*. [[pdf](https://arxiv.org/pdf/2504.08838)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SD^2-blue)
+- **SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting**  
+  *Jiaming Xu, Jiayi Pan, Yongkang Zhou, Siming Chen, Jinhao Li, Yaoxiu Lian, Junyi Wu, Guohao Dai*. [[pdf](https://arxiv.org/pdf/2504.08850)], 2025.04. ![](https://img.shields.io/badge/ISCA2025-orange) ![](https://img.shields.io/badge/SD^2-blue)
 
 ### Multimodal Speculative Decoding
 
@@ -467,8 +471,9 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **A Multi-Model Adaptation of Speculative Decoding for Classification**  
   *Somnath Roy, Padharthi Sreekar, Srivatsa Narasimha, Anubhav Anand*. [[pdf](https://arxiv.org/pdf/2503.18076)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
 - **SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning**  
-  *Rui Pan, Yinwei Dai, Zhihao Zhang, Gabriele Oliaro, Zhihao Jia, Ravi Netravali*. [[pdf](https://arxiv.org/pdf/2504.07891)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecReason-blue)
-  
+  *Rui Pan, Yinwei Dai, Zhihao Zhang, Gabriele Oliaro, Zhihao Jia, Ravi Netravali*. [[pdf](https://arxiv.org/pdf/2504.07891)], [[code](https://github.com/ruipeterpan/specreason)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecReason-blue)
+- **Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance at Inference Time**  
+  *Wang Yang, Xiang Yue, Vipin Chaudhary, Xiaotian Han*. [[pdf](https://arxiv.org/pdf/2504.12329)], [[code](https://github.com/uservan/speculative_thinking)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Speculative_Thinking-blue)
 
 ### Analysis
 
