@@ -375,6 +375,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Mike Lasby, Nish Sinnadurai, Valavan Manohararajah, Sean Lie, Vithursan Thangarasa*. [[pdf](https://arxiv.org/pdf/2504.08838)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SD^2-blue)
 - **SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting**  
   *Jiaming Xu, Jiayi Pan, Yongkang Zhou, Siming Chen, Jinhao Li, Yaoxiu Lian, Junyi Wu, Guohao Dai*. [[pdf](https://arxiv.org/pdf/2504.08850)], 2025.04. ![](https://img.shields.io/badge/ISCA2025-orange) ![](https://img.shields.io/badge/SD^2-blue)
+- **Speculative Sampling via Exponential Races**  
+  *Szymon Kobus, Deniz Gündüz*. [[pdf](https://arxiv.org/pdf/2504.15475)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ERSD-blue)
 
 ### Multimodal Speculative Decoding
 
