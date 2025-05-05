@@ -377,9 +377,9 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Jiaming Xu, Jiayi Pan, Yongkang Zhou, Siming Chen, Jinhao Li, Yaoxiu Lian, Junyi Wu, Guohao Dai*. [[pdf](https://arxiv.org/pdf/2504.08850)], 2025.04. ![](https://img.shields.io/badge/ISCA2025-orange) ![](https://img.shields.io/badge/SpecEE-blue)
 - **Speculative Sampling via Exponential Races**  
   *Szymon Kobus, Deniz Gündüz*. [[pdf](https://arxiv.org/pdf/2504.15475)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ERSD-blue)
-- **AutoJudge: Judge Decoding Without Manual Annotation**
+- **AutoJudge: Judge Decoding Without Manual Annotation**  
   *Roman Garipov, Fedor Velikonivtsev, Ruslan Svirschevski, Vage Egiazarian, Max Ryabinin*. [[pdf](https://arxiv.org/pdf/2504.20039)], [[code](https://github.com/garipovroma/autojudge)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AutoJudge-blue)
-- **PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation**
+- **PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation**  
   *Zihao An, Huajun Bai, Ziqiong Liu, Dong Li, Emad Barsoum*. [[pdf](https://arxiv.org/pdf/2504.18583)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PARD-blue)
 
 ### Multimodal Speculative Decoding
