@@ -381,6 +381,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Roman Garipov, Fedor Velikonivtsev, Ruslan Svirschevski, Vage Egiazarian, Max Ryabinin*. [[pdf](https://arxiv.org/pdf/2504.20039)], [[code](https://github.com/garipovroma/autojudge)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AutoJudge-blue)
 - **PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation**  
   *Zihao An, Huajun Bai, Ziqiong Liu, Dong Li, Emad Barsoum*. [[pdf](https://arxiv.org/pdf/2504.18583)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PARD-blue)
+- **PipeSpec: Breaking Stage Dependencies in Hierarchical LLM Decoding**  
+  *Bradley McDanel, Sai Qian Zhang, Yunhai Hu, Zining Liu*. [[pdf](https://arxiv.org/pdf/2505.01572)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PipeSpec-blue)
 
 ### Multimodal Speculative Decoding
 
@@ -531,6 +533,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 **The Mamba in the Llama: Distilling and Accelerating Hybrid Models.** Together AI. 2024.09. [[Blog](https://www.together.ai/blog/the-mamba-in-the-llama-distilling-and-accelerating-hybrid-models)] [[Code](https://github.com/jxiw/MambaInLlama)]
 
 **How Speculative Decoding Boosts vLLM Performance by up to 2.8x.** vLLM Team. 2024.10. [[Blog](https://blog.vllm.ai/2024/10/17/spec-decode.html)]
+
+**Fastest Speculative Decoding in vLLM with Arctic Inference and Arctic Training.** Snowflake AI Research. 2025.05. [[Blog](https://www.snowflake.com/en/engineering-blog/fast-speculative-decoding-vllm-arctic/)]
 
 ## Contributors
 
