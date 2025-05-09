@@ -468,6 +468,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Bohan Li, Hankun Wang, Situo Zhang, Yiwei Guo, Kai Yu*. [[pdf](https://arxiv.org/pdf/2410.21951)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VADUSA-blue)
 - **Constrained Decoding with Speculative Lookaheads**  
   *Nishanth Nakshatri, Shamik Roy, Rajarshi Das, Suthee Chaidaroon, Leonid Boytsov, Rashmi Gangadharaiah*. [[pdf](https://arxiv.org/pdf/2412.10418)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CDSL-blue) ![](https://img.shields.io/badge/Constrained_Decoding-lightgray)
+- **Accelerated Diffusion Models via Speculative Sampling**  
+  *Valentin De Bortoli, Alexandre Galashov, Arthur Gretton, Arnaud Doucet*. [[pdf](https://arxiv.org/pdf/2501.05370)], 2025.01. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Speculative Ensemble: Fast Large Language Model Ensemble via Speculation**  
   *Jiale Fu, Yuchu Jiang, Junkai Chen, Jiaming Fan, Xin Geng, Xu Yang*. [[pdf](https://arxiv.org/pdf/2502.01662)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Speculative Prefill: Turbocharging TTFT with Lightweight and Training-Free Token Importance Estimation**  
@@ -488,7 +490,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Gabe Guo, Stefano Ermon*. [[pdf](https://arxiv.org/pdf/2504.20456)], [[code](https://github.com/gabeguo/any-order-speculative-decoding)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ASSD-blue)
 - **Efficient Reasoning for LLMs through Speculative Chain-of-Thought**  
   *Jikai Wang, Juntao Li, Lijun Wu, Min Zhang*. [[pdf](https://arxiv.org/pdf/2504.19095)], [[code](https://github.com/Jikai0Wang/Speculative_CoT)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SCoT-blue)
-
+- **Accelerating Large Language Model Reasoning via Speculative Search**  
+  *Zhihai Wang, Jie Wang, Jilai Pan, Xilin Xia, Huiling Zhen, Mingxuan Yuan, Jianye Hao, Feng Wu*. [[pdf](https://arxiv.org/pdf/2505.02865)], 2025.05. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/SpecSearch-blue)
+- **Diffusion Models are Secretly Exchangeable: Parallelizing DDPMs via Autospeculation**  
+  *Hengyuan Hu, Aniket Das, Dorsa Sadigh, Nima Anari*. [[pdf](https://arxiv.org/pdf/2505.03983)], 2025.05. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/ASD-blue)
 
 ### Analysis
 
