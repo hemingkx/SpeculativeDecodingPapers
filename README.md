@@ -488,7 +488,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Gabe Guo, Stefano Ermon*. [[pdf](https://arxiv.org/pdf/2504.20456)], [[code](https://github.com/gabeguo/any-order-speculative-decoding)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ASSD-blue)
 - **Efficient Reasoning for LLMs through Speculative Chain-of-Thought**  
   *Jikai Wang, Juntao Li, Lijun Wu, Min Zhang*. [[pdf](https://arxiv.org/pdf/2504.19095)], [[code](https://github.com/Jikai0Wang/Speculative_CoT)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SCoT-blue)
-  
+
 
 ### Analysis
 
