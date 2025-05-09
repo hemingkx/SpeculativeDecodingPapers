@@ -494,6 +494,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Zhihai Wang, Jie Wang, Jilai Pan, Xilin Xia, Huiling Zhen, Mingxuan Yuan, Jianye Hao, Feng Wu*. [[pdf](https://arxiv.org/pdf/2505.02865)], 2025.05. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/SpecSearch-blue)
 - **Diffusion Models are Secretly Exchangeable: Parallelizing DDPMs via Autospeculation**  
   *Hengyuan Hu, Aniket Das, Dorsa Sadigh, Nima Anari*. [[pdf](https://arxiv.org/pdf/2505.03983)], 2025.05. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/ASD-blue)
+- **SOAEsV2-7B/72B: Full-Pipeline Optimization for State-Owned Enterprise LLMs via Continual Pre-Training, Domain-Progressive SFT and Distillation-Enhanced Speculative Decoding**  
+  *Jingyang Deng, Ran Chen, Jo-Ku Cheng, Jinwen Ma*. [[pdf](https://arxiv.org/pdf/2505.04723)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
