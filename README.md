@@ -175,8 +175,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Chengbo Liu, Yong Zhu*. [[pdf](https://arxiv.org/pdf/2403.18647.pdf)], 2024.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_semantic_adaptive_tokens-green) ![](https://img.shields.io/badge/SDSAT-blue)
 - **Lossless Acceleration of Large Language Model via Adaptive N-gram Parallel Decoding**  
   *Jie Ou, Yueming Chen, Wenhong Tian*. [[pdf](https://aclanthology.org/2024.naacl-industry.2.pdf)], 2024.04. ![](https://img.shields.io/badge/NAACL2024--industry-orange) ![](https://img.shields.io/badge/Drafter:_N--gram_model-green) ![](https://img.shields.io/badge/ANPD-blue)
-- **Exploring and Improving Drafts in Blockwise Parallel Decoding**  
-  *Taehyeon Kim, Ananda Theertha Suresh, Kishore Papineni, Michael Riley, Sanjiv Kumar, Adrian Benton*. [[pdf](https://arxiv.org/pdf/2404.09221.pdf)], 2024.04. ![](https://img.shields.io/badge/NeurIPS2024-orange) ![](https://img.shields.io/badge/Self--Draft:_specialized_FFN_heads-green)
+- **Accelerating Blockwise Parallel Language Models with Draft Refinement**  
+  *Taehyeon Kim, Ananda Theertha Suresh, Kishore Papineni, Michael Riley, Sanjiv Kumar, Adrian Benton*. [[pdf](https://openreview.net/pdf?id=KT6F5Sw0eg)], 2024.04. ![](https://img.shields.io/badge/NeurIPS2024-orange) ![](https://img.shields.io/badge/Self--Draft:_specialized_FFN_heads-green)
 - **Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration**  
   *Pengfei Wu, Jiahao Liu, Zhuocheng Gong, Qifan Wang, Jinpeng Li, Jingang Wang, Xunliang Cai, Dongyan Zhao*. [[pdf](https://arxiv.org/pdf/2404.12022.pdf)], 2024.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_hidden_transfer-green)
 - **BASS: Batched Attention-optimized Speculative Sampling**  
@@ -345,8 +345,6 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Shijing Hu, Jingyang Li, Xingyu Xie, Zhihui Lu, Kim-Chuan Toh, Pan Zhou*. [[pdf](https://arxiv.org/pdf/2502.11018)], [[code](https://github.com/hsj576/GRIFFIN)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/GRIFFIN-blue)
 - **DReSD: Dense Retrieval for Speculative Decoding**  
   *Milan Gritta, Huiyin Xue, Gerasimos Lampouras*. [[pdf](https://arxiv.org/pdf/2502.15572)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DReSD-blue)
-- **QuantSpec: Self-Speculative Decoding with Hierarchical Quantized KV Cache**  
-  *Rishabh Tiwari, Haocheng Xi, Aditya Tomar, Coleman Hooper, Sehoon Kim, Maxwell Horton, Mahyar Najibi, Michael W. Mahoney, Kurt Keutzer, Amir Gholami*. [[pdf](https://arxiv.org/pdf/2502.10424)], 2025.02. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/QuantSpec-blue)
 - **TETRIS: Optimal Draft Token Selection for Batch Speculative Decoding**  
   *Zhaoxuan Wu, Zijian Zhou, Arun Verma, Alok Prakash, Daniela Rus, Bryan Kian Hsiang Low*. [[pdf](https://arxiv.org/pdf/2502.15197)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TETRIS-blue)
 - **CORAL: Learning Consistent Representations across Multi-step Training with Lighter Speculative Drafter**  
@@ -407,12 +405,14 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Hanshi Sun, Zhuoming Chen, Xinyu Yang, Yuandong Tian, Beidi Chen*. [[pdf](https://arxiv.org/pdf/2404.11912.pdf)], [[code](https://github.com/Infini-AI-Lab/TriForce)], 2024.04. ![](https://img.shields.io/badge/COLM2024-orange) ![](https://img.shields.io/badge/Drafter:_retrieval--based_drafting_&_hierarchical_speculation-green) ![](https://img.shields.io/badge/TriForce-blue)
 - **MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**  
   *Jian Chen, Vashisth Tiwari, Ranajoy Sadhukhan, Zhuoming Chen, Jinyuan Shi, Ian En-Hsu Yen, Beidi Chen*. [[pdf](https://arxiv.org/pdf/2408.11049)], [[code](https://github.com/Infini-AI-Lab/MagicDec/)], 2024.08. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/MagicDec-blue)
+- **QuantSpec: Self-Speculative Decoding with Hierarchical Quantized KV Cache**  
+  *Rishabh Tiwari, Haocheng Xi, Aditya Tomar, Coleman Hooper, Sehoon Kim, Maxwell Horton, Mahyar Najibi, Michael W. Mahoney, Kurt Keutzer, Amir Gholami*. [[pdf](https://arxiv.org/pdf/2502.10424)], 2025.02. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/QuantSpec-blue)
 - **LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**  
   *Penghui Yang, Cunxiao Du, Fengzhuo Zhang, Haonan Wang, Tianyu Pang, Chao Du, Bo An*. [[pdf](https://arxiv.org/pdf/2502.17421)], [[code](https://github.com/sail-sg/LongSpec)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LongSpec-blue)
 - **From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence Generation up to 100K Tokens**  
-  *Tong Wu, Junzhe Shen, Zixia Jia, Yuxuan Wang, Zilong Zheng*. [[pdf](https://arxiv.org/pdf/2502.18890)], [[code](https://github.com/bigai-nlco/TokenSwift)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TokenSwift-blue)
+  *Tong Wu, Junzhe Shen, Zixia Jia, Yuxuan Wang, Zilong Zheng*. [[pdf](https://arxiv.org/pdf/2502.18890)], [[code](https://github.com/bigai-nlco/TokenSwift)], 2025.02. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/TokenSwift-blue)
 - **Long-Context Inference with Retrieval-Augmented Speculative Decoding**  
-  *Guanzheng Chen, Qilong Feng, Jinjie Ni, Xin Li, Michael Qizhe Shieh*. [[pdf](https://arxiv.org/pdf/2502.20330)], [[code](https://github.com/John-AI-Lab/RAPID)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RAPID-blue)
+  *Guanzheng Chen, Qilong Feng, Jinjie Ni, Xin Li, Michael Qizhe Shieh*. [[pdf](https://arxiv.org/pdf/2502.20330)], [[code](https://github.com/John-AI-Lab/RAPID)], 2025.02. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/RAPID-blue)
 
 ### Alignment
 
