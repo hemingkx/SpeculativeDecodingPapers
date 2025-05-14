@@ -383,6 +383,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Zihao An, Huajun Bai, Ziqiong Liu, Dong Li, Emad Barsoum*. [[pdf](https://arxiv.org/pdf/2504.18583)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PARD-blue)
 - **PipeSpec: Breaking Stage Dependencies in Hierarchical LLM Decoding**  
   *Bradley McDanel, Sai Qian Zhang, Yunhai Hu, Zining Liu*. [[pdf](https://arxiv.org/pdf/2505.01572)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PipeSpec-blue)
+- **SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models**  
+  *Hang Wu, Jianian Zhu, Yinghui Li, Haojie Wang, Biao Hou, Jidong Zhai*. [[pdf](https://arxiv.org/pdf/2505.07680)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecRouter-blue)
 
 ### Multimodal Speculative Decoding
 
