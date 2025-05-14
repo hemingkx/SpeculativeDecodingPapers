@@ -409,7 +409,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Rishabh Tiwari, Haocheng Xi, Aditya Tomar, Coleman Hooper, Sehoon Kim, Maxwell Horton, Mahyar Najibi, Michael W. Mahoney, Kurt Keutzer, Amir Gholami*. [[pdf](https://arxiv.org/pdf/2502.10424)], 2025.02. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/QuantSpec-blue)
 - **LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**  
   *Penghui Yang, Cunxiao Du, Fengzhuo Zhang, Haonan Wang, Tianyu Pang, Chao Du, Bo An*. [[pdf](https://arxiv.org/pdf/2502.17421)], [[code](https://github.com/sail-sg/LongSpec)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LongSpec-blue)
-- **From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence Generation up to 100K Tokens**  
+- **From Hours to Minutes: Achieving Lossless Acceleration in 100K-Token Long Sequence Generation**  
   *Tong Wu, Junzhe Shen, Zixia Jia, Yuxuan Wang, Zilong Zheng*. [[pdf](https://arxiv.org/pdf/2502.18890)], [[code](https://github.com/bigai-nlco/TokenSwift)], 2025.02. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/TokenSwift-blue)
 - **Long-Context Inference with Retrieval-Augmented Speculative Decoding**  
   *Guanzheng Chen, Qilong Feng, Jinjie Ni, Xin Li, Michael Qizhe Shieh*. [[pdf](https://arxiv.org/pdf/2502.20330)], [[code](https://github.com/John-AI-Lab/RAPID)], 2025.02. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/RAPID-blue)
