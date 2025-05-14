@@ -385,6 +385,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Bradley McDanel, Sai Qian Zhang, Yunhai Hu, Zining Liu*. [[pdf](https://arxiv.org/pdf/2505.01572)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PipeSpec-blue)
 - **SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models**  
   *Hang Wu, Jianian Zhu, Yinghui Li, Haojie Wang, Biao Hou, Jidong Zhai*. [[pdf](https://arxiv.org/pdf/2505.07680)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecRouter-blue)
+- **Scaling Laws for Speculative Decoding**  
+  *Siyuan Yan, Mo Zhu, Guo-qing Jiang, Jianfei Wang, Jiaxing Chen, Wentai Zhang, Xiang Liao, Xiao Cui, Chen Zhang, Zhuoran Song, Ran Zhu*. [[pdf](https://arxiv.org/pdf/2505.07858)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Scylla-blue)
+- **Automatic Task Detection and Heterogeneous LLM Speculative Decoding**  
+  *Danying Ge, Jianhua Gao, Qizhi Jiang, Yifei Feng, Weixing Ji*. [[pdf](https://arxiv.org/pdf/2505.08600)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Multimodal Speculative Decoding
 
