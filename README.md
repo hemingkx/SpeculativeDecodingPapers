@@ -205,6 +205,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Wei Zhong, Manasa Bharadwaj*. [[pdf](https://arxiv.org/pdf/2405.20314)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_layer--skipping_&_mask--predict-green) ![](https://img.shields.io/badge/S3D-blue)
 - **SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths**  
   *Kaixuan Huang, Xudong Guo, Mengdi Wang*. [[pdf](https://arxiv.org/pdf/2405.19715)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Adaptive_Candidate_Lengths-lightgray) ![](https://img.shields.io/badge/SpecDec++-blue)
+- **BanditSpec: Adaptive Speculative Decoding via Bandit Algorithms**
+  *Yunlong Hou, Fengzhuo Zhang, Cunxiao Du, Xuan Zhang, Jiachun Pan, Tianyu Pang, Chao Du, Vincent Y. F. Tan, Zhuoran Yang*. [[pdf](https://arxiv.org/abs/2505.15141)], 2025.05. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/Adaptive_Hyperparameters(model&length)-lightgray) ![](https://img.shields.io/badge/BanditSpec-blue)
 - **Distributed Speculative Inference of Large Language Models**  
   *Nadav Timor, Jonathan Mamou, Daniel Korat, Moshe Berchansky, Oren Pereg, Moshe Wasserblat, Tomer Galanti, Michal Gordon*. [[pdf](https://arxiv.org/pdf/2405.14105v1)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DSI-blue)
 - **Accelerated Speculative Sampling Based on Tree Monte Carlo**  
