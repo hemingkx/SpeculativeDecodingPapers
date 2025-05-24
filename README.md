@@ -391,6 +391,16 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Danying Ge, Jianhua Gao, Qizhi Jiang, Yifei Feng, Weixing Ji*. [[pdf](https://arxiv.org/pdf/2505.08600)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **BanditSpec: Adaptive Speculative Decoding via Bandit Algorithms**  
   *Yunlong Hou, Fengzhuo Zhang, Cunxiao Du, Xuan Zhang, Jiachun Pan, Tianyu Pang, Chao Du, Vincent Y. F. Tan, Zhuoran Yang*. [[pdf](https://arxiv.org/abs/2505.15141)], 2025.05. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/Adaptive_Hyperparameters_(model&length)-lightgray) ![](https://img.shields.io/badge/BanditSpec-blue)
+- **SpecOffload: Unlocking Latent GPU Capacity for LLM Inference on Resource-Constrained Devices**  
+  *Xiangwen Zhuge, Xu Shen, Zeyu Wang, Fan Dang, Xuan Ding, Danyang Li, Yahui Han, Tianxiang Hao, Zheng Yang*. [[pdf](https://arxiv.org/pdf/2505.10259)], [[code](https://github.com/MobiSense/SpecOffload-public)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecOffload-blue)
+- **Alignment-Augmented Speculative Decoding with Alignment Sampling and Conditional Verification**  
+  *Jikai Wang, Zhenxu Tian, Juntao Li, Qingrong Xia, Xinyu Duan, Zhefeng Wang, Baoxing Huai, Min Zhang*. [[pdf](https://arxiv.org/pdf/2505.13204)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AASD-blue)
+- **Traversal Verification for Speculative Tree Decoding**  
+  *Yepeng Weng, Qiao Hu, Xujie Chen, Li Liu, Dianwen Mei, Huishi Qiu, Jiang Tian, Zhongchao Shi*. [[pdf](https://arxiv.org/pdf/2505.12398)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Traversal_Verification-blue)
+- **HeteroSpec: Leveraging Contextual Heterogeneity for Efficient Speculative Decoding**  
+  *Siran Liu, Yang Ye, Qianchao Zhu, Zheng Cao, Yongchao He*. [[pdf](https://arxiv.org/pdf/2505.13254)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HeteroSpec-blue)
+- **KNN-SSD: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization**  
+  *Mingbo Song, Heming Xia, Jun Zhang, Chak Tou Leong, Qiancheng Xu, Wenjie Li, Sujian Li*. [[pdf](https://arxiv.org/pdf/2505.16162)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/KNN--SSD-blue)
 
 ### Multimodal Speculative Decoding
 
@@ -504,6 +514,12 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Hengyuan Hu, Aniket Das, Dorsa Sadigh, Nima Anari*. [[pdf](https://arxiv.org/pdf/2505.03983)], 2025.05. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/ASD-blue)
 - **SOAEsV2-7B/72B: Full-Pipeline Optimization for State-Owned Enterprise LLMs via Continual Pre-Training, Domain-Progressive SFT and Distillation-Enhanced Speculative Decoding**  
   *Jingyang Deng, Ran Chen, Jo-Ku Cheng, Jinwen Ma*. [[pdf](https://arxiv.org/pdf/2505.04723)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **An Efficient Private GPT Never Autoregressively Decodes**  
+  *Zhengyi Li, Yue Guan, Kang Yang, Yu Feng, Ning Liu, Yu Yu, Jingwen Leng, Minyi Guo*. [[pdf](https://arxiv.org/pdf/2505.15252)], 2025.05. ![](https://img.shields.io/badge/ICML2025-orange)
+- **SSR: Speculative Parallel Scaling Reasoning in Test-time**  
+  *Yuanlin Chu, Bo Wang, Xiang Liu, Hong Chen, Aiwei Liu, Xuming Hu*. [[pdf](https://arxiv.org/pdf/2505.15340)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SSR-blue)
+- **STree: Speculative Tree Decoding for Hybrid State-Space Models**  
+  *Yangchao Wu, Zongyue Qin, Alex Wong, Stefano Soatto*. [[pdf](https://arxiv.org/pdf/2505.14969)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/STree-blue)
 
 ### Analysis
 
