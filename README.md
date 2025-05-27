@@ -38,6 +38,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   - [Survey](#survey)
   - [Speculative Decoding for Seq2Seq](#speculative-decoding-for-seq2seq)
   - [Speculative Decoding for LLMs](#speculative-decoding-for-llms)
+  - [Multi-token Prediction](#multi-token-prediction)
   - [Multimodal Speculative Decoding](#multimodal-speculative-decoding)
   - [Long-Context Speculative Decoding](#long-context-speculative-decoding)
   - [Alignment](#alignment)
@@ -187,8 +188,6 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Fangcheng Liu, Yehui Tang, Zhenhua Liu, Yunsheng Ni, Kai Han, Yunhe Wang*. [[pdf](https://arxiv.org/pdf/2404.18911)], [[code](https://github.com/Equationliu/Kangaroo)], 2024.04. ![](https://img.shields.io/badge/NeurIPS2024-orange) ![](https://img.shields.io/badge/Self--Draft:_early--exiting_with_adapter-green) ![](https://img.shields.io/badge/Kangaroo-blue)
 - **Accelerating Production LLMs with Combined Token/Embedding Speculators**  
   *Davis Wertheimer, Joshua Rosenkranz, Thomas Parnell, Sahil Suneja, Pavithra Ranganathan, Raghu Ganti, Mudhakar Srivatsa*. [[pdf](https://arxiv.org/pdf/2404.19124)], 2024.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Speculator_Design_&_Training-lightgray)
-- **Better & Faster Large Language Models via Multi-token Prediction**  
-  *Fabian Gloeckle, Badr Youbi Idrissi, Baptiste Rozière, David Lopez-Paz, Gabriel Synnaeve*. [[pdf](https://arxiv.org/pdf/2404.19737)], 2024.04. ![](https://img.shields.io/badge/ICML2024-orange) ![](https://img.shields.io/badge/Self--Draft:_specialized_FFN_heads-green)
 - **Clover: Regressive Lightweight Speculative Decoding with Sequential Knowledge**  
   *Bin Xiao, Chunan Shi, Xiaonan Nie, Fan Yang, Xiangwei Deng, Lei Su, Weipeng Chen, Bin Cui*. [[pdf](https://arxiv.org/pdf/2405.00263)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Self--Draft:_auto--regressive_attention_block-green) ![](https://img.shields.io/badge/Clover-blue)
 - **Accelerating Speculative Decoding using Dynamic Speculation Length**  
@@ -401,6 +400,19 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Siran Liu, Yang Ye, Qianchao Zhu, Zheng Cao, Yongchao He*. [[pdf](https://arxiv.org/pdf/2505.13254)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HeteroSpec-blue)
 - **KNN-SSD: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization**  
   *Mingbo Song, Heming Xia, Jun Zhang, Chak Tou Leong, Qiancheng Xu, Wenjie Li, Sujian Li*. [[pdf](https://arxiv.org/pdf/2505.16162)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/KNN--SSD-blue)
+- **Semi-Clairvoyant Scheduling of Speculative Decoding Requests to Minimize LLM Inference Latency**  
+  *Ruixiao Li, Fahao Chen, Peng Li*. [[pdf](https://arxiv.org/pdf/2505.17074)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LAPS--SD-blue)
+
+### Multi-token Prediction
+
+- **Better & Faster Large Language Models via Multi-token Prediction**  
+  *Fabian Gloeckle, Badr Youbi Idrissi, Baptiste Rozière, David Lopez-Paz, Gabriel Synnaeve*. [[pdf](https://arxiv.org/pdf/2404.19737)], 2024.04. ![](https://img.shields.io/badge/ICML2024-orange) ![](https://img.shields.io/badge/Self--Draft:_specialized_FFN_heads-green)
+- **DeepSeek-V3 Technical Report**  
+  *DeepSeek Team*. [[pdf](https://arxiv.org/pdf/2412.19437)], 2024.12. ![](https://img.shields.io/badge/Technical_Report-orange) ![](https://img.shields.io/badge/Pretraining-lightgray)
+- **MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining**  
+  *Xiaomi LLM-Core Team*. [[pdf](https://arxiv.org/pdf/2505.07608)], 2025.05. ![](https://img.shields.io/badge/Technical_Report-orange) ![](https://img.shields.io/badge/Pretraining-lightgray)
+- **L-MTP: Leap Multi-Token Prediction Beyond Adjacent Context for Large Language Models**  
+  *Xiaohao Liu, Xiaobo Xia, Weixiang Zhao, Manyi Zhang, Xianzhi Yu, Xiu Su, Shuo Yang, See-Kiong Ng, Tat-Seng Chua*. [[pdf](https://arxiv.org/pdf/2505.17505)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Leap_Token_Prediction-lightgray)
 
 ### Multimodal Speculative Decoding
 
@@ -520,6 +532,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Yuanlin Chu, Bo Wang, Xiang Liu, Hong Chen, Aiwei Liu, Xuming Hu*. [[pdf](https://arxiv.org/pdf/2505.15340)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SSR-blue)
 - **STree: Speculative Tree Decoding for Hybrid State-Space Models**  
   *Yangchao Wu, Zongyue Qin, Alex Wong, Stefano Soatto*. [[pdf](https://arxiv.org/pdf/2505.14969)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/STree-blue)
+- **SpecEdge: Scalable Edge-Assisted Serving Framework for Interactive LLMs**  
+  *Jinwoo Park, Seunggeun Cho, Dongsu Han*. [[pdf](https://arxiv.org/pdf/2505.17052)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecEdge-blue)
 
 ### Analysis
 
