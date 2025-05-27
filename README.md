@@ -38,7 +38,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   - [Survey](#survey)
   - [Speculative Decoding for Seq2Seq](#speculative-decoding-for-seq2seq)
   - [Speculative Decoding for LLMs](#speculative-decoding-for-llms)
-  - [Multi-token Prediction](#multi-token-prediction)
+  - [Multi-Token Prediction](#multi-token-prediction)
   - [Multimodal Speculative Decoding](#multimodal-speculative-decoding)
   - [Long-Context Speculative Decoding](#long-context-speculative-decoding)
   - [Alignment](#alignment)
@@ -403,7 +403,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Semi-Clairvoyant Scheduling of Speculative Decoding Requests to Minimize LLM Inference Latency**  
   *Ruixiao Li, Fahao Chen, Peng Li*. [[pdf](https://arxiv.org/pdf/2505.17074)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LAPS--SD-blue)
 
-### Multi-token Prediction
+### Multi-Token Prediction
 
 - **Better & Faster Large Language Models via Multi-token Prediction**  
   *Fabian Gloeckle, Badr Youbi Idrissi, Baptiste Rozière, David Lopez-Paz, Gabriel Synnaeve*. [[pdf](https://arxiv.org/pdf/2404.19737)], 2024.04. ![](https://img.shields.io/badge/ICML2024-orange) ![](https://img.shields.io/badge/Self--Draft:_specialized_FFN_heads-green)
