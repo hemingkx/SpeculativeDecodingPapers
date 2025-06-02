@@ -402,6 +402,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Mingbo Song, Heming Xia, Jun Zhang, Chak Tou Leong, Qiancheng Xu, Wenjie Li, Sujian Li*. [[pdf](https://arxiv.org/pdf/2505.16162)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/KNN--SSD-blue)
 - **Semi-Clairvoyant Scheduling of Speculative Decoding Requests to Minimize LLM Inference Latency**  
   *Ruixiao Li, Fahao Chen, Peng Li*. [[pdf](https://arxiv.org/pdf/2505.17074)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LAPS--SD-blue)
+- **Cross-Attention Speculative Decoding**  
+  *Wei Zhong, Manasa Bharadwaj, Yixiao Wang, Nikhil Verma, Yipeng Ji, Chul Lee*. [[pdf](https://arxiv.org/abs/2505.24544)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Beagle-blue)
 
 ### Multi-Token Prediction
 
