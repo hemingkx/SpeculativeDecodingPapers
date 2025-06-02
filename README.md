@@ -422,7 +422,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **L-MTP: Leap Multi-Token Prediction Beyond Adjacent Context for Large Language Models**  
   *Xiaohao Liu, Xiaobo Xia, Weixiang Zhao, Manyi Zhang, Xianzhi Yu, Xiu Su, Shuo Yang, See-Kiong Ng, Tat-Seng Chua*. [[pdf](https://arxiv.org/pdf/2505.17505)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Leap_Token_Prediction-lightgray)
 - **Pre-Training Curriculum for Multi-Token Prediction in Language Models**  
-  *Ansar Aynetdinov, Alan Akbik*. [[pdf](https://arxiv.org/pdf/2505.22757)], [[code](https://github.com/aynetdia/mtp_curriculum)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MTP_Curriculum-lightgray)
+  *Ansar Aynetdinov, Alan Akbik*. [[pdf](https://arxiv.org/pdf/2505.22757)], [[code](https://github.com/aynetdia/mtp_curriculum)], 2025.05. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/MTP_Curriculum-lightgray)
 
 ### Multimodal Speculative Decoding
 
