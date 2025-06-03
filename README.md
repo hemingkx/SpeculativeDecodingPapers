@@ -406,10 +406,6 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Wei Zhong, Manasa Bharadwaj, Yixiao Wang, Nikhil Verma, Yipeng Ji, Chul Lee*. [[pdf](https://arxiv.org/abs/2505.24544)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Beagle-blue)
 - **MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**  
   *Zongle Huang, Lei Zhu, Zongyuan Zhan, Ting Hu, Weikai Mao, Xianzhi Yu, Yongpan Liu, Tianyu Zhang*. [[pdf](https://arxiv.org/pdf/2505.19645)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MoESD-blue)
-- **HAMburger: Accelerating LLM Inference via Token Smashing**  
-  *Jingyu Liu, Ce Zhang*. [[pdf](https://arxiv.org/pdf/2505.20438)], [[code](https://github.com/Jingyu6/hamburger)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HAMburger-blue)
-- **Speculative Decoding Meets Quantization: Compatibility Evaluation and Hierarchical Framework Design**  
-  *Yudi Zhang, Weilin Zhao, Xu Han, Tiejun Zhao, Wang Xu, Hailong Cao, Conghui Zhu*. [[pdf](https://arxiv.org/pdf/2505.22179)], [[code](https://github.com/AI9Stars/SpecMQuant)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HierSpec-blue)
 
 ### Multi-Token Prediction
 
@@ -440,6 +436,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Sihwan Park, Doohyuk Jang, Sungyub Kim, Souvik Kundu, Eunho Yang*. [[pdf](https://arxiv.org/pdf/2502.06352)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Image_Generation-lightgray) ![](https://img.shields.io/badge/LANTERN++-blue)
 - **Sparse-to-Dense: A Free Lunch for Lossless Acceleration of Video Understanding in LLMs**  
   *Xuan Zhang, Cunxiao Du, Sicheng Yu, Jiawei Wu, Fengzhuo Zhang, Wei Gao, Qian Liu*. [[pdf](https://arxiv.org/pdf/2505.19155)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/StD-blue)
+- **Speculative Decoding Reimagined for Multimodal Large Language Models**  
+  *Luxi Lin, Zhihang Lin, Zhanpeng Zeng, Rongrong Ji*. [[pdf](https://arxiv.org/pdf/2505.14260)], [[code](https://github.com/Lyn-Lucy/MSD)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MSD-blue)
 
 ### Long-Context Speculative Decoding
 
@@ -546,6 +544,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Yangchao Wu, Zongyue Qin, Alex Wong, Stefano Soatto*. [[pdf](https://arxiv.org/pdf/2505.14969)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/STree-blue)
 - **SpecEdge: Scalable Edge-Assisted Serving Framework for Interactive LLMs**  
   *Jinwoo Park, Seunggeun Cho, Dongsu Han*. [[pdf](https://arxiv.org/pdf/2505.17052)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecEdge-blue)
+- **HAMburger: Accelerating LLM Inference via Token Smashing**  
+  *Jingyu Liu, Ce Zhang*. [[pdf](https://arxiv.org/pdf/2505.20438)], [[code](https://github.com/Jingyu6/hamburger)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HAMburger-blue)
+- **Speculative Decoding Meets Quantization: Compatibility Evaluation and Hierarchical Framework Design**  
+  *Yudi Zhang, Weilin Zhao, Xu Han, Tiejun Zhao, Wang Xu, Hailong Cao, Conghui Zhu*. [[pdf](https://arxiv.org/pdf/2505.22179)], [[code](https://github.com/AI9Stars/SpecMQuant)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HierSpec-blue)
 
 ### Analysis
 
