@@ -457,11 +457,21 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Tong Wu, Junzhe Shen, Zixia Jia, Yuxuan Wang, Zilong Zheng*. [[pdf](https://arxiv.org/pdf/2502.18890)], [[code](https://github.com/bigai-nlco/TokenSwift)], 2025.02. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/TokenSwift-blue)
 - **Long-Context Inference with Retrieval-Augmented Speculative Decoding**  
   *Guanzheng Chen, Qilong Feng, Jinjie Ni, Xin Li, Michael Qizhe Shieh*. [[pdf](https://arxiv.org/pdf/2502.20330)], [[code](https://github.com/John-AI-Lab/RAPID)], 2025.02. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/RAPID-blue)
+- **SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences**  
+  *Jungyoub Cha, Hyunjong Kim, Sungzoon Cho*. [[pdf](https://arxiv.org/pdf/2505.20776)], [[code](https://github.com/jycha98/SpecExtend)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecExtend-blue)
 
 ### Alignment
 
 - **Direct Alignment of Draft Model for Speculative Decoding with Chat-Fine-Tuned LLMs**  
   *Raghavv Goel, Mukul Gagrani, Wonseok Jeon, Junyoung Park, Mingu Lee, Christopher Lott.* [[pdf](https://arxiv.org/pdf/2403.00858.pdf)], 2024.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter_Alignment-lightgray)
+- **Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation**  
+  *Lujun Gui, Bin Xiao, Lei Su, Weipeng Chen*. [[pdf](https://arxiv.org/pdf/2408.15562)], 2024.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FSPAD-blue)
+- **Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment**  
+  *Gregor Bachmann, Sotiris Anagnostidis, Albert Pumarola, Markos Georgopoulos, Artsiom Sanakoyeu, Yuming Du, Edgar Schönfeld, Ali Thabet, Jonas Kohler*. [[pdf](https://openreview.net/attachment?id=mtSSFiqW6y&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange)
+- **GRIFFIN: Effective Token Alignment for Faster Speculative Decoding**  
+  *Shijing Hu, Jingyang Li, Xingyu Xie, Zhihui Lu, Kim-Chuan Toh, Pan Zhou*. [[pdf](https://arxiv.org/pdf/2502.11018)], [[code](https://github.com/hsj576/GRIFFIN)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/GRIFFIN-blue)
+- **Alignment-Augmented Speculative Decoding with Alignment Sampling and Conditional Verification**  
+  *Jikai Wang, Zhenxu Tian, Juntao Li, Qingrong Xia, Xinyu Duan, Zhefeng Wang, Baoxing Huai, Min Zhang*. [[pdf](https://arxiv.org/pdf/2505.13204)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AASD-blue)
 
 ### Benchmarks
 
@@ -552,6 +562,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Jingyu Liu, Ce Zhang*. [[pdf](https://arxiv.org/pdf/2505.20438)], [[code](https://github.com/Jingyu6/hamburger)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HAMburger-blue)
 - **Speculative Decoding Meets Quantization: Compatibility Evaluation and Hierarchical Framework Design**  
   *Yudi Zhang, Weilin Zhao, Xu Han, Tiejun Zhao, Wang Xu, Hailong Cao, Conghui Zhu*. [[pdf](https://arxiv.org/pdf/2505.22179)], [[code](https://github.com/AI9Stars/SpecMQuant)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HierSpec-blue)
+- **Reinforcement Speculative Decoding for Fast Ranking**  
+  *Yingpeng Du, Tianjun Wei, Zhu Sun, Jie Zhang*. [[pdf](https://arxiv.org/pdf/2505.20316)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
