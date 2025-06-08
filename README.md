@@ -405,7 +405,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Cross-Attention Speculative Decoding**  
   *Wei Zhong, Manasa Bharadwaj, Yixiao Wang, Nikhil Verma, Yipeng Ji, Chul Lee*. [[pdf](https://arxiv.org/abs/2505.24544)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Beagle-blue)
 - **CLaSp: In-Context Layer Skip for Self-Speculative Decoding**  
-  *Longze Chen, Renke Shan, Huiming Wang, Lu Wang, Ziqiang Liu, Run Luo, Jiawei Wang, Hamid Alinejad-Rokny, Min Yang*. [[pdf](https://arxiv.org/pdf/2505.24196)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CLaSp-blue)
+  *Longze Chen, Renke Shan, Huiming Wang, Lu Wang, Ziqiang Liu, Run Luo, Jiawei Wang, Hamid Alinejad-Rokny, Min Yang*. [[pdf](https://arxiv.org/pdf/2505.24196)], 2025.05. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/CLaSp-blue)
 - **MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**  
   *Zongle Huang, Lei Zhu, Zongyuan Zhan, Ting Hu, Weikai Mao, Xianzhi Yu, Yongpan Liu, Tianyu Zhang*. [[pdf](https://arxiv.org/pdf/2505.19645)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MoESD-blue)
 - **Mamba Drafters for Speculative Decoding**  
