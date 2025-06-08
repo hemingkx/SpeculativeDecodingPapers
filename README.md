@@ -566,6 +566,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Yingpeng Du, Tianjun Wei, Zhu Sun, Jie Zhang*. [[pdf](https://arxiv.org/pdf/2505.20316)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Fast and Cost-effective Speculative Edge-Cloud Decoding with Early Exits**  
   *Yeshwanth Venkatesha, Souvik Kundu, Priyadarshini Panda*. [[pdf](https://arxiv.org/pdf/2505.21594)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Ghidorah: Fast LLM Inference on Edge with Speculative Decoding and Hetero-Core Parallelism**  
+  *Jinhui Wei, Ye Huang, Yuhui Zhou, Jiazhi Jiang, Jiangsu Du*. [[pdf](https://arxiv.org/pdf/2505.23219)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
