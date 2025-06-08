@@ -564,6 +564,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Yudi Zhang, Weilin Zhao, Xu Han, Tiejun Zhao, Wang Xu, Hailong Cao, Conghui Zhu*. [[pdf](https://arxiv.org/pdf/2505.22179)], [[code](https://github.com/AI9Stars/SpecMQuant)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HierSpec-blue)
 - **Reinforcement Speculative Decoding for Fast Ranking**  
   *Yingpeng Du, Tianjun Wei, Zhu Sun, Jie Zhang*. [[pdf](https://arxiv.org/pdf/2505.20316)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Fast and Cost-effective Speculative Edge-Cloud Decoding with Early Exits**  
+  *Yeshwanth Venkatesha, Souvik Kundu, Priyadarshini Panda*. [[pdf](https://arxiv.org/pdf/2505.21594)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
