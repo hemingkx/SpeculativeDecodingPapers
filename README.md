@@ -570,6 +570,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Yeshwanth Venkatesha, Souvik Kundu, Priyadarshini Panda*. [[pdf](https://arxiv.org/pdf/2505.21594)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Ghidorah: Fast LLM Inference on Edge with Speculative Decoding and Hetero-Core Parallelism**  
   *Jinhui Wei, Ye Huang, Yuhui Zhou, Jiazhi Jiang, Jiangsu Du*. [[pdf](https://arxiv.org/pdf/2505.23219)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Speculative Reward Model Boosts Decision Making Ability of LLMs Cost-Effectively**  
+  *Jiawei Gu, Shangsong Liang*. [[pdf](https://arxiv.org/pdf/2506.00396)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
