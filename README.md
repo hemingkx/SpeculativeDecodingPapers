@@ -412,6 +412,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Daewon Choi, Seunghyuk Oh, Saket Dingliwal, Jihoon Tack, Kyuyoung Kim, Woomin Song, Seojin Kim, Insu Han, Jinwoo Shin, Aram Galstyan, Shubham Katiyar, Sravan Babu Bodapati*. [[pdf](https://arxiv.org/abs/2506.01206)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Mamba_Drafters-blue)
 - **Accelerated Test-Time Scaling with Model-Free Speculative Sampling**  
   *Woomin Song, Saket Dingliwal, Sai Muralidhar Jayanthi, Bhavana Ganesh, Jinwoo Shin, Aram Galstyan, Sravan Babu Bodapati*. [[pdf](https://arxiv.org/abs/2506.04708)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/STAND-blue)
+- **SpecMemo: Speculative Decoding is in Your Pocket**  
+  *Selin Yildirim, Deming Chen*. [[pdf](https://arxiv.org/pdf/2506.01986)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecMemo-blue) ![](https://img.shields.io/badge/Device--aware_SD-lightgray)
+- **Speculative Decoding via Hybrid Drafting and Rollback-Aware Branch Parallelism**  
+  *Yuhao Shen, Junyi Shen, Quan Kong, Tianyu Liu, Yao Lu, Cong Wang*. [[pdf](https://arxiv.org/pdf/2506.01979)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecBranch-blue) ![](https://img.shields.io/badge/Parallel_Speculative_Branches-lightgray)
 
 ### Multi-Token Prediction
 
@@ -572,6 +576,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Jinhui Wei, Ye Huang, Yuhui Zhou, Jiazhi Jiang, Jiangsu Du*. [[pdf](https://arxiv.org/pdf/2505.23219)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Speculative Reward Model Boosts Decision Making Ability of LLMs Cost-Effectively**  
   *Jiawei Gu, Shangsong Liang*. [[pdf](https://arxiv.org/pdf/2506.00396)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Consultant Decoding: Yet Another Synergistic Mechanism**  
+  *Chuanghao Ding, Jiaping Wang, Ziqing Yang, Xiaoliang Wang, Dahua Lin, Cam-Tu Nguyen, Fei Tan*. [[pdf](https://arxiv.org/pdf/2506.02391)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Reuse or Generate? Accelerating Code Editing via Edit-Oriented Speculative Decoding**  
+  *Peiding Wang, Li Zhang, Fang Liu, Yinghao Zhu, Wang Xu, Lin Shi, Xiaoli Lian, Minxiao Li, Bo Shen, An Fu*. [[pdf](https://arxiv.org/pdf/2506.02780)], [[code](https://github.com/zhu-zhu-ding/EfficientEdit)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
