@@ -339,7 +339,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **C2T: A Classifier-Based Tree Construction Method in Speculative Decoding**  
   *Feiye Huo, Jianchao Tan, Kefeng Zhang, Xunliang Cai, Shengli Sun*. [[pdf](https://arxiv.org/pdf/2502.13652)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/C2T-blue)
 - **FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling**  
-  *Weilin Zhao, Tengyu Pan, Xu Han, Yudi Zhang, Ao Sun, Yuxiang Huang, Kaihuo Zhang, Weilun Zhao, Yuxuan Li, Jianyong Wang, Zhiyuan Liu, Maosong Sun*. [[pdf](https://arxiv.org/pdf/2502.14856)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/FR--Spec-blue)
+  *Weilin Zhao, Tengyu Pan, Xu Han, Yudi Zhang, Ao Sun, Yuxiang Huang, Kaihuo Zhang, Weilun Zhao, Yuxuan Li, Jianyong Wang, Zhiyuan Liu, Maosong Sun*. [[pdf](https://arxiv.org/pdf/2502.14856)], [[code](https://github.com/RazvanDu/CopySpec)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/FR--Spec-blue)
 - **GRIFFIN: Effective Token Alignment for Faster Speculative Decoding**  
   *Shijing Hu, Jingyang Li, Xingyu Xie, Zhihui Lu, Kim-Chuan Toh, Pan Zhou*. [[pdf](https://arxiv.org/pdf/2502.11018)], [[code](https://github.com/hsj576/GRIFFIN)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/GRIFFIN-blue)
 - **DReSD: Dense Retrieval for Speculative Decoding**  
@@ -416,6 +416,12 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Selin Yildirim, Deming Chen*. [[pdf](https://arxiv.org/pdf/2506.01986)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecMemo-blue) ![](https://img.shields.io/badge/Device--aware_SD-lightgray)
 - **Speculative Decoding via Hybrid Drafting and Rollback-Aware Branch Parallelism**  
   *Yuhao Shen, Junyi Shen, Quan Kong, Tianyu Liu, Yao Lu, Cong Wang*. [[pdf](https://arxiv.org/pdf/2506.01979)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecBranch-blue) ![](https://img.shields.io/badge/Parallel_Speculative_Branches-lightgray)
+- **Out-of-Vocabulary Sampling Boosts Speculative Decoding**  
+  *Nadav Timor, Jonathan Mamou, Oren Pereg, Hongyang Zhang, David Harel*. [[pdf](https://arxiv.org/pdf/2506.03206)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RDK-blue)
+- **POSS: Position Specialist Generates Better Draft for Speculative Decoding**  
+  *Langlin Huang, Chengsong Huang, Jixuan Leng, Di Huang, Jiaxin Huang*. [[pdf](https://arxiv.org/pdf/2506.03566)], [[code](https://github.com/shrango/PosS)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/POSS-blue)
+- **AdaDecode: Accelerating LLM Decoding with Adaptive Layer Parallelism**  
+  *Zhepei Wei, Wei-Lin Chen, Xinyu Zhu, Yu Meng*. [[pdf](https://arxiv.org/pdf/2506.03700)], [[code](https://github.com/weizhepei/AdaDecode)], 2025.06. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/AdaDecode-blue)
 
 ### Multi-Token Prediction
 
@@ -580,6 +586,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Chuanghao Ding, Jiaping Wang, Ziqing Yang, Xiaoliang Wang, Dahua Lin, Cam-Tu Nguyen, Fei Tan*. [[pdf](https://arxiv.org/pdf/2506.02391)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Reuse or Generate? Accelerating Code Editing via Edit-Oriented Speculative Decoding**  
   *Peiding Wang, Li Zhang, Fang Liu, Yinghao Zhu, Wang Xu, Lin Shi, Xiaoli Lian, Minxiao Li, Bo Shen, An Fu*. [[pdf](https://arxiv.org/pdf/2506.02780)], [[code](https://github.com/zhu-zhu-ding/EfficientEdit)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Guided Speculative Inference for Efficient Test-Time Alignment of LLMs**  
+  *Jonathan Geuter, Youssef Mroueh, David Alvarez-Melis*. [[pdf](https://arxiv.org/pdf/2506.04118)], [[code](https://github.com/j-geuter/GSI)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
