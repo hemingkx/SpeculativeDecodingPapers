@@ -422,6 +422,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Langlin Huang, Chengsong Huang, Jixuan Leng, Di Huang, Jiaxin Huang*. [[pdf](https://arxiv.org/pdf/2506.03566)], [[code](https://github.com/shrango/PosS)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/POSS-blue)
 - **AdaDecode: Accelerating LLM Decoding with Adaptive Layer Parallelism**  
   *Zhepei Wei, Wei-Lin Chen, Xinyu Zhu, Yu Meng*. [[pdf](https://arxiv.org/pdf/2506.03700)], [[code](https://github.com/weizhepei/AdaDecode)], 2025.06. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/AdaDecode-blue)
+- **Accelerated Test-Time Scaling with Model-Free Speculative Sampling**  
+  *Woomin Song, Saket Dingliwal, Sai Muralidhar Jayanthi, Bhavana Ganesh, Jinwoo Shin, Aram Galstyan, Sravan Babu Bodapati*. [[pdf](https://arxiv.org/pdf/2506.04708)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/STAND-blue)
 
 ### Multi-Token Prediction
 
