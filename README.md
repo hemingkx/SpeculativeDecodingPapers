@@ -590,6 +590,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Peiding Wang, Li Zhang, Fang Liu, Yinghao Zhu, Wang Xu, Lin Shi, Xiaoli Lian, Minxiao Li, Bo Shen, An Fu*. [[pdf](https://arxiv.org/pdf/2506.02780)], [[code](https://github.com/zhu-zhu-ding/EfficientEdit)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Guided Speculative Inference for Efficient Test-Time Alignment of LLMs**  
   *Jonathan Geuter, Youssef Mroueh, David Alvarez-Melis*. [[pdf](https://arxiv.org/pdf/2506.04118)], [[code](https://github.com/j-geuter/GSI)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Draft-based Approximate Inference for LLMs**  
+  *Kevin Galim, Ethan Ewer, Wonjun Kang, Minjae Lee, Hyung Il Koo, Kangwook Lee*. [[pdf](https://arxiv.org/pdf/2506.08373)], [[code](https://github.com/furiosa-ai/draft-based-approx-llm)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
