@@ -592,6 +592,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Jonathan Geuter, Youssef Mroueh, David Alvarez-Melis*. [[pdf](https://arxiv.org/pdf/2506.04118)], [[code](https://github.com/j-geuter/GSI)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Draft-based Approximate Inference for LLMs**  
   *Kevin Galim, Ethan Ewer, Wonjun Kang, Minjae Lee, Hyung Il Koo, Kangwook Lee*. [[pdf](https://arxiv.org/pdf/2506.08373)], [[code](https://github.com/furiosa-ai/draft-based-approx-llm)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **SLED: A Speculative LLM Decoding Framework for Efficient Edge Serving**  
+  *Xiangchen Li, Dimitrios Spatharakis, Saeid Ghafouri, Jiakun Fan, Dimitrios Nikolopoulos*. [[pdf](https://arxiv.org/pdf/2506.09397)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
