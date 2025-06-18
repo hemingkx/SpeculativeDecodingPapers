@@ -610,7 +610,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **A Theoretical Perspective for Speculative Decoding Algorithm**  
   *Ming Yin, Minshuo Chen, Kaixuan Huang, Mengdi Wang*. [[pdf](https://arxiv.org/pdf/2411.00841)], 2024.11. ![](https://img.shields.io/badge/NeurIPS2024-orange)
 - **Privacy Risks of Speculative Decoding in Large Language Models**  
-  *Jiankun Wei, Abdulrahman Abdulrazzag, Tianchen Zhang, Adel Muursepp, Gururaj Saileshwar.* [[pdf](https://arxiv.org/pdf/2411.01076)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange) 
+  *Jiankun Wei, Abdulrahman Abdulrazzag, Tianchen Zhang, Adel Muursepp, Gururaj Saileshwar.* [[pdf](https://arxiv.org/pdf/2411.01076)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Other Techniques
 
