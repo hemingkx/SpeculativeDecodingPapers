@@ -424,6 +424,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Zhepei Wei, Wei-Lin Chen, Xinyu Zhu, Yu Meng*. [[pdf](https://arxiv.org/pdf/2506.03700)], [[code](https://github.com/weizhepei/AdaDecode)], 2025.06. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/AdaDecode-blue)
 - **Accelerated Test-Time Scaling with Model-Free Speculative Sampling**  
   *Woomin Song, Saket Dingliwal, Sai Muralidhar Jayanthi, Bhavana Ganesh, Jinwoo Shin, Aram Galstyan, Sravan Babu Bodapati*. [[pdf](https://arxiv.org/pdf/2506.04708)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/STAND-blue)
+- **SwiftSpec: Ultra-Low Latency LLM Decoding by Scaling Asynchronous Speculative Decoding**  
+  *Ziyi Zhang, Ziheng Jiang, Chengquan Jiang, Menghan Yu, Size Zheng, Haibin Lin, Henry Hoffmann, Xin Liu*. [[pdf](https://arxiv.org/pdf/2506.11309)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SwiftSpec-blue)
+- **S$^4$C: Speculative Sampling with Syntactic and Semantic Coherence for Efficient Inference of Large Language Models**  
+  *Tao He, Guang Huang, Yu Yang, Tianshi Xu, Sicheng Zhao, Guiguang Ding, Pengyang Wang, Feng Tian*. [[pdf](https://arxiv.org/pdf/2506.14158)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/S4C-blue)
 
 ### Multi-Token Prediction
 
