@@ -369,7 +369,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **SPIN: Accelerating Large Language Model Inference with Heterogeneous Speculative Models**  
   *Fahao Chen, Peng Li, Tom H. Luan, Zhou Su, Jing Deng*. [[pdf](https://arxiv.org/pdf/2503.15921)], 2025.03. ![](https://img.shields.io/badge/INFOCOM2025-orange) ![](https://img.shields.io/badge/SPIN-blue)
 - **DEL: Context-Aware Dynamic Exit Layer for Efficient Self-Speculative Decoding**  
-  *Hossein Entezari Zarch, Lei Gao, Chaoyi Jiang, Murali Annavaram*. [[pdf](https://arxiv.org/pdf/2504.05598)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DEL-blue)
+  *Hossein Entezari Zarch, Lei Gao, Chaoyi Jiang, Murali Annavaram*. [[pdf](https://arxiv.org/pdf/2504.05598)], [[code](https://github.com/hoenza/DEL)], 2025.04. ![](https://img.shields.io/badge/COLM2025-orange) ![](https://img.shields.io/badge/DEL-blue)
 - **SD$^2$: Self-Distilled Sparse Drafters**  
   *Mike Lasby, Nish Sinnadurai, Valavan Manohararajah, Sean Lie, Vithursan Thangarasa*. [[pdf](https://arxiv.org/pdf/2504.08838)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SD^2-blue)
 - **SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting**  
