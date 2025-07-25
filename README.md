@@ -432,6 +432,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Yichao Fu, Rui Ge, Zelei Shao, Zhijie Deng, Hao Zhang*. [[pdf](https://arxiv.org/pdf/2506.19830)], [[code](https://github.com/hao-ai-lab/LookaheadReasoning)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LOOKAHEAD-blue)
 - **LLMs on a Budget? Say HOLA**  
   *Zohaib Hasan Siddiqui, Jiechao Gao, Ebad Shabbir, Mohammad Anas Azeez, Rafiq Ali, Gautam Siddharth Kashyap, Usman Naseem*. [[pdf](https://arxiv.org/abs/2506.18952v1)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HSD-blue)
+- **VOCABTRIM: Vocabulary Pruning for Efficient Speculative Decoding in LLMs**  
+  *Raghavv Goel, Sudhanshu Agrawal, Mukul Gagrani, Junyoung Park, Yifan Zao, He Zhang, Tian Liu, Yiping Yang, Xin Yuan, Jiuyan Lu, Chris Lott, Mingu Lee*. [[pdf](https://arxiv.org/pdf/2506.22694)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VOCABTRIM-blue)
 
 ### Multi-Token Prediction
 
@@ -604,6 +606,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Xiangchen Li, Dimitrios Spatharakis, Saeid Ghafouri, Jiakun Fan, Dimitrios Nikolopoulos*. [[pdf](https://arxiv.org/pdf/2506.09397)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Utility-Driven Speculative Decoding for Mixture-of-Experts**  
   *Anish Saxena, Po-An Tsai, Hritvik Taneja, Aamer Jaleel, Moinuddin Qureshi*. [[pdf](https://arxiv.org/pdf/2506.20675)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Quantize-Sample-and-Verify: LLM Acceleration via Adaptive Edge-Cloud Speculative Decoding**  
+  *Guangyi Zhang, Yunlong Cai, Guanding Yu, Petar Popovski, Osvaldo Simeone*. [[pdf](https://arxiv.org/pdf/2507.00605)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **LogitSpec: Accelerating Retrieval-based Speculative Decoding via Next Next Token Speculation**  
+  *Tianyu Liu, Qitan Lv, Hao Li, Xing Gao, Xiao Sun*. [[pdf](https://arxiv.org/pdf/2507.01449)], [[code](https://github.com/smart-lty/LogitSpec)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
