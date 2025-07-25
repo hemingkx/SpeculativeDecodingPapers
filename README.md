@@ -428,6 +428,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Ziyi Zhang, Ziheng Jiang, Chengquan Jiang, Menghan Yu, Size Zheng, Haibin Lin, Henry Hoffmann, Xin Liu*. [[pdf](https://arxiv.org/pdf/2506.11309)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SwiftSpec-blue)
 - **S$^4$C: Speculative Sampling with Syntactic and Semantic Coherence for Efficient Inference of Large Language Models**  
   *Tao He, Guang Huang, Yu Yang, Tianshi Xu, Sicheng Zhao, Guiguang Ding, Pengyang Wang, Feng Tian*. [[pdf](https://arxiv.org/pdf/2506.14158)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/S4C-blue)
+- **Scaling Speculative Decoding with Lookahead Reasoning**  
+  *Yichao Fu, Rui Ge, Zelei Shao, Zhijie Deng, Hao Zhang*. [[pdf](https://arxiv.org/pdf/2506.19830)], [[code](https://github.com/hao-ai-lab/LookaheadReasoning)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LOOKAHEAD-blue)
+- **LLMs on a Budget? Say HOLA**  
+  *Zohaib Hasan Siddiqui, Jiechao Gao, Ebad Shabbir, Mohammad Anas Azeez, Rafiq Ali, Gautam Siddharth Kashyap, Usman Naseem*. [[pdf](https://arxiv.org/abs/2506.18952v1)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HSD-blue)
 
 ### Multi-Token Prediction
 
@@ -598,6 +602,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Kevin Galim, Ethan Ewer, Wonjun Kang, Minjae Lee, Hyung Il Koo, Kangwook Lee*. [[pdf](https://arxiv.org/pdf/2506.08373)], [[code](https://github.com/furiosa-ai/draft-based-approx-llm)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **SLED: A Speculative LLM Decoding Framework for Efficient Edge Serving**  
   *Xiangchen Li, Dimitrios Spatharakis, Saeid Ghafouri, Jiakun Fan, Dimitrios Nikolopoulos*. [[pdf](https://arxiv.org/pdf/2506.09397)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Utility-Driven Speculative Decoding for Mixture-of-Experts**  
+  *Anish Saxena, Po-An Tsai, Hritvik Taneja, Aamer Jaleel, Moinuddin Qureshi*. [[pdf](https://arxiv.org/pdf/2506.20675)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
