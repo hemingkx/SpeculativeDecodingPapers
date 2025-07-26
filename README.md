@@ -449,6 +449,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Xiaohao Liu, Xiaobo Xia, Weixiang Zhao, Manyi Zhang, Xianzhi Yu, Xiu Su, Shuo Yang, See-Kiong Ng, Tat-Seng Chua*. [[pdf](https://arxiv.org/pdf/2505.17505)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Leap_Token_Prediction-lightgray)
 - **Pre-Training Curriculum for Multi-Token Prediction in Language Models**  
   *Ansar Aynetdinov, Alan Akbik*. [[pdf](https://arxiv.org/pdf/2505.22757)], [[code](https://github.com/aynetdia/mtp_curriculum)], 2025.05. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/MTP_Curriculum-lightgray)
+- **Your LLM Knows the Future: Uncovering Its Multi-Token Prediction Potential**  
+  *Mohammad Samragh, Arnav Kundu, David Harrison, Kumari Nishu, Devang Naik, Minsik Cho, Mehrdad Farajtabar*. [[pdf](https://arxiv.org/pdf/2507.11851)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Multimodal Speculative Decoding
 
@@ -614,6 +616,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Tianyu Liu, Qitan Lv, Hao Li, Xing Gao, Xiao Sun*. [[pdf](https://arxiv.org/pdf/2507.01449)], [[code](https://github.com/smart-lty/LogitSpec)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **FlowSpec: Continuous Pipelined Speculative Decoding for Efficient Distributed LLM Inference**  
   *Xing Liu, Lizhuo Luo, Ming Tang, Chao Huang*. [[pdf](https://arxiv.org/pdf/2507.02620)], [[code](https://github.com/Leosang-lx/FlowSpec)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **TPP-SD: Accelerating Transformer Point Process Sampling with Speculative Decoding**  
+  *Shukai Gong, Yiyang Fu, Fengyuan Ran, Feng Zhou*. [[pdf](https://arxiv.org/pdf/2507.09252)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **DSSD: Efficient Edge-Device LLM Deployment and Collaborative Inference via Distributed Split Speculative Decoding**  
+  *Jiahong Ning, Ce Zheng, Tingting Yang*. [[pdf](https://arxiv.org/pdf/2507.12000)], [[code](https://github.com/JasonNing96/DSSD-Efficient-Edge-Computing)], 2025.07. ![](https://img.shields.io/badge/ICML2025-orange)
 
 ### Analysis
 
