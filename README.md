@@ -436,6 +436,12 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Raghavv Goel, Sudhanshu Agrawal, Mukul Gagrani, Junyoung Park, Yifan Zao, He Zhang, Tian Liu, Yiping Yang, Xin Yuan, Jiuyan Lu, Chris Lott, Mingu Lee*. [[pdf](https://arxiv.org/pdf/2506.22694)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VOCABTRIM-blue)
 - **OmniDraft: A Cross-vocabulary, Online Adaptive Drafter for On-device Speculative Decoding**  
   *Ramchalam Kinattinkara Ramakrishnan, Zhaocong Yuan, Shaojie Zhuo, Chen Feng, Yicheng Lin, Chenzheng Su, Xiaopeng Zhang*. [[pdf](https://arxiv.org/pdf/2507.02659)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/OmniDraft-blue)
+- **PROMTEC: Fast LLM Inference Decoding using Prompt Multi-Lookup with Template Database and Common Sequences**  
+  *Alan Chi-Man Lee, Wing-Sun Cheng, Calvin Chun-Kit Chan*. [[pdf](https://aclanthology.org/2025.findings-acl.355.pdf)], 2025.07. ![](https://img.shields.io/badge/ACL2025--findings-orange) ![](https://img.shields.io/badge/PROMTEC-blue)
+- **SPECTRA: Faster Large Language Model Inference with Optimized Internal and External Speculation**  
+  *Nguyen-Khang Le, Truong Dinh Do, Le-Minh Nguyen*. [[pdf](https://aclanthology.org/2025.acl-long.685.pdf)], 2025.07. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/SPECTRA-blue)
+- **Faster Speculative Decoding via Effective Draft Decoder with Pruned Candidate Tree**  
+  *Huanran Zheng, Xiaoling Wang*. [[pdf](https://aclanthology.org/2025.acl-long.486.pdf)], 2025.07. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/EDD-blue)
 
 ### Multi-Token Prediction
 
@@ -620,6 +626,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Shukai Gong, Yiyang Fu, Fengyuan Ran, Feng Zhou*. [[pdf](https://arxiv.org/pdf/2507.09252)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **DSSD: Efficient Edge-Device LLM Deployment and Collaborative Inference via Distributed Split Speculative Decoding**  
   *Jiahong Ning, Ce Zheng, Tingting Yang*. [[pdf](https://arxiv.org/pdf/2507.12000)], [[code](https://github.com/JasonNing96/DSSD-Efficient-Edge-Computing)], 2025.07. ![](https://img.shields.io/badge/ICML2025-orange)
+- **SpecASR: Accelerating LLM-based Automatic Speech Recognition via Speculative Decoding**  
+  *Linye Wei, Shuzhang Zhong, Songqiang Xu, Runsheng Wang, Ru Huang, Meng Li*. [[pdf](https://arxiv.org/pdf/2507.18181)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
