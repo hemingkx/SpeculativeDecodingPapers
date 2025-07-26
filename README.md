@@ -434,6 +434,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Zohaib Hasan Siddiqui, Jiechao Gao, Ebad Shabbir, Mohammad Anas Azeez, Rafiq Ali, Gautam Siddharth Kashyap, Usman Naseem*. [[pdf](https://arxiv.org/abs/2506.18952v1)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HSD-blue)
 - **VOCABTRIM: Vocabulary Pruning for Efficient Speculative Decoding in LLMs**  
   *Raghavv Goel, Sudhanshu Agrawal, Mukul Gagrani, Junyoung Park, Yifan Zao, He Zhang, Tian Liu, Yiping Yang, Xin Yuan, Jiuyan Lu, Chris Lott, Mingu Lee*. [[pdf](https://arxiv.org/pdf/2506.22694)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VOCABTRIM-blue)
+- **OmniDraft: A Cross-vocabulary, Online Adaptive Drafter for On-device Speculative Decoding**  
+  *Ramchalam Kinattinkara Ramakrishnan, Zhaocong Yuan, Shaojie Zhuo, Chen Feng, Yicheng Lin, Chenzheng Su, Xiaopeng Zhang*. [[pdf](https://arxiv.org/pdf/2507.02659)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/OmniDraft-blue)
 
 ### Multi-Token Prediction
 
@@ -610,6 +612,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Guangyi Zhang, Yunlong Cai, Guanding Yu, Petar Popovski, Osvaldo Simeone*. [[pdf](https://arxiv.org/pdf/2507.00605)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **LogitSpec: Accelerating Retrieval-based Speculative Decoding via Next Next Token Speculation**  
   *Tianyu Liu, Qitan Lv, Hao Li, Xing Gao, Xiao Sun*. [[pdf](https://arxiv.org/pdf/2507.01449)], [[code](https://github.com/smart-lty/LogitSpec)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **FlowSpec: Continuous Pipelined Speculative Decoding for Efficient Distributed LLM Inference**  
+  *Xing Liu, Lizhuo Luo, Ming Tang, Chao Huang*. [[pdf](https://arxiv.org/pdf/2507.02620)], [[code](https://github.com/Leosang-lx/FlowSpec)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
