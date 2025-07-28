@@ -347,7 +347,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **TETRIS: Optimal Draft Token Selection for Batch Speculative Decoding**  
   *Zhaoxuan Wu, Zijian Zhou, Arun Verma, Alok Prakash, Daniela Rus, Bryan Kian Hsiang Low*. [[pdf](https://arxiv.org/pdf/2502.15197)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/TETRIS-blue)
 - **CORAL: Learning Consistent Representations across Multi-step Training with Lighter Speculative Drafter**  
-  *Yepeng Weng, Dianwen Mei, Huishi Qiu, Xujie Chen, Li Liu, Jiang Tian, Zhongchao Shi*. [[pdf](https://arxiv.org/pdf/2502.16880)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CORAL-blue)
+  *Yepeng Weng, Dianwen Mei, Huishi Qiu, Xujie Chen, Li Liu, Jiang Tian, Zhongchao Shi*. [[pdf](https://arxiv.org/pdf/2502.16880)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/CORAL-blue)
 - **Fuzzy Speculative Decoding for a Tunable Accuracy-Runtime Tradeoff**  
   *Maximilian Holsman, Yukun Huang, Bhuwan Dhingra*. [[pdf](https://www.arxiv.org/pdf/2502.20704)], 2025.02. ![](https://img.shields.io/badge/ACL2025--findings-orange) ![](https://img.shields.io/badge/FSD-blue)
 - **EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test**  
@@ -375,7 +375,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting**  
   *Jiaming Xu, Jiayi Pan, Yongkang Zhou, Siming Chen, Jinhao Li, Yaoxiu Lian, Junyi Wu, Guohao Dai*. [[pdf](https://arxiv.org/pdf/2504.08850)], 2025.04. ![](https://img.shields.io/badge/ISCA2025-orange) ![](https://img.shields.io/badge/SpecEE-blue)
 - **Speculative Sampling via Exponential Races**  
-  *Szymon Kobus, Deniz Gündüz*. [[pdf](https://arxiv.org/pdf/2504.15475)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ERSD-blue)
+  *Szymon Kobus, Deniz Gündüz*. [[pdf](https://arxiv.org/pdf/2504.15475)], 2025.04. ![](https://img.shields.io/badge/ACL2025--findings-orange) ![](https://img.shields.io/badge/ERSD-blue)
 - **AutoJudge: Judge Decoding Without Manual Annotation**  
   *Roman Garipov, Fedor Velikonivtsev, Ruslan Svirschevski, Vage Egiazarian, Max Ryabinin*. [[pdf](https://arxiv.org/pdf/2504.20039)], [[code](https://github.com/garipovroma/autojudge)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AutoJudge-blue)
 - **PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation**  
