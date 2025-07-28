@@ -476,6 +476,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Xuan Zhang, Cunxiao Du, Sicheng Yu, Jiawei Wu, Fengzhuo Zhang, Wei Gao, Qian Liu*. [[pdf](https://arxiv.org/pdf/2505.19155)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/StD-blue)
 - **Speculative Decoding Reimagined for Multimodal Large Language Models**  
   *Luxi Lin, Zhihang Lin, Zhanpeng Zeng, Rongrong Ji*. [[pdf](https://arxiv.org/pdf/2505.14260)], [[code](https://github.com/Lyn-Lucy/MSD)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MSD-blue)
+- **Spec-LLaVA: Accelerating Vision-Language Models with Dynamic Tree-Based Speculative Decoding**  
+  *Mingxiao Huo, Jiayi Zhang, Hewei Wang, Jinfeng Xu, Zheyu Chen, Huilin Tai, Ian Yijun Chen*. [[pdf](https://openreview.net/pdf?id=GiILZG2fjG)], 2025.07. ![](https://img.shields.io/badge/TTODLer--FM-orange) ![](https://img.shields.io/badge/Spec--LLaVA-blue)
 
 ### Long-Context Speculative Decoding
 
@@ -676,6 +678,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 **How Speculative Decoding Boosts vLLM Performance by up to 2.8x.** vLLM Team. 2024.10. [[Blog](https://blog.vllm.ai/2024/10/17/spec-decode.html)]
 
 **Fastest Speculative Decoding in vLLM with Arctic Inference and Arctic Training.** Snowflake AI Research. 2025.05. [[Blog](https://www.snowflake.com/en/engineering-blog/fast-speculative-decoding-vllm-arctic/)]
+
+**SpecForge: Accelerating Speculative Decoding Training for SGLang.** The SGLang Team. 2025.07. [[Blog](https://lmsys.org/blog/2025-07-25-spec-forge/)] [[Code](https://github.com/sgl-project/SpecForge)]
 
 ## Contributors
 
