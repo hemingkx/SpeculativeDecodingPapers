@@ -630,6 +630,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Jiahong Ning, Ce Zheng, Tingting Yang*. [[pdf](https://arxiv.org/pdf/2507.12000)], [[code](https://github.com/JasonNing96/DSSD-Efficient-Edge-Computing)], 2025.07. ![](https://img.shields.io/badge/ICML2025-orange)
 - **SpecASR: Accelerating LLM-based Automatic Speech Recognition via Speculative Decoding**  
   *Linye Wei, Shuzhang Zhong, Songqiang Xu, Runsheng Wang, Ru Huang, Meng Li*. [[pdf](https://arxiv.org/pdf/2507.18181)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Model-free Speculative Decoding for Transformer-based ASR with Token Map Drafting**  
+  *Tuan Vu Ho, Hiroaki Kokubo, Masaaki Yamamoto, Yohei Kawaguchi*. [[pdf](https://arxiv.org/pdf/2507.21522)], 2025.07. ![](https://img.shields.io/badge/EUSIPCO2025-orange)
 
 ### Analysis
 
