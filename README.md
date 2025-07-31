@@ -478,6 +478,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Luxi Lin, Zhihang Lin, Zhanpeng Zeng, Rongrong Ji*. [[pdf](https://arxiv.org/pdf/2505.14260)], [[code](https://github.com/Lyn-Lucy/MSD)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MSD-blue)
 - **Spec-LLaVA: Accelerating Vision-Language Models with Dynamic Tree-Based Speculative Decoding**  
   *Mingxiao Huo, Jiayi Zhang, Hewei Wang, Jinfeng Xu, Zheyu Chen, Huilin Tai, Ian Yijun Chen*. [[pdf](https://openreview.net/pdf?id=GiILZG2fjG)], 2025.07. ![](https://img.shields.io/badge/TTODLer--FM-orange) ![](https://img.shields.io/badge/Spec--LLaVA-blue)
+- **Spec-VLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance**  
+  *Songsheng Wang, Rucheng Yu, Zhihang Yuan, Chao Yu, Feng Gao, Yu Wang, Derek F. Wong*. [[pdf](https://arxiv.org/pdf/2507.22424)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Spec--VLA-blue)
 
 ### Long-Context Speculative Decoding
 
