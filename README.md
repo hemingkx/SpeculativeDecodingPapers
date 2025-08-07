@@ -442,6 +442,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Nguyen-Khang Le, Truong Dinh Do, Le-Minh Nguyen*. [[pdf](https://aclanthology.org/2025.acl-long.685.pdf)], 2025.07. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/SPECTRA-blue)
 - **Faster Speculative Decoding via Effective Draft Decoder with Pruned Candidate Tree**  
   *Huanran Zheng, Xiaoling Wang*. [[pdf](https://aclanthology.org/2025.acl-long.486.pdf)], 2025.07. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/EDD-blue)
+- **CARD: Cache-Assisted Parallel Speculative Decoding for Efficient Large Language Model Inference**  
+  *Enyu Zhou, Kai Sheng, Hao Chen, Xin He*. [[pdf](https://arxiv.org/pdf/2508.04462)], [[code](https://github.com/hunzhizi/CARD)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CARD-blue)
 
 ### Multi-Token Prediction
 
