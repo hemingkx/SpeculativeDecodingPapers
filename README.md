@@ -79,6 +79,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Hyun Ryu, Eric Kim.* [[pdf](https://arxiv.org/pdf/2411.13157)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Speculative Decoding and Beyond: An In-Depth Review of Techniques**  
   *Yunhai Hu, Zining Liu, Zhenyuan Dong, Tianfan Peng, Bradley McDanel, Sai Qian Zhang.* [[pdf](https://arxiv.org/pdf/2502.19732)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
+- **A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models**  
+  *Lingzhe Zhang, Liancheng Fang, Chiming Duan, Minghua He, Leyi Pan, Pei Xiao, Shiyu Huang, Yunpeng Zhai, Xuming Hu, Philip S. Yu, Aiwei Liu.* [[pdf](https://arxiv.org/pdf/2508.08712)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Speculative Decoding for Seq2Seq
 
@@ -444,6 +446,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Huanran Zheng, Xiaoling Wang*. [[pdf](https://aclanthology.org/2025.acl-long.486.pdf)], 2025.07. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/EDD-blue)
 - **CARD: Cache-Assisted Parallel Speculative Decoding for Efficient Large Language Model Inference**  
   *Enyu Zhou, Kai Sheng, Hao Chen, Xin He*. [[pdf](https://arxiv.org/pdf/2508.04462)], [[code](https://github.com/hunzhizi/CARD)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CARD-blue)
+- **Efficient Speculative Decoding for Llama at Scale: Challenges and Solutions**  
+  *GenAI and Infra Teams at Meta*. [[pdf](https://arxiv.org/pdf/2508.08192)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
+- **READER: Retrieval-Assisted Drafter for Efficient LLM Inference**  
+  *Maxim Divilkovskiy, Vitaly Malygin, Sergey Zlobin, Sultan Isali, Vasily Kalugin, Stanislav Ilyushin, Nuriza Aitassova, Yi Fei, Zeng Weidi*. [[pdf](https://arxiv.org/pdf/2508.09072)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/READER-blue)
 
 ### Multi-Token Prediction
 
@@ -482,6 +488,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Mingxiao Huo, Jiayi Zhang, Hewei Wang, Jinfeng Xu, Zheyu Chen, Huilin Tai, Ian Yijun Chen*. [[pdf](https://openreview.net/pdf?id=GiILZG2fjG)], 2025.07. ![](https://img.shields.io/badge/TTODLer--FM-orange) ![](https://img.shields.io/badge/Spec--LLaVA-blue)
 - **Spec-VLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance**  
   *Songsheng Wang, Rucheng Yu, Zhihang Yuan, Chao Yu, Feng Gao, Yu Wang, Derek F. Wong*. [[pdf](https://arxiv.org/pdf/2507.22424)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Spec--VLA-blue)
+- **Grouped Speculative Decoding for Autoregressive Image Generation**  
+  *Junhyuk So, Juncheol Shin, Hyunho Kook, Eunhyeok Park*. [[pdf](https://arxiv.org/pdf/2508.07747)], [[code](https://github.com/junhyukso/GSD)], 2025.08. ![](https://img.shields.io/badge/ICCV2025-orange) ![](https://img.shields.io/badge/GSD-blue)
 
 ### Long-Context Speculative Decoding
 
@@ -636,6 +644,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Linye Wei, Shuzhang Zhong, Songqiang Xu, Runsheng Wang, Ru Huang, Meng Li*. [[pdf](https://arxiv.org/pdf/2507.18181)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Model-free Speculative Decoding for Transformer-based ASR with Token Map Drafting**  
   *Tuan Vu Ho, Hiroaki Kokubo, Masaaki Yamamoto, Yohei Kawaguchi*. [[pdf](https://arxiv.org/pdf/2507.21522)], 2025.07. ![](https://img.shields.io/badge/EUSIPCO2025-orange)
+- **LP-Spec: Leveraging LPDDR PIM for Efficient LLM Mobile Speculative Inference with Architecture-Dataflow Co-Optimization**  
+  *Siyuan He, Zhantong Zhu, Yandong He, Tianyu Jia*. [[pdf](https://arxiv.org/pdf/2508.07227)], 2025.08. ![](https://img.shields.io/badge/ICCAD2025-orange)
 
 ### Analysis
 
