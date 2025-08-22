@@ -86,19 +86,14 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 
 - **Blockwise Parallel Decoding for Deep Autoregressive Models**  
   *Mitchell Stern, Noam Shazeer, Jakob Uszkoreit*. [[pdf](https://arxiv.org/pdf/1811.03115.pdf)], 2018.11. ![](https://img.shields.io/badge/NIPS2018-orange) ![](https://img.shields.io/badge/Self--Draft:_specialized_FFN_heads-green) ![](https://img.shields.io/badge/Blockwise_Decoding-blue)
-
 - **Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**  
   *Heming Xia, Tao Ge, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui*. [[pdf](https://aclanthology.org/2023.findings-emnlp.257.pdf)], [[code](https://github.com/hemingkx/SpecDec)], 2022.03. ![](https://img.shields.io/badge/EMNLP2023--findings-orange) ![](https://img.shields.io/badge/Drafter:_specialized_Non--Auto_LM-green) ![](https://img.shields.io/badge/SpecDec-blue)
-
 - **Speculative Decoding with Big Little Decoder**  
   *Sehoon Kim, Karttikeya Mangalam, Suhong Moon, John Canny, Jitendra Malik, Michael W. Mahoney, Amir Gholami, Kurt Keutzer*. [[pdf](https://openreview.net/pdf?id=EfMyf9MC3t)], [[code](https://github.com/kssteven418/BigLittleDecoder)], 2023.02. ![](https://img.shields.io/badge/NIPS2023-orange) ![](https://img.shields.io/badge/Drafter:_smaller_LM-green) ![](https://img.shields.io/badge/BiLD-blue)
-
 - **Accelerating Transformer Inference for Translation via Parallel Decoding**  
   *Andrea Santilli, Silvio Severino, Emilian Postolache, Valentino Maiorca, Michele Mancusi, Riccardo Marin, Emanuele Rodolà*. [[pdf](https://aclanthology.org/2023.acl-long.689.pdf)], 2023.05. ![](https://img.shields.io/badge/ACL2023-orange) ![](https://img.shields.io/badge/Self--Draft:_jacobi_decoding-green)
-  
 - **SPEED: Speculative Pipelined Execution for Efficient Decoding**  
   *Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Hasan Genc, Kurt Keutzer, Amir Gholami, Sophia Shao*. [[pdf](https://arxiv.org/pdf/2310.12072.pdf)], 2023.10. ![](https://img.shields.io/badge/ENLSP_at_NIPS2023-orange) ![](https://img.shields.io/badge/Self--Draft:_early--exiting-green) ![](https://img.shields.io/badge/SPEED-blue)
-  
 - **Fast and Robust Early-Exiting Framework for Autoregressive Language Models with Synchronized Parallel Decoding**  
   *Sangmin Bae, Jongwoo Ko, Hwanjun Song, Se-Young Yun*. [[pdf](https://aclanthology.org/2023.emnlp-main.362.pdf)], [[code](https://github.com/raymin0223/fast_robust_early_exit)], 2023.10. ![](https://img.shields.io/badge/EMNLP2023-orange) ![](https://img.shields.io/badge/Self--Draft:_early--exiting-green) ![](https://img.shields.io/badge/FREE-blue)
 
@@ -650,6 +645,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Tuan Vu Ho, Hiroaki Kokubo, Masaaki Yamamoto, Yohei Kawaguchi*. [[pdf](https://arxiv.org/pdf/2507.21522)], 2025.07. ![](https://img.shields.io/badge/EUSIPCO2025-orange)
 - **LP-Spec: Leveraging LPDDR PIM for Efficient LLM Mobile Speculative Inference with Architecture-Dataflow Co-Optimization**  
   *Siyuan He, Zhantong Zhu, Yandong He, Tianyu Jia*. [[pdf](https://arxiv.org/pdf/2508.07227)], 2025.08. ![](https://img.shields.io/badge/ICCAD2025-orange)
+- **Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner**  
+  *Bolian Li, Yanran Wu, Xinyu Luo, Ruqi Zhang*. [[pdf](https://arxiv.org/pdf/2508.15044)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
