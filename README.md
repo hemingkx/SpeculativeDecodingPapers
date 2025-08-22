@@ -484,6 +484,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Xuan Zhang, Cunxiao Du, Sicheng Yu, Jiawei Wu, Fengzhuo Zhang, Wei Gao, Qian Liu*. [[pdf](https://arxiv.org/pdf/2505.19155)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/StD-blue)
 - **Speculative Decoding Reimagined for Multimodal Large Language Models**  
   *Luxi Lin, Zhihang Lin, Zhanpeng Zeng, Rongrong Ji*. [[pdf](https://arxiv.org/pdf/2505.14260)], [[code](https://github.com/Lyn-Lucy/MSD)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MSD-blue)
+- **DREAM: Drafting with Refined Target Features and Entropy-Adaptive Cross-Attention Fusion for Multimodal Speculative Decoding**  
+  *Yunhai Hu, Tianhua Xia, Zining Liu, Rahul Raman, Xingyu Liu, Bo Bao, Eric Sather, Vithursan Thangarasa, Sai Qian Zhang*. [[pdf](https://arxiv.org/pdf/2505.19201)], [[code](https://github.com/SAI-Lab-NYU/DREAM)], 2025.05. ![](https://img.shields.io/badge/ICCV2025-orange) ![](https://img.shields.io/badge/DREAM-blue)
+- **MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models**  
+  *Mugilan Ganesan, Shane Segal, Ankur Aggarwal, Nish Sinnadurai, Sean Lie, Vithursan Thangarasa*. [[pdf](https://arxiv.org/pdf/2505.10526)], 2025.05. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/MASSV-blue)
 - **Spec-LLaVA: Accelerating Vision-Language Models with Dynamic Tree-Based Speculative Decoding**  
   *Mingxiao Huo, Jiayi Zhang, Hewei Wang, Jinfeng Xu, Zheyu Chen, Huilin Tai, Ian Yijun Chen*. [[pdf](https://openreview.net/pdf?id=GiILZG2fjG)], 2025.07. ![](https://img.shields.io/badge/TTODLer--FM-orange) ![](https://img.shields.io/badge/Spec--LLaVA-blue)
 - **Spec-VLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance**  
