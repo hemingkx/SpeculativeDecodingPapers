@@ -489,6 +489,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Songsheng Wang, Rucheng Yu, Zhihang Yuan, Chao Yu, Feng Gao, Yu Wang, Derek F. Wong*. [[pdf](https://arxiv.org/pdf/2507.22424)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Spec--VLA-blue)
 - **Grouped Speculative Decoding for Autoregressive Image Generation**  
   *Junhyuk So, Juncheol Shin, Hyunho Kook, Eunhyeok Park*. [[pdf](https://arxiv.org/pdf/2508.07747)], [[code](https://github.com/junhyukso/GSD)], 2025.08. ![](https://img.shields.io/badge/ICCV2025-orange) ![](https://img.shields.io/badge/GSD-blue)
+- **SpecVLM: Enhancing Speculative Decoding of Video LLMs via Verifier-Guided Token Pruning**  
+  *Yicheng Ji, Jun Zhang, Heming Xia, Jinpeng Chen, Lidan Shou, Gang Chen, Huan Li*. [[pdf](https://arxiv.org/pdf/2508.16201)], 2025.08. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/SpecVLM-blue)
 
 ### Long-Context Speculative Decoding
 
