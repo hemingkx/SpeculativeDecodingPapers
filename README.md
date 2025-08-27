@@ -649,6 +649,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Siyuan He, Zhantong Zhu, Yandong He, Tianyu Jia*. [[pdf](https://arxiv.org/pdf/2508.07227)], 2025.08. ![](https://img.shields.io/badge/ICCAD2025-orange)
 - **Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner**  
   *Bolian Li, Yanran Wu, Xinyu Luo, Ruqi Zhang*. [[pdf](https://arxiv.org/pdf/2508.15044)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Speculative Safety-Aware Decoding**  
+  *Xuekang Wang, Shengyu Zhu, Xueqi Cheng*. [[pdf](https://arxiv.org/pdf/2508.17739)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
