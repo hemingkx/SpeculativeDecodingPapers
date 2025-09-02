@@ -41,6 +41,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   - [Multi-Token Prediction](#multi-token-prediction)
   - [Multimodal Speculative Decoding](#multimodal-speculative-decoding)
   - [Long-Context Speculative Decoding](#long-context-speculative-decoding)
+  - [Speculative Decoding for Mixture-of-Experts](#speculative-decoding-for-mixture-of-experts)
   - [Alignment](#alignment)
   - [Benchmarks](#benchmarks)
   - [Applications](#applications)
@@ -509,6 +510,17 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences**  
   *Jungyoub Cha, Hyunjong Kim, Sungzoon Cho*. [[pdf](https://arxiv.org/pdf/2505.20776)], [[code](https://github.com/jycha98/SpecExtend)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecExtend-blue)
 
+### Speculative Decoding for Mixture-of-Experts
+
+- **DeepSeek-V3 Technical Report**  
+  *DeepSeek Team*. [[pdf](https://arxiv.org/pdf/2412.19437)], 2024.12. ![](https://img.shields.io/badge/Technical_Report-orange) ![](https://img.shields.io/badge/Pretraining-lightgray)
+- **Utility-Driven Speculative Decoding for Mixture-of-Experts**  
+  *Anish Saxena, Po-An Tsai, Hritvik Taneja, Aamer Jaleel, Moinuddin Qureshi*. [[pdf](https://arxiv.org/pdf/2506.20675)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Accelerating Mixture-of-Experts Inference by Hiding Offloading Latency with Speculative Decoding**  
+  *Zhibin Wang, Zhonghui Zhang, Yuhang Zhou, Zibo Wang, Mo Zhou, Peng Jiang, Weilin Cai, Chengying Huan, Rong Gu, Sheng Zhong, Chen Tian*. [[pdf](https://arxiv.org/pdf/2508.21706)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
+- **LongCat-Flash Technical Report**  
+  *Meituan LongCat Team*. [[pdf](https://github.com/meituan-longcat/LongCat-Flash-Chat/blob/main/tech_report.pdf)], 2025.08. ![](https://img.shields.io/badge/Technical_Report-orange) ![](https://img.shields.io/badge/Pretraining-lightgray)
+
 ### Alignment
 
 - **Direct Alignment of Draft Model for Speculative Decoding with Chat-Fine-Tuned LLMs**  
@@ -629,8 +641,6 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Kevin Galim, Ethan Ewer, Wonjun Kang, Minjae Lee, Hyung Il Koo, Kangwook Lee*. [[pdf](https://arxiv.org/pdf/2506.08373)], [[code](https://github.com/furiosa-ai/draft-based-approx-llm)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **SLED: A Speculative LLM Decoding Framework for Efficient Edge Serving**  
   *Xiangchen Li, Dimitrios Spatharakis, Saeid Ghafouri, Jiakun Fan, Dimitrios Nikolopoulos*. [[pdf](https://arxiv.org/pdf/2506.09397)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Utility-Driven Speculative Decoding for Mixture-of-Experts**  
-  *Anish Saxena, Po-An Tsai, Hritvik Taneja, Aamer Jaleel, Moinuddin Qureshi*. [[pdf](https://arxiv.org/pdf/2506.20675)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Quantize-Sample-and-Verify: LLM Acceleration via Adaptive Edge-Cloud Speculative Decoding**  
   *Guangyi Zhang, Yunlong Cai, Guanding Yu, Petar Popovski, Osvaldo Simeone*. [[pdf](https://arxiv.org/pdf/2507.00605)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **LogitSpec: Accelerating Retrieval-based Speculative Decoding via Next Next Token Speculation**  
