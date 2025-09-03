@@ -661,6 +661,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Bolian Li, Yanran Wu, Xinyu Luo, Ruqi Zhang*. [[pdf](https://arxiv.org/pdf/2508.15044)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Speculative Safety-Aware Decoding**  
   *Xuekang Wang, Shengyu Zhu, Xueqi Cheng*. [[pdf](https://arxiv.org/pdf/2508.17739)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Dynamic Speculative Agent Planning**  
+  *Yilin Guan, Wenyue Hua, Qingfeng Lan, Sun Fei, Dujian Ding, Devang Acharya, Chi Wang, William Yang Wang*. [[pdf](https://arxiv.org/pdf/2509.01920)], [[code](https://github.com/guanyilin428/Dynamic-Speculative-Planning)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
