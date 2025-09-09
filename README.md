@@ -492,6 +492,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Junhyuk So, Juncheol Shin, Hyunho Kook, Eunhyeok Park*. [[pdf](https://arxiv.org/pdf/2508.07747)], [[code](https://github.com/junhyukso/GSD)], 2025.08. ![](https://img.shields.io/badge/ICCV2025-orange) ![](https://img.shields.io/badge/GSD-blue)
 - **SpecVLM: Enhancing Speculative Decoding of Video LLMs via Verifier-Guided Token Pruning**  
   *Yicheng Ji, Jun Zhang, Heming Xia, Jinpeng Chen, Lidan Shou, Gang Chen, Huan Li*. [[pdf](https://arxiv.org/pdf/2508.16201)], 2025.08. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/SpecVLM-blue)
+- **SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning**  
+  *Hanzhen Wang, Jiaming Xu, Jiayi Pan, Yongkang Zhou, Guohao Dai*. [[pdf](https://arxiv.org/pdf/2509.05614)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecPrune--VLA-blue)
 
 ### Long-Context Speculative Decoding
 
@@ -538,6 +540,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 
 - **Spec-Bench: A Comprehensive Benchmark for Speculative Decoding**  
   *Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, Tao Ge, Tianyu Liu, Wenjie Li, Zhifang Sui.* [[pdf](https://arxiv.org/pdf/2401.07851.pdf)], [[code](https://github.com/hemingkx/Spec-Bench)], [[blog](https://sites.google.com/view/spec-bench)], 2024.02. ![](https://img.shields.io/badge/ACL2024--findings-orange) ![](https://img.shields.io/badge/Spec--Bench-blue)
+- **Scaling Up, Speeding Up: A Benchmark of Speculative Decoding for Efficient LLM Test-Time Scaling**  
+  *Shengyin Sun, Yiming Li, Xing Li, Yingzhao Lian, Weizhe Lin, Hui-Ling Zhen, Zhiyuan Yang, Chen Chen, Xianzhi Yu, Mingxuan Yuan, Chen Ma.* [[pdf](https://arxiv.org/pdf/2509.04474)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Applications
 
