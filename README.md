@@ -78,7 +78,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Chen Zhang, Zhuorui Liu, Dawei Song.* [[pdf](https://arxiv.org/pdf/2404.14897.pdf)], 2024.04. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding**  
   *Hyun Ryu, Eric Kim.* [[pdf](https://arxiv.org/pdf/2411.13157)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Speculative Decoding and Beyond: An In-Depth Review of Techniques**
+- **Speculative Decoding and Beyond: An In-Depth Review of Techniques**  
   *Yunhai Hu, Zining Liu, Zhenyuan Dong, Tianfan Peng, Bradley McDanel, Sai Qian Zhang.* [[pdf](https://arxiv.org/pdf/2502.19732)], 2025.02. ![](https://img.shields.io/badge/EMNLP2025--findings-orange)
 - **A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models**  
   *Lingzhe Zhang, Liancheng Fang, Chiming Duan, Minghua He, Leyi Pan, Pei Xiao, Shiyu Huang, Yunpeng Zhai, Xuming Hu, Philip S. Yu, Aiwei Liu.* [[pdf](https://arxiv.org/pdf/2508.08712)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
@@ -292,7 +292,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Ziyao Wang, Muneeza Azmat, Ang Li, Raya Horesh, Mikhail Yurochkin*. [[pdf](https://arxiv.org/pdf/2502.08020)], 2024.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoSD-blue)
 - **Fast and Accurate Language Model Decoding via Parallel Token Processing**  
   *Zhepei Wei, Wei-Lin Chen, Xinyu Zhu, Yu Meng*. [[pdf](https://openreview.net/attachment?id=IRsxTYPqhQ&name=pdf)], 2024.10. ![](https://img.shields.io/badge/ICLR2025_submission-orange) ![](https://img.shields.io/badge/ParaDecode-blue)
-- **AMUSD: Asynchronous Multi-Device Speculative Decoding for LLM Acceleration**
+- **AMUSD: Asynchronous Multi-Device Speculative Decoding for LLM Acceleration**  
   *Bradley McDanel*. [[pdf](https://arxiv.org/pdf/2410.17375)], [[code](https://github.com/BradMcDanel/AMUSD/)], 2024.10. ![](https://img.shields.io/badge/ISCAS2025-orange) ![](https://img.shields.io/badge/AMUSD-blue)
 - **AdaEDL: Early Draft Stopping for Speculative Decoding of Large Language Models via an Entropy-based Lower Bound on Token Acceptance Probability**  
   *Sudhanshu Agrawal, Wonseok Jeon, Mingu Lee*. [[pdf](https://arxiv.org/pdf/2410.18351)], 2024.10. ![](https://img.shields.io/badge/ENLSP_at_NIPS2024-orange) ![](https://img.shields.io/badge/AdaEDL-blue)
@@ -378,7 +378,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Roman Garipov, Fedor Velikonivtsev, Ruslan Svirschevski, Vage Egiazarian, Max Ryabinin*. [[pdf](https://arxiv.org/pdf/2504.20039)], [[code](https://github.com/garipovroma/autojudge)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AutoJudge-blue)
 - **PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation**  
   *Zihao An, Huajun Bai, Ziqiong Liu, Dong Li, Emad Barsoum*. [[pdf](https://arxiv.org/pdf/2504.18583)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PARD-blue)
-- **PipeSpec: Breaking Stage Dependencies in Hierarchical LLM Decoding**
+- **PipeSpec: Breaking Stage Dependencies in Hierarchical LLM Decoding**  
   *Bradley McDanel, Sai Qian Zhang, Yunhai Hu, Zining Liu*. [[pdf](https://arxiv.org/pdf/2505.01572)], 2025.05. ![](https://img.shields.io/badge/ACL2025--findings-orange) ![](https://img.shields.io/badge/PipeSpec-blue)
 - **SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models**  
   *Hang Wu, Jianian Zhu, Yinghui Li, Haojie Wang, Biao Hou, Jidong Zhai*. [[pdf](https://arxiv.org/pdf/2505.07680)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecRouter-blue)
