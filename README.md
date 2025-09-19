@@ -673,6 +673,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Xuekang Wang, Shengyu Zhu, Xueqi Cheng*. [[pdf](https://arxiv.org/pdf/2508.17739)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Dynamic Speculative Agent Planning**  
   *Yilin Guan, Wenyue Hua, Qingfeng Lan, Sun Fei, Dujian Ding, Devang Acharya, Chi Wang, William Yang Wang*. [[pdf](https://arxiv.org/pdf/2509.01920)], [[code](https://github.com/guanyilin428/Dynamic-Speculative-Planning)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
+- **A1: Asynchronous Test-Time Scaling via Conformal Prediction**  
+  *Jing Xiong, Qiujiang Chen, Fanghua Ye, Zhongwei Wan, Chuanyang Zheng, Chenyang Zhao, Hui Shen, Alexander Hanbo Li, Chaofan Tao, Haochen Tan, Haoli Bai, Lifeng Shang, Lingpeng Kong, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2509.15148)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
