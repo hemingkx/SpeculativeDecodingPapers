@@ -494,6 +494,12 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Yicheng Ji, Jun Zhang, Heming Xia, Jinpeng Chen, Lidan Shou, Gang Chen, Huan Li*. [[pdf](https://arxiv.org/pdf/2508.16201)], 2025.08. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/SpecVLM-blue)
 - **SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning**  
   *Hanzhen Wang, Jiaming Xu, Jiayi Pan, Yongkang Zhou, Guohao Dai*. [[pdf](https://arxiv.org/pdf/2509.05614)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecPrune--VLA-blue)
+- **SpeCa: Accelerating Diffusion Transformers with Speculative Feature Caching**  
+  *Jiacheng Liu, Chang Zou, Yuanhuiyi Lyu, Fei Ren, Shaobo Wang, Kaixin Li, Linfeng Zhang*. [[pdf](https://arxiv.org/pdf/2509.11628)], [[code](https://github.com/Shenyi-Z/Cache4Diffusion/)], 2025.09. ![](https://img.shields.io/badge/ACMMM2025-orange) ![](https://img.shields.io/badge/SpeCa-blue)
+- **Spec-LLaVA: Accelerating Vision-Language Models with Dynamic Tree-Based Speculative Decoding**  
+  *Mingxiao Huo, Jiayi Zhang, Hewei Wang, Jinfeng Xu, Zheyu Chen, Huilin Tai, Yijun Chen*. [[pdf](https://arxiv.org/pdf/2509.11961)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Spec--LLaVA-blue)
+- **SpecVLM: Fast Speculative Decoding in Vision-Language Models**  
+  *Haiduo Huang, Fuwei Yang, Zhenhua Liu, Xuanwu Yin, Dong Li, Pengju Ren, Emad Barsoum*. [[pdf](https://arxiv.org/pdf/2509.11815)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecVLM-blue)
 
 ### Long-Context Speculative Decoding
 
