@@ -301,7 +301,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **The N-Grammys: Accelerating Autoregressive Inference with Learning-Free Batched Speculation**  
   *Lawrence Stewart, Matthew Trager, Sujan Kumar Gonugondla, Stefano Soatto*. [[pdf](https://arxiv.org/pdf/2411.03786)], 2024.11. ![](https://img.shields.io/badge/ENLSP--IV_2024-orange)
 - **SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**  
-  *Gabriele Oliaro, Zhihao Jia, Daniel Campos, Aurick Qiao*. [[pdf](https://arxiv.org/pdf/2411.04975)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Draft:_prior_outputs-green) ![](https://img.shields.io/badge/SuffixDecoding-blue)
+  *Gabriele Oliaro, Zhihao Jia, Daniel Campos, Aurick Qiao*. [[pdf](https://arxiv.org/pdf/2411.04975)], 2024.11. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/Draft:_prior_outputs-green) ![](https://img.shields.io/badge/SuffixDecoding-blue)
 - **SSSD: Simply-Scalable Speculative Decoding**  
   *Michele Marzollo, Jiawei Zhuang, Niklas Roemer, Lorenz K. Müller, Lukas Cavigelli*. [[pdf](https://arxiv.org/pdf/2411.05894)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SSSD-blue)
 - **FastDraft: How to Train Your Draft**  
@@ -323,7 +323,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Reward-Guided Speculative Decoding for Efficient LLM Reasoning**  
   *Baohao Liao, Yuhui Xu, Hanze Dong, Junnan Li, Christof Monz, Silvio Savarese, Doyen Sahoo, Caiming Xiong*. [[pdf](https://arxiv.org/pdf/2501.19324)], 2025.01. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/Reward--Guided_Speculative_Decoding-lightgray) ![](https://img.shields.io/badge/RSD-blue)
 - **EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**  
-  *Yize Wu, Ke Gao, Yanjun Wu*. [[pdf](https://arxiv.org/pdf/2502.02493)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/EasySpec-blue)
+  *Yize Wu, Ke Gao, Yanjun Wu*. [[pdf](https://arxiv.org/pdf/2502.02493)], 2025.02. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/EasySpec-blue)
 - **Speeding up Speculative Decoding via Approximate Verification**  
   *Meiyu Zhong, Noel Teku, Ravi Tandon*. [[pdf](https://arxiv.org/pdf/2502.04557)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPRINTER-blue)
 - **Jakiro: Boosting Speculative Decoding with Decoupled Multi-Head via MoE**  
@@ -339,7 +339,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling**  
   *Weilin Zhao, Tengyu Pan, Xu Han, Yudi Zhang, Ao Sun, Yuxiang Huang, Kaihuo Zhang, Weilun Zhao, Yuxuan Li, Jianyong Wang, Zhiyuan Liu, Maosong Sun*. [[pdf](https://arxiv.org/pdf/2502.14856)], [[code](https://github.com/RazvanDu/CopySpec)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/FR--Spec-blue)
 - **GRIFFIN: Effective Token Alignment for Faster Speculative Decoding**  
-  *Shijing Hu, Jingyang Li, Xingyu Xie, Zhihui Lu, Kim-Chuan Toh, Pan Zhou*. [[pdf](https://arxiv.org/pdf/2502.11018)], [[code](https://github.com/hsj576/GRIFFIN)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/GRIFFIN-blue)
+  *Shijing Hu, Jingyang Li, Xingyu Xie, Zhihui Lu, Kim-Chuan Toh, Pan Zhou*. [[pdf](https://arxiv.org/pdf/2502.11018)], [[code](https://github.com/hsj576/GRIFFIN)], 2025.02. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/GRIFFIN-blue)
 - **DReSD: Dense Retrieval for Speculative Decoding**  
   *Milan Gritta, Huiyin Xue, Gerasimos Lampouras*. [[pdf](https://arxiv.org/pdf/2502.15572)], 2025.02. ![](https://img.shields.io/badge/ACL2025--findings-orange) ![](https://img.shields.io/badge/DReSD-blue)
 - **TETRIS: Optimal Draft Token Selection for Batch Speculative Decoding**  
@@ -349,7 +349,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Fuzzy Speculative Decoding for a Tunable Accuracy-Runtime Tradeoff**  
   *Maximilian Holsman, Yukun Huang, Bhuwan Dhingra*. [[pdf](https://www.arxiv.org/pdf/2502.20704)], 2025.02. ![](https://img.shields.io/badge/ACL2025--findings-orange) ![](https://img.shields.io/badge/FSD-blue)
 - **EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test**  
-  *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*. [[pdf](https://arxiv.org/pdf/2503.01840)], [[code](https://github.com/SafeAILab/EAGLE)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/EAGLE--3-blue)
+  *Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang*. [[pdf](https://arxiv.org/pdf/2503.01840)], [[code](https://github.com/SafeAILab/EAGLE)], 2025.03. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/EAGLE--3-blue)
 - **DuoDecoding: Hardware-aware Heterogeneous Speculative Decoding with Dynamic Multi-Sequence Drafting**  
   *Kai Lv, Honglin Guo, Qipeng Guo, Xipeng Qiu*. [[pdf](https://arxiv.org/pdf/2503.00784)], [[code](https://github.com/KaiLv69/DuoDecoding)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DuoDecoding-blue)
 - **RASD: Retrieval-Augmented Speculative Decoding**  
@@ -393,7 +393,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Alignment-Augmented Speculative Decoding with Alignment Sampling and Conditional Verification**  
   *Jikai Wang, Zhenxu Tian, Juntao Li, Qingrong Xia, Xinyu Duan, Zhefeng Wang, Baoxing Huai, Min Zhang*. [[pdf](https://arxiv.org/pdf/2505.13204)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AASD-blue)
 - **Traversal Verification for Speculative Tree Decoding**  
-  *Yepeng Weng, Qiao Hu, Xujie Chen, Li Liu, Dianwen Mei, Huishi Qiu, Jiang Tian, Zhongchao Shi*. [[pdf](https://arxiv.org/pdf/2505.12398)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Traversal_Verification-blue)
+  *Yepeng Weng, Qiao Hu, Xujie Chen, Li Liu, Dianwen Mei, Huishi Qiu, Jiang Tian, Zhongchao Shi*. [[pdf](https://arxiv.org/pdf/2505.12398)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/Traversal_Verification-blue)
 - **HeteroSpec: Leveraging Contextual Heterogeneity for Efficient Speculative Decoding**  
   *Siran Liu, Yang Ye, Qianchao Zhu, Zheng Cao, Yongchao He*. [[pdf](https://arxiv.org/pdf/2505.13254)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HeteroSpec-blue)
 - **KNN-SSD: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization**  
@@ -405,7 +405,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **CLaSp: In-Context Layer Skip for Self-Speculative Decoding**  
   *Longze Chen, Renke Shan, Huiming Wang, Lu Wang, Ziqiang Liu, Run Luo, Jiawei Wang, Hamid Alinejad-Rokny, Min Yang*. [[pdf](https://arxiv.org/pdf/2505.24196)], 2025.05. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/CLaSp-blue)
 - **MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**  
-  *Zongle Huang, Lei Zhu, Zongyuan Zhan, Ting Hu, Weikai Mao, Xianzhi Yu, Yongpan Liu, Tianyu Zhang*. [[pdf](https://arxiv.org/pdf/2505.19645)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MoESD-blue)
+  *Zongle Huang, Lei Zhu, Zongyuan Zhan, Ting Hu, Weikai Mao, Xianzhi Yu, Yongpan Liu, Tianyu Zhang*. [[pdf](https://arxiv.org/pdf/2505.19645)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/MoESD-blue)
 - **Mamba Drafters for Speculative Decoding**  
   *Daewon Choi, Seunghyuk Oh, Saket Dingliwal, Jihoon Tack, Kyuyoung Kim, Woomin Song, Seojin Kim, Insu Han, Jinwoo Shin, Aram Galstyan, Shubham Katiyar, Sravan Babu Bodapati*. [[pdf](https://arxiv.org/abs/2506.01206)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Mamba_Drafters-blue)
 - **Accelerated Test-Time Scaling with Model-Free Speculative Sampling**  
@@ -433,7 +433,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **VOCABTRIM: Vocabulary Pruning for Efficient Speculative Decoding in LLMs**  
   *Raghavv Goel, Sudhanshu Agrawal, Mukul Gagrani, Junyoung Park, Yifan Zao, He Zhang, Tian Liu, Yiping Yang, Xin Yuan, Jiuyan Lu, Chris Lott, Mingu Lee*. [[pdf](https://arxiv.org/pdf/2506.22694)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VOCABTRIM-blue)
 - **OmniDraft: A Cross-vocabulary, Online Adaptive Drafter for On-device Speculative Decoding**  
-  *Ramchalam Kinattinkara Ramakrishnan, Zhaocong Yuan, Shaojie Zhuo, Chen Feng, Yicheng Lin, Chenzheng Su, Xiaopeng Zhang*. [[pdf](https://arxiv.org/pdf/2507.02659)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/OmniDraft-blue)
+  *Ramchalam Kinattinkara Ramakrishnan, Zhaocong Yuan, Shaojie Zhuo, Chen Feng, Yicheng Lin, Chenzheng Su, Xiaopeng Zhang*. [[pdf](https://arxiv.org/pdf/2507.02659)], 2025.07. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/OmniDraft-blue)
 - **PROMTEC: Fast LLM Inference Decoding using Prompt Multi-Lookup with Template Database and Common Sequences**  
   *Alan Chi-Man Lee, Wing-Sun Cheng, Calvin Chun-Kit Chan*. [[pdf](https://aclanthology.org/2025.findings-acl.355.pdf)], 2025.07. ![](https://img.shields.io/badge/ACL2025--findings-orange) ![](https://img.shields.io/badge/PROMTEC-blue)
 - **SPECTRA: Faster Large Language Model Inference with Optimized Internal and External Speculation**  
@@ -446,6 +446,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *GenAI and Infra Teams at Meta*. [[pdf](https://arxiv.org/pdf/2508.08192)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 - **READER: Retrieval-Assisted Drafter for Efficient LLM Inference**  
   *Maxim Divilkovskiy, Vitaly Malygin, Sergey Zlobin, Sultan Isali, Vasily Kalugin, Stanislav Ilyushin, Nuriza Aitassova, Yi Fei, Zeng Weidi*. [[pdf](https://arxiv.org/pdf/2508.09072)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/READER-blue)
+- **CAS-Spec: Cascade Adaptive Self-Specualtive Decoding for On-the-Fly Lossless Inference Acceleration of LLMs**  
+  *Zhiyuan Ning, Jiawei Shao, Ruge Xu, Xinfei Guo, Jun Zhang, Chi Zhang, Xuelong Li*. [[pdf](https://neurips.cc/virtual/2025/poster/116243)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CAS--Spec-blue)
 
 ### Multi-Token Prediction
 
@@ -481,7 +483,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Speculative Decoding Reimagined for Multimodal Large Language Models**  
   *Luxi Lin, Zhihang Lin, Zhanpeng Zeng, Rongrong Ji*. [[pdf](https://arxiv.org/pdf/2505.14260)], [[code](https://github.com/Lyn-Lucy/MSD)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MSD-blue)
 - **DREAM: Drafting with Refined Target Features and Entropy-Adaptive Cross-Attention Fusion for Multimodal Speculative Decoding**  
-  *Yunhai Hu, Tianhua Xia, Zining Liu, Rahul Raman, Xingyu Liu, Bo Bao, Eric Sather, Vithursan Thangarasa, Sai Qian Zhang*. [[pdf](https://arxiv.org/pdf/2505.19201)], [[code](https://github.com/SAI-Lab-NYU/DREAM)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DREAM-blue)
+  *Yunhai Hu, Tianhua Xia, Zining Liu, Rahul Raman, Xingyu Liu, Bo Bao, Eric Sather, Vithursan Thangarasa, Sai Qian Zhang*. [[pdf](https://arxiv.org/pdf/2505.19201)], [[code](https://github.com/SAI-Lab-NYU/DREAM)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/DREAM-blue)
 - **MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models**  
   *Mugilan Ganesan, Shane Segal, Ankur Aggarwal, Nish Sinnadurai, Sean Lie, Vithursan Thangarasa*. [[pdf](https://arxiv.org/pdf/2505.10526)], 2025.05. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/MASSV-blue)
 - **Spec-LLaVA: Accelerating Vision-Language Models with Dynamic Tree-Based Speculative Decoding**  
@@ -626,7 +628,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **SSR: Speculative Parallel Scaling Reasoning in Test-time**  
   *Yuanlin Chu, Bo Wang, Xiang Liu, Hong Chen, Aiwei Liu, Xuming Hu*. [[pdf](https://arxiv.org/pdf/2505.15340)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SSR-blue)
 - **STree: Speculative Tree Decoding for Hybrid State-Space Models**  
-  *Yangchao Wu, Zongyue Qin, Alex Wong, Stefano Soatto*. [[pdf](https://arxiv.org/pdf/2505.14969)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/STree-blue)
+  *Yangchao Wu, Zongyue Qin, Alex Wong, Stefano Soatto*. [[pdf](https://arxiv.org/pdf/2505.14969)], 2025.05. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/STree-blue)
 - **SpecEdge: Scalable Edge-Assisted Serving Framework for Interactive LLMs**  
   *Jinwoo Park, Seunggeun Cho, Dongsu Han*. [[pdf](https://arxiv.org/pdf/2505.17052)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecEdge-blue)
 - **HAMburger: Accelerating LLM Inference via Token Smashing**  
@@ -658,7 +660,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **FlowSpec: Continuous Pipelined Speculative Decoding for Efficient Distributed LLM Inference**  
   *Xing Liu, Lizhuo Luo, Ming Tang, Chao Huang*. [[pdf](https://arxiv.org/pdf/2507.02620)], [[code](https://github.com/Leosang-lx/FlowSpec)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **TPP-SD: Accelerating Transformer Point Process Sampling with Speculative Decoding**  
-  *Shukai Gong, Yiyang Fu, Fengyuan Ran, Feng Zhou*. [[pdf](https://arxiv.org/pdf/2507.09252)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Shukai Gong, Yiyang Fu, Fengyuan Ran, Feng Zhou*. [[pdf](https://arxiv.org/pdf/2507.09252)], 2025.07. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **DSSD: Efficient Edge-Device LLM Deployment and Collaborative Inference via Distributed Split Speculative Decoding**  
   *Jiahong Ning, Ce Zheng, Tingting Yang*. [[pdf](https://arxiv.org/pdf/2507.12000)], [[code](https://github.com/JasonNing96/DSSD-Efficient-Edge-Computing)], 2025.07. ![](https://img.shields.io/badge/ICML2025-orange)
 - **SpecASR: Accelerating LLM-based Automatic Speech Recognition via Speculative Decoding**  
