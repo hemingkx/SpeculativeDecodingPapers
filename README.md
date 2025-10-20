@@ -454,6 +454,9 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Ruanjun Li, Ziheng Liu, Yuanming Shi, Jiawei Shao, Chi Zhang, Xuelong Li*. [[pdf](https://arxiv.org/pdf/2509.19368)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/READER-blue)
 - **FastEagle: Cascaded Drafting for Accelerating Speculative Decoding**  
   *Haiduo Huang, Jiangcheng Song, Wenzhe Zhao, Pengju Ren*. [[pdf](https://arxiv.org/pdf/2509.20416)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FastEagle-blue)
+- **DynaSpec: Context-aware Dynamic Speculative Sampling for Large-Vocabulary Language Models**  
+  *Jinbin Zhang, Nasib Ullah, Erik Schultheis, Rohit Babbar*. [[pdf](https://www.arxiv.org/abs/2510.13847)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+
 
 ### Multi-Token Prediction
 
