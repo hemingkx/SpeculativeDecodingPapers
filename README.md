@@ -462,6 +462,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Shijing Hu, Jingyang Li, Zhihui Lu, Pan Zhou*. [[pdf](https://arxiv.org/pdf/2509.22134)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **DynaSpec: Context-aware Dynamic Speculative Sampling for Large-Vocabulary Language Models**  
   *Jinbin Zhang, Nasib Ullah, Erik Schultheis, Rohit Babbar*. [[pdf](https://www.arxiv.org/abs/2510.13847)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **HiSpec: Hierarchical Speculative Decoding for LLMs**  
+  *Avinash Kumar, Sujay Sanghavi, Poulami Das*. [[pdf](https://arxiv.org/pdf/2510.01336)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Multi-Token Prediction
 
@@ -494,6 +496,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Jiacheng Liu, Chang Zou, Yuanhuiyi Lyu, Fei Ren, Shaobo Wang, Kaixin Li, Linfeng Zhang*. [[pdf](https://arxiv.org/pdf/2509.11628)], [[code](https://github.com/Shenyi-Z/Cache4Diffusion/)], 2025.09. ![](https://img.shields.io/badge/ACMMM2025-orange) ![](https://img.shields.io/badge/SpeCa-blue)
 - **DiffuSpec: Unlocking Diffusion Language Models for Speculative Decoding**  
   *Guanghao Li, Zhihui Fu, Min Fang, Qibin Zhao, Ming Tang, Chun Yuan, Jun Wang*. [[pdf](https://arxiv.org/pdf/2510.02358)], 2025.09. ![](https://img.shields.io/badge/ACMMM2025-orange) ![](https://img.shields.io/badge/DiffuSpec-blue)
+- **Free Draft-and-Verification: Toward Lossless Parallel Decoding for Diffusion Large Language Models**  
+  *Shutong Wu, Jiawei Zhangg*. [[pdf](https://arxiv.org/pdf/2510.00294)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FreeDave-blue)
 
 ### Multimodal Speculative Decoding
 
@@ -725,6 +729,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Ming Yin, Minshuo Chen, Kaixuan Huang, Mengdi Wang*. [[pdf](https://arxiv.org/pdf/2411.00841)], 2024.11. ![](https://img.shields.io/badge/NeurIPS2024-orange)
 - **Privacy Risks of Speculative Decoding in Large Language Models**  
   *Jiankun Wei, Abdulrahman Abdulrazzag, Tianchen Zhang, Adel Muursepp, Gururaj Saileshwar.* [[pdf](https://arxiv.org/pdf/2411.01076)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **The Disparate Impacts of Speculative Decoding**  
+  *Jameson Sandler, Ahmet Üstün, Marco Romanelli, Sara Hooker, Ferdinando Fioretto.* [[pdf](https://arxiv.org/pdf/2510.02128)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Other Techniques
 
