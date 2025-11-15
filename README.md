@@ -468,6 +468,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Avinash Kumar, Sujay Sanghavi, Poulami Das*. [[pdf](https://arxiv.org/pdf/2510.01336)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **SelfJudge: Faster Speculative Decoding via Self-Supervised Judge Verification**  
   *Kanghoon Yoon, Minsub Kim, Sungjae Lee, Joonhyung Lee, Sunghyeon Woo, Yeonjun In, Se Jung Kwon, Chanyoung Park, Dongsoo Lee*. [[pdf](https://arxiv.org/pdf/2510.02329)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Draft, Verify, and Improve: Toward Training-Aware Speculative Decoding**  
+  *Shrenik Bhansali, Larry Heck*. [[pdf](https://arxiv.org/pdf/2510.05421)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Multi-Token Prediction
 
@@ -560,6 +562,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Guanzheng Chen, Qilong Feng, Jinjie Ni, Xin Li, Michael Qizhe Shieh*. [[pdf](https://arxiv.org/pdf/2502.20330)], [[code](https://github.com/John-AI-Lab/RAPID)], 2025.02. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/RAPID-blue)
 - **SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences**  
   *Jungyoub Cha, Hyunjong Kim, Sungzoon Cho*. [[pdf](https://arxiv.org/pdf/2505.20776)], [[code](https://github.com/jycha98/SpecExtend)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecExtend-blue)
+- **OWL: Overcoming Window Length-Dependence in Speculative Decoding for Long-Context Inputs**  
+  *Jaeseong Lee, seung-won hwang, Aurick Qiao, Gabriele Oliaro, Ye Wang, Samyam Rajbhandari*. [[pdf](https://arxiv.org/pdf/2510.07535)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/OWL-blue)
 
 ### Speculative Decoding for Mixture-of-Experts
 
