@@ -324,6 +324,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Situo Zhang, Hankun Wang, Da Ma, Zichen Zhu, Lu Chen, Kunyao Lan, Kai Yu*. [[pdf](https://arxiv.org/pdf/2412.18910)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaEAGLE-blue)
 - **Reward-Guided Speculative Decoding for Efficient LLM Reasoning**  
   *Baohao Liao, Yuhui Xu, Hanze Dong, Junnan Li, Christof Monz, Silvio Savarese, Doyen Sahoo, Caiming Xiong*. [[pdf](https://arxiv.org/pdf/2501.19324)], 2025.01. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/Reward--Guided_Speculative_Decoding-lightgray) ![](https://img.shields.io/badge/RSD-blue)
+- **Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment**  
+  *Gregor Bachmann, Sotiris Anagnostidis, Albert Pumarola, Markos Georgopoulos, Artsiom Sanakoyeu, Yuming Du, Edgar Schönfeld, Ali Thabet, Jonas Kohler*. [[pdf](https://arxiv.org/pdf/2501.19309)], 2025.01. ![](https://img.shields.io/badge/ICLR2025-orange)
 - **EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**  
   *Yize Wu, Ke Gao, Yanjun Wu*. [[pdf](https://arxiv.org/pdf/2502.02493)], 2025.02. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/EasySpec-blue)
 - **Speeding up Speculative Decoding via Approximate Verification**  
@@ -464,6 +466,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Jinbin Zhang, Nasib Ullah, Erik Schultheis, Rohit Babbar*. [[pdf](https://www.arxiv.org/abs/2510.13847)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **HiSpec: Hierarchical Speculative Decoding for LLMs**  
   *Avinash Kumar, Sujay Sanghavi, Poulami Das*. [[pdf](https://arxiv.org/pdf/2510.01336)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **SelfJudge: Faster Speculative Decoding via Self-Supervised Judge Verification**  
+  *Kanghoon Yoon, Minsub Kim, Sungjae Lee, Joonhyung Lee, Sunghyeon Woo, Yeonjun In, Se Jung Kwon, Chanyoung Park, Dongsoo Lee*. [[pdf](https://arxiv.org/pdf/2510.02329)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Multi-Token Prediction
 
@@ -497,7 +501,9 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **DiffuSpec: Unlocking Diffusion Language Models for Speculative Decoding**  
   *Guanghao Li, Zhihui Fu, Min Fang, Qibin Zhao, Ming Tang, Chun Yuan, Jun Wang*. [[pdf](https://arxiv.org/pdf/2510.02358)], 2025.09. ![](https://img.shields.io/badge/ACMMM2025-orange) ![](https://img.shields.io/badge/DiffuSpec-blue)
 - **Free Draft-and-Verification: Toward Lossless Parallel Decoding for Diffusion Large Language Models**  
-  *Shutong Wu, Jiawei Zhangg*. [[pdf](https://arxiv.org/pdf/2510.00294)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FreeDave-blue)
+  *Shutong Wu, Jiawei Zhang*. [[pdf](https://arxiv.org/pdf/2510.00294)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FreeDave-blue)
+- **Self Speculative Decoding for Diffusion Large Language Models**  
+  *Yifeng Gao, Ziang Ji, Yuxuan Wang, Biqing Qi, Hanlin Xu, Linfeng Zhang*. [[pdf](https://arxiv.org/pdf/2510.04147)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SSD-blue)
 
 ### Multimodal Speculative Decoding
 
@@ -712,6 +718,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Linfeng Zhong, Songqiang Xu, Huifeng Wen, Tong Xie, Qingyu Guo, Yuan Wang, Meng Li*. [[pdf](https://arxiv.org/pdf/2509.19873)], 2025.09. ![](https://img.shields.io/badge/ICCAD2025-orange)
 - **AutoSpec: An Agentic Framework for Automatically Drafting Patent Specification**  
   *Ryan Shea, Zhou Yu*. [[pdf](https://arxiv.org/pdf/2509.19640)], 2025.09. ![](https://img.shields.io/badge/EMNLP2025--Findings-orange)
+- **Speculative Actions: A Lossless Framework for Faster Agentic Systems**  
+  *Naimeng Ye, Arnav Ahuja, Georgios Liargkovas, Yunan Lu, Kostis Kaffes, Tianyi Peng*. [[pdf](https://arxiv.org/pdf/2510.04371)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Analysis
 
