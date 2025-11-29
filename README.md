@@ -470,6 +470,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Kanghoon Yoon, Minsub Kim, Sungjae Lee, Joonhyung Lee, Sunghyeon Woo, Yeonjun In, Se Jung Kwon, Chanyoung Park, Dongsoo Lee*. [[pdf](https://arxiv.org/pdf/2510.02329)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Draft, Verify, and Improve: Toward Training-Aware Speculative Decoding**  
   *Shrenik Bhansali, Larry Heck*. [[pdf](https://arxiv.org/pdf/2510.05421)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Polybasic Speculative Decoding Through a Theoretical Perspective**  
+  *Ruilin Wang, Huixia Li, Yuexiao Ma, Xiawu Zheng, Fei Chao, Xuefeng Xiao, Rongrong Ji*. [[pdf](https://arxiv.org/pdf/2510.26527)], 2025.10. ![](https://img.shields.io/badge/ICML2025-orange)
 
 ### Multi-Token Prediction
 
@@ -575,6 +577,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Zhibin Wang, Zhonghui Zhang, Yuhang Zhou, Zibo Wang, Mo Zhou, Peng Jiang, Weilin Cai, Chengying Huan, Rong Gu, Sheng Zhong, Chen Tian*. [[pdf](https://arxiv.org/pdf/2508.21706)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
 - **LongCat-Flash Technical Report**  
   *Meituan LongCat Team*. [[pdf](https://github.com/meituan-longcat/LongCat-Flash-Chat/blob/main/tech_report.pdf)], 2025.08. ![](https://img.shields.io/badge/Technical_Report-orange) ![](https://img.shields.io/badge/Pretraining-lightgray)
+- **SP-MoE: Speculative Decoding and Prefetching for Accelerating MoE-based Model Inference**  
+  *Liangkun Chen, Zijian Wen, Tian Wu, Xiaoxi Zhang, Chuan Wu*. [[pdf](https://arxiv.org/pdf/2510.10302)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Alignment
 
