@@ -303,7 +303,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **The N-Grammys: Accelerating Autoregressive Inference with Learning-Free Batched Speculation**  
   *Lawrence Stewart, Matthew Trager, Sujan Kumar Gonugondla, Stefano Soatto*. [[pdf](https://arxiv.org/pdf/2411.03786)], 2024.11. ![](https://img.shields.io/badge/ENLSP--IV_2024-orange)
 - **SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**  
-  *Gabriele Oliaro, Zhihao Jia, Daniel Campos, Aurick Qiao*. [[pdf](https://arxiv.org/pdf/2411.04975)], 2024.11. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/Draft:_prior_outputs-green) ![](https://img.shields.io/badge/SuffixDecoding-blue)
+  *Gabriele Oliaro, Zhihao Jia, Daniel Campos, Aurick Qiao*. [[pdf](https://arxiv.org/pdf/2411.04975)], [[code](https://github.com/snowflakedb/ArcticInference?tab=readme-ov-file)], [[homepage](https://suffix-decoding.github.io/)] [[vllm](https://docs.vllm.ai/en/stable/api/vllm/v1/spec_decode/suffix_decoding/)], 2024.11. ![](https://img.shields.io/badge/NeurIPS2025_Spotlight-orange) ![](https://img.shields.io/badge/Draft:_prior_outputs-green) ![](https://img.shields.io/badge/SuffixDecoding-blue)
 - **SSSD: Simply-Scalable Speculative Decoding**  
   *Michele Marzollo, Jiawei Zhuang, Niklas Roemer, Lorenz K. Müller, Lukas Cavigelli*. [[pdf](https://arxiv.org/pdf/2411.05894)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SSSD-blue)
 - **FastDraft: How to Train Your Draft**  
@@ -472,6 +472,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Shrenik Bhansali, Larry Heck*. [[pdf](https://arxiv.org/pdf/2510.05421)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Polybasic Speculative Decoding Through a Theoretical Perspective**  
   *Ruilin Wang, Huixia Li, Yuexiao Ma, Xiawu Zheng, Fei Chao, Xuefeng Xiao, Rongrong Ji*. [[pdf](https://arxiv.org/pdf/2510.26527)], 2025.10. ![](https://img.shields.io/badge/ICML2025-orange)
+- **Scaling LLM Speculative Decoding: Non-Autoregressive Forecasting in Large-Batch Scenarios**  
+  *Luohe Shi, Zuchao Li, Lefei Zhang, Baoyuan Qi, Guoming Liu, Hai Zhao*. [[pdf](https://arxiv.org/pdf/2511.20340)], 2025.11. ![](https://img.shields.io/badge/AAAI2026-orange)
 
 ### Multi-Token Prediction
 
