@@ -451,7 +451,9 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **READER: Retrieval-Assisted Drafter for Efficient LLM Inference**  
   *Maxim Divilkovskiy, Vitaly Malygin, Sergey Zlobin, Sultan Isali, Vasily Kalugin, Stanislav Ilyushin, Nuriza Aitassova, Yi Fei, Zeng Weidi*. [[pdf](https://arxiv.org/pdf/2508.09072)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/READER-blue)
 - **CAS-Spec: Cascade Adaptive Self-Specualtive Decoding for On-the-Fly Lossless Inference Acceleration of LLMs**  
-  *Zhiyuan Ning, Jiawei Shao, Ruge Xu, Xinfei Guo, Jun Zhang, Chi Zhang, Xuelong Li*. [[pdf](https://neurips.cc/virtual/2025/poster/116243)], 2025.09. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/CAS--Spec-blue)
+  *Zhiyuan Ning, Jiawei Shao, Ruge Xu, Xinfei Guo, Jun Zhang, Chi Zhang, Xuelong Li*. [[pdf](https://openreview.net/pdf/7be7febdbc687ff1d863bbeaf1f37fb1b683f4bc.pdf)], 2025.09. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/CAS--Spec-blue)
+- **AdaSPEC: Selective Knowledge Distillation for Efficient Speculative Decoders**  
+  *Yuezhou Hu, Jiaxin Guo, Xinyu Feng, Tuo Zhao*. [[pdf](https://openreview.net/pdf/4169ec79fb39e606daf2863e8f46df0a76009e66.pdf)], [[code](https://github.com/yuezhouhu/adaspec)], 2025.09. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/AdaSpec-blue)
 - **Speculate Deep and Accurate: Lossless and Training-Free Acceleration for Offloaded LLMs via Substitute Speculative Decoding**  
   *Pei-Shuo Wang, Jian-Jia Chen, Chun-Che Yang, Chi-Chih Chang, Ning-Chi Huang, Mohamed S. Abdelfattah, Kai-Chiang Wu*. [[pdf](https://neurips.cc/virtual/2025/poster/116243)], [[code](https://github.com/NYCU-EDgeAi/subspec)], 2025.09. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/SubSpec-blue)
 - **Pipeline Parallelism is All You Need for Optimized Early-Exit Based Self-Speculative Decoding**  
@@ -474,6 +476,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Ruilin Wang, Huixia Li, Yuexiao Ma, Xiawu Zheng, Fei Chao, Xuefeng Xiao, Rongrong Ji*. [[pdf](https://arxiv.org/pdf/2510.26527)], 2025.10. ![](https://img.shields.io/badge/ICML2025-orange)
 - **Scaling LLM Speculative Decoding: Non-Autoregressive Forecasting in Large-Batch Scenarios**  
   *Luohe Shi, Zuchao Li, Lefei Zhang, Baoyuan Qi, Guoming Liu, Hai Zhao*. [[pdf](https://arxiv.org/pdf/2511.20340)], 2025.11. ![](https://img.shields.io/badge/AAAI2026-orange)
+- **Batch Speculative Decoding Done Right**  
+  *Ranran Haoran Zhang, Soumik Dey, Ashirbad Mishra, Hansi Wu, Binbin Li, Rui Zhang*. [[pdf](https://arxiv.org/pdf/2510.22876)], [[code](https://github.com/eBay/spec_dec)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Multi-Token Prediction
 
