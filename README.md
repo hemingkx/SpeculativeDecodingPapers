@@ -495,6 +495,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Mohammad Samragh, Arnav Kundu, David Harrison, Kumari Nishu, Devang Naik, Minsik Cho, Mehrdad Farajtabar*. [[pdf](https://arxiv.org/pdf/2507.11851)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **FastMTP: Accelerating LLM Inference with Enhanced Multi-Token Prediction**  
   *Yuxuan Cai, Xiaozhuan Liang, Xinghua Wang, Jin Ma, Haijin Liang, Jinwen Luo, Xinyu Zuo, Lisheng Duan, Yuyang Yin, Xi Chen*. [[pdf](https://arxiv.org/pdf/2509.18362)], [[code](https://github.com/Tencent-BAC/FastMTP)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FastMTP-blue)
+- **TiDAR: Think in Diffusion, Talk in Autoregression**  
+  *Jingyu Liu\*, Xin Dong\*, Zhifan Ye, Rishabh Mehta, Yonggan Fu, Vartika Singh, Jan Kautz, Ce Zhang, Pavlo Molchanov*. [[pdf](https://arxiv.org/pdf/2511.08923v1)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TiDAR-blue)
 
 ### Speculative Decoding for Diffusion LMs
 
