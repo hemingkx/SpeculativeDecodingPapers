@@ -336,12 +336,12 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Sukmin Cho, Sangjin Choi, Taeho Hwang, Jeongyeon Seo, Soyeong Jeong, Huije Lee, Hoyun Song, Jong C. Park, Youngjin Kwon*. [[pdf](https://arxiv.org/pdf/2502.05609)], [[code](https://github.com/zomss/Hierarchy_Drafting)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HD-blue)
 - **Accelerating LLM Inference with Lossless Speculative Decoding Algorithms for Heterogeneous Vocabularies**  
   *Nadav Timor, Jonathan Mamou, Daniel Korat, Moshe Berchansky, Oren Pereg, Gaurav Jain, Roy Schwartz, Moshe Wasserblat, David Harel*. [[pdf](https://arxiv.org/pdf/2502.05202)], 2025.02. ![](https://img.shields.io/badge/ICML2025-orange)
-- **CopySpec: Accelerating LLMs with Speculative Copy-and-Paste Without Compromising Quality**  
-  *Razvan-Gabriel Dumitru, Minglai Yang, Vikas Yadav, Mihai Surdeanu*. [[pdf](https://arxiv.org/pdf/2502.08923)],  [[code](https://github.com/RazvanDu/CopySpec)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CopySpec-blue)
+- **CopySpec: Accelerating LLMs with Speculative Copy-and-Paste**  
+  *Razvan-Gabriel Dumitru, Minglai Yang, Vikas Yadav, Mihai Surdeanu*. [[pdf](https://arxiv.org/pdf/2502.08923)],  [[code](https://github.com/RazvanDu/CopySpec)], 2025.02. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/CopySpec-blue)
 - **C2T: A Classifier-Based Tree Construction Method in Speculative Decoding**  
   *Feiye Huo, Jianchao Tan, Kefeng Zhang, Xunliang Cai, Shengli Sun*. [[pdf](https://arxiv.org/pdf/2502.13652)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/C2T-blue)
 - **FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling**  
-  *Weilin Zhao, Tengyu Pan, Xu Han, Yudi Zhang, Ao Sun, Yuxiang Huang, Kaihuo Zhang, Weilun Zhao, Yuxuan Li, Jianyong Wang, Zhiyuan Liu, Maosong Sun*. [[pdf](https://arxiv.org/pdf/2502.14856)], [[code](https://github.com/RazvanDu/CopySpec)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/FR--Spec-blue)
+  *Weilin Zhao, Tengyu Pan, Xu Han, Yudi Zhang, Ao Sun, Yuxiang Huang, Kaihuo Zhang, Weilun Zhao, Yuxuan Li, Jianyong Wang, Zhiyuan Liu, Maosong Sun*. [[pdf](https://arxiv.org/pdf/2502.14856)], 2025.02. ![](https://img.shields.io/badge/ACL2025-orange) ![](https://img.shields.io/badge/FR--Spec-blue)
 - **GRIFFIN: Effective Token Alignment for Faster Speculative Decoding**  
   *Shijing Hu, Jingyang Li, Xingyu Xie, Zhihui Lu, Kim-Chuan Toh, Pan Zhou*. [[pdf](https://arxiv.org/pdf/2502.11018)], [[code](https://github.com/hsj576/GRIFFIN)], 2025.02. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/GRIFFIN-blue)
 - **DReSD: Dense Retrieval for Speculative Decoding**  
@@ -478,6 +478,12 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Luohe Shi, Zuchao Li, Lefei Zhang, Baoyuan Qi, Guoming Liu, Hai Zhao*. [[pdf](https://arxiv.org/pdf/2511.20340)], 2025.11. ![](https://img.shields.io/badge/AAAI2026-orange)
 - **Batch Speculative Decoding Done Right**  
   *Ranran Haoran Zhang, Soumik Dey, Ashirbad Mishra, Hansi Wu, Binbin Li, Rui Zhang*. [[pdf](https://arxiv.org/pdf/2510.22876)], [[code](https://github.com/eBay/spec_dec)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Yggdrasil: Bridging Dynamic Speculation and Static Runtime for Latency-Optimal Tree-Based LLM Decoding**  
+  *Yue Guan, Changming Yu, Shihan Fang, Weiming Hu, Zaifeng Pan, Zheng Wang, Zihan Liu, Yangjie Zhou, Yufei Ding, Minyi Guo, Jingwen Leng*. [[pdf](https://openreview.net/pdf/007d01438a2e9055b0f6e79a21da69ca6ab73aef.pdf)], 2025.11. ![](https://img.shields.io/badge/NIPS2025-orange) ![](https://img.shields.io/badge/Yggdrasil-blue)
+- **SpecDiff-2: Scaling Diffusion Drafter Alignment For Faster Speculative Decoding**  
+  *Jameson Sandler, Jacob K. Christopher, Thomas Hartvigsen, Ferdinando Fioretto*. [[pdf](https://arxiv.org/pdf/2511.00606)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecDiff--2-blue)
+- **SpecDiff-2: Scaling Diffusion Drafter Alignment For Faster Speculative Decoding**  
+  *Jameson Sandler, Jacob K. Christopher, Thomas Hartvigsen, Ferdinando Fioretto*. [[pdf](https://arxiv.org/pdf/2511.00606)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecDiff--2-blue)
 
 ### Multi-Token Prediction
 
