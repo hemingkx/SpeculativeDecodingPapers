@@ -482,8 +482,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Yue Guan, Changming Yu, Shihan Fang, Weiming Hu, Zaifeng Pan, Zheng Wang, Zihan Liu, Yangjie Zhou, Yufei Ding, Minyi Guo, Jingwen Leng*. [[pdf](https://openreview.net/pdf/007d01438a2e9055b0f6e79a21da69ca6ab73aef.pdf)], 2025.11. ![](https://img.shields.io/badge/NIPS2025-orange) ![](https://img.shields.io/badge/Yggdrasil-blue)
 - **SpecDiff-2: Scaling Diffusion Drafter Alignment For Faster Speculative Decoding**  
   *Jameson Sandler, Jacob K. Christopher, Thomas Hartvigsen, Ferdinando Fioretto*. [[pdf](https://arxiv.org/pdf/2511.00606)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecDiff--2-blue)
-- **SpecDiff-2: Scaling Diffusion Drafter Alignment For Faster Speculative Decoding**  
-  *Jameson Sandler, Jacob K. Christopher, Thomas Hartvigsen, Ferdinando Fioretto*. [[pdf](https://arxiv.org/pdf/2511.00606)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecDiff--2-blue)
+- **TapOut: A Bandit-Based Approach to Dynamic Speculative Decoding**  
+  *Aditya Sridhar, Nish Sinnadurai, Sean Lie, Vithursan Thangarasa*. [[pdf](https://arxiv.org/pdf/2511.02017)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Cacheback: Speculative Decoding With Nothing But Cache**  
+  *Zhiyao Ma, In Gim, Lin Zhong*. [[pdf](https://aclanthology.org/2025.emnlp-main.1581.pdf)], 2025.11. ![](https://img.shields.io/badge/EMNLP2025-orange)
 
 ### Multi-Token Prediction
 
@@ -742,6 +744,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Ryan Shea, Zhou Yu*. [[pdf](https://arxiv.org/pdf/2509.19640)], 2025.09. ![](https://img.shields.io/badge/EMNLP2025--Findings-orange)
 - **Speculative Actions: A Lossless Framework for Faster Agentic Systems**  
   *Naimeng Ye, Arnav Ahuja, Georgios Liargkovas, Yunan Lu, Kostis Kaffes, Tianyi Peng*. [[pdf](https://arxiv.org/pdf/2510.04371)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **SpecEM: Training-Free LLM Ensembling via Iterative Drafting, Verification, and Online Feedback**  
+  *Bo Lv, Nayu Liu, Chen Tang, Xin Liu, Yue Yu, Ping Luo*. [[pdf](https://yuyue.github.io/res/paper/SpecEM_NeurIPS2025.pdf)], 2025.10. ![](https://img.shields.io/badge/NeurIPS2025-orange)
+- **Faster In-Context Learning for LLMs via N-Gram Trie Speculative Decoding**  
+  *Jinglin Chen, Qiwei Li, Zuchao Li, Baoyuan Qi, Liu Guoming, Haojun Ai, Hai Zhao, Ping Wang*. [[pdf](https://yuyue.github.io/res/paper/SpecEM_NeurIPS2025.pdf)], 2025.10. ![](https://img.shields.io/badge/EMNLP2025-orange)
 
 ### Analysis
 
