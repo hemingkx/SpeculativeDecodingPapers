@@ -524,6 +524,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Guanghao Li, Zhihui Fu, Min Fang, Qibin Zhao, Ming Tang, Chun Yuan, Jun Wang*. [[pdf](https://arxiv.org/pdf/2510.02358)], 2025.09. ![](https://img.shields.io/badge/ACMMM2025-orange) ![](https://img.shields.io/badge/DiffuSpec-blue)
 - **Free Draft-and-Verification: Toward Lossless Parallel Decoding for Diffusion Large Language Models**  
   *Shutong Wu, Jiawei Zhang*. [[pdf](https://arxiv.org/pdf/2510.00294)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FreeDave-blue)
+- **SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation**  
+  *Jiayi Pan, Jiaming Xu, Yongkang Zhou, Guohao Dai*. [[pdf](https://arxiv.org/pdf/2509.13848)], 2025.09. ![](https://img.shields.io/badge/AAAI2026_Oral-orange) ![](https://img.shields.io/badge/SpecDiff-blue)
 - **Self Speculative Decoding for Diffusion Large Language Models**  
   *Yifeng Gao, Ziang Ji, Yuxuan Wang, Biqing Qi, Hanlin Xu, Linfeng Zhang*. [[pdf](https://arxiv.org/pdf/2510.04147)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SSD-blue)
 
