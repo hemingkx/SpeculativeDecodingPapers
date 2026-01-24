@@ -391,7 +391,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Automatic Task Detection and Heterogeneous LLM Speculative Decoding**  
   *Danying Ge, Jianhua Gao, Qizhi Jiang, Yifei Feng, Weixing Ji*. [[pdf](https://arxiv.org/pdf/2505.08600)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **BanditSpec: Adaptive Speculative Decoding via Bandit Algorithms**  
-  *Yunlong Hou, Fengzhuo Zhang, Cunxiao Du, Xuan Zhang, Jiachun Pan, Tianyu Pang, Chao Du, Vincent Y. F. Tan, Zhuoran Yang*. [[pdf](https://arxiv.org/abs/2505.15141)], 2025.05. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/Adaptive_Hyperparameters_(model&length)-lightgray) ![](https://img.shields.io/badge/BanditSpec-blue)
+  *Yunlong Hou, Fengzhuo Zhang, Cunxiao Du, Xuan Zhang, Jiachun Pan, Tianyu Pang, Chao Du, Vincent Y. F. Tan, Zhuoran Yang*. [[pdf](https://arxiv.org/abs/2505.15141)], [[code](https://github.com/sail-sg/BanditSpec)], 2025.05. ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/Adaptive_Hyperparameters_(model&length)-lightgray) ![](https://img.shields.io/badge/BanditSpec-blue)
 - **SpecOffload: Unlocking Latent GPU Capacity for LLM Inference on Resource-Constrained Devices**  
   *Xiangwen Zhuge, Xu Shen, Zeyu Wang, Fan Dang, Xuan Ding, Danyang Li, Yahui Han, Tianxiang Hao, Zheng Yang*. [[pdf](https://arxiv.org/pdf/2505.10259)], [[code](https://github.com/MobiSense/SpecOffload-public)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecOffload-blue)
 - **Alignment-Augmented Speculative Decoding with Alignment Sampling and Conditional Verification**  
@@ -511,7 +511,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 ### Speculative Decoding for Diffusion LMs
 
 - **Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion**  
-  *Jacob K Christopher, Brian R Bartoldson, Bhavya Kailkhura, Ferdinando Fioretto*. [[pdf](https://arxiv.org/pdf/2408.05636)], 2024.08. ![](https://img.shields.io/badge/ENLSP_at_NIPS2024-orange)![](https://img.shields.io/badge/Drafter:_discrete_diffusion_models-green) ![](https://img.shields.io/badge/SpecDiff-blue)
+  *Jacob K Christopher, Brian R Bartoldson, Bhavya Kailkhura, Ferdinando Fioretto*. [[pdf](https://arxiv.org/pdf/2408.05636)], 2024.08. ![](https://img.shields.io/badge/NAACL2025-orange)![](https://img.shields.io/badge/Drafter:_discrete_diffusion_models-green) ![](https://img.shields.io/badge/SpecDiff-blue)
 - **Accelerated Diffusion Models via Speculative Sampling**  
   *Valentin De Bortoli, Alexandre Galashov, Arthur Gretton, Arnaud Doucet*. [[pdf](https://arxiv.org/pdf/2501.05370)], 2025.01. ![](https://img.shields.io/badge/ICML2025-orange)
 - **Diffusion Models are Secretly Exchangeable: Parallelizing DDPMs via Autospeculation**  
@@ -806,6 +806,10 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 **Fastest Speculative Decoding in vLLM with Arctic Inference and Arctic Training.** Snowflake AI Research. 2025.05. [[Blog](https://www.snowflake.com/en/engineering-blog/fast-speculative-decoding-vllm-arctic/)]
 
 **SpecForge: Accelerating Speculative Decoding Training for SGLang.** The SGLang Team. 2025.07. [[Blog](https://lmsys.org/blog/2025-07-25-spec-forge/)] [[Code](https://github.com/sgl-project/SpecForge)]
+
+**Speculators: A Unified Library for Speculative Decoding Algorithms in LLM Serving.** The vLLM Team. 2025.08. [[Docs](https://docs.vllm.ai/projects/speculators/en/latest/)] [[Code](https://github.com/vllm-project/speculators)]
+
+**AngelSlim: Efficient LLM Compression Toolkit.** The Tencent Team. 2026.01. [[Docs](https://angelslim.readthedocs.io/zh-cn/latest/)] [[Code](https://github.com/Tencent/AngelSlim)]
 
 ## Contributors
 
