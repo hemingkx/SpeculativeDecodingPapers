@@ -579,6 +579,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Jialiang Kang, Han Shu, Wenshuo Li, Yingjie Zhai, Xinghao Chen*. [[pdf](https://arxiv.org/pdf/2509.15235)], [[code](https://github.com/KangJialiang/ViSpec)], 2025.09. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/ViSpec-blue)
 - **COOL-SD: Annealed Relaxation of Speculative Decoding for Faster Autoregressive Image Generation**  
   *Xingyao Li, Fengzhuo Zhang, Cunxiao Du, Hui Ji*. [[pdf](https://arxiv.org/pdf/2601.09212)], 2025.11. ![](https://img.shields.io/badge/AAAI2026-orange) ![](https://img.shields.io/badge/COOL--SD-blue)
+- **VVS: Accelerating Speculative Decoding for Visual Autoregressive Generation via Partial Verification Skipping**  
+  *Haotian Dong, Ye Li, Rongwei Lu, Chen Tang, Shu-Tao Xia, Zhi Wang*. [[pdf](https://arxiv.org/pdf/2511.13587)], 2025.11. ![](https://img.shields.io/badge/CVPR2026-orange) ![](https://img.shields.io/badge/VVS-blue)
 
 ### Long-Context Speculative Decoding
 
