@@ -474,10 +474,14 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Shrenik Bhansali, Larry Heck*. [[pdf](https://arxiv.org/pdf/2510.05421)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Polybasic Speculative Decoding Through a Theoretical Perspective**  
   *Ruilin Wang, Huixia Li, Yuexiao Ma, Xiawu Zheng, Fei Chao, Xuefeng Xiao, Rongrong Ji*. [[pdf](https://arxiv.org/pdf/2510.26527)], 2025.10. ![](https://img.shields.io/badge/ICML2025-orange)
-- **Scaling LLM Speculative Decoding: Non-Autoregressive Forecasting in Large-Batch Scenarios**  
-  *Luohe Shi, Zuchao Li, Lefei Zhang, Baoyuan Qi, Guoming Liu, Hai Zhao*. [[pdf](https://arxiv.org/pdf/2511.20340)], 2025.11. ![](https://img.shields.io/badge/AAAI2026-orange)
+- **Not-a-Bandit: Provably No-Regret Drafter Selection in Speculative Decoding for LLMs**  
+  *Hongyi Liu, Jiaji Huang, Zhen Jia, Youngsuk Park, Yu-Xiang Wang*. [[pdf](https://arxiv.org/pdf/2510.20064)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Speculative Speculative Decoding**  
+  *Tanishq Kumar, Tri Dao, Avner May*. [[pdf](https://arxiv.org/pdf/2603.03251)], [[code](https://github.com/tanishqkumar/ssd)], 2025.10. ![](https://img.shields.io/badge/ICLR2026-orange)
 - **Batch Speculative Decoding Done Right**  
   *Ranran Haoran Zhang, Soumik Dey, Ashirbad Mishra, Hansi Wu, Binbin Li, Rui Zhang*. [[pdf](https://arxiv.org/pdf/2510.22876)], [[code](https://github.com/eBay/spec_dec)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Scaling LLM Speculative Decoding: Non-Autoregressive Forecasting in Large-Batch Scenarios**  
+  *Luohe Shi, Zuchao Li, Lefei Zhang, Baoyuan Qi, Guoming Liu, Hai Zhao*. [[pdf](https://arxiv.org/pdf/2511.20340)], 2025.11. ![](https://img.shields.io/badge/AAAI2026-orange)
 - **Yggdrasil: Bridging Dynamic Speculation and Static Runtime for Latency-Optimal Tree-Based LLM Decoding**  
   *Yue Guan, Changming Yu, Shihan Fang, Weiming Hu, Zaifeng Pan, Zheng Wang, Zihan Liu, Yangjie Zhou, Yufei Ding, Minyi Guo, Jingwen Leng*. [[pdf](https://openreview.net/pdf/007d01438a2e9055b0f6e79a21da69ca6ab73aef.pdf)], 2025.11. ![](https://img.shields.io/badge/NIPS2025-orange) ![](https://img.shields.io/badge/Yggdrasil-blue)
 - **SpecDiff-2: Scaling Diffusion Drafter Alignment For Faster Speculative Decoding**  
@@ -486,6 +490,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Aditya Sridhar, Nish Sinnadurai, Sean Lie, Vithursan Thangarasa*. [[pdf](https://arxiv.org/pdf/2511.02017)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Cacheback: Speculative Decoding With Nothing But Cache**  
   *Zhiyao Ma, In Gim, Lin Zhong*. [[pdf](https://aclanthology.org/2025.emnlp-main.1581.pdf)], 2025.11. ![](https://img.shields.io/badge/EMNLP2025-orange)
+- **DFlash: Block Diffusion for Flash Speculative Decoding**  
+  *Jian Chen, Yesheng Liang, Zhijian Liu*. [[pdf](https://arxiv.org/pdf/2602.06036)], [[homepage](https://z-lab.ai/projects/dflash/)], [[code](https://github.com/z-lab/dflash)], [[models](https://huggingface.co/collections/z-lab/dflash)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Multi-Token Prediction
 
