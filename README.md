@@ -620,7 +620,9 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Spec-Bench: A Comprehensive Benchmark for Speculative Decoding**  
   *Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, Tao Ge, Tianyu Liu, Wenjie Li, Zhifang Sui.* [[pdf](https://arxiv.org/pdf/2401.07851.pdf)], [[code](https://github.com/hemingkx/Spec-Bench)], [[blog](https://sites.google.com/view/spec-bench)], 2024.02. ![](https://img.shields.io/badge/ACL2024--findings-orange) ![](https://img.shields.io/badge/Spec--Bench-blue)
 - **Scaling Up, Speeding Up: A Benchmark of Speculative Decoding for Efficient LLM Test-Time Scaling**  
-  *Shengyin Sun, Yiming Li, Xing Li, Yingzhao Lian, Weizhe Lin, Hui-Ling Zhen, Zhiyuan Yang, Chen Chen, Xianzhi Yu, Mingxuan Yuan, Chen Ma.* [[pdf](https://arxiv.org/pdf/2509.04474)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Shengyin Sun, Yiming Li, Xing Li, Yingzhao Lian, Weizhe Lin, Hui-Ling Zhen, Zhiyuan Yang, Chen Chen, Xianzhi Yu, Mingxuan Yuan, Chen Ma.* [[pdf](https://arxiv.org/pdf/2509.04474)], [[code](https://github.com/sunshy-1/SpecTTS-Bench)], 2025.09. ![](https://img.shields.io/badge/ICLR2026-orange)
+- **Speculative Decoding: Performance or Illusion?**  
+  *Xiaoxuan Liu, Jiaxiang Yu, Jongseok Park, Ion Stoica, Alvin Cheung*. [[pdf](https://arxiv.org/pdf/2505.13204)], [[code](https://github.com/SpecDecode-Bench/simulator)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/vLLM-green)
 
 ### Applications
 
