@@ -492,6 +492,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Zhiyao Ma, In Gim, Lin Zhong*. [[pdf](https://aclanthology.org/2025.emnlp-main.1581.pdf)], 2025.11. ![](https://img.shields.io/badge/EMNLP2025-orange)
 - **DFlash: Block Diffusion for Flash Speculative Decoding**  
   *Jian Chen, Yesheng Liang, Zhijian Liu*. [[pdf](https://arxiv.org/pdf/2602.06036)], [[homepage](https://z-lab.ai/projects/dflash/)], [[code](https://github.com/z-lab/dflash)], [[models](https://huggingface.co/collections/z-lab/dflash)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
+- **P-EAGLE: Parallel-Drafting EAGLE with Scalable Training**  
+  *Mude Hui, Xin Huang, Jaime Campos Salas, Yue Sun, Nathan Pemberton, Xiang Song, Ashish Khetan, George Karypis*. [[pdf](https://arxiv.org/pdf/2602.01469)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Multi-Token Prediction
 
@@ -513,6 +515,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Jingyu Liu\*, Xin Dong\*, Zhifan Ye, Rishabh Mehta, Yonggan Fu, Vartika Singh, Jan Kautz, Ce Zhang, Pavlo Molchanov*. [[pdf](https://arxiv.org/pdf/2511.08923v1)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TiDAR-blue)
 - **Fast and Expressive Multi-Token Prediction with Probabilistic Circuits**  
   *Andreas Grivas, Lorenzo Loconte, Emile van Krieken, Piotr Nawrot, Yu Zhao, Euan Wielewski, Pasquale Minervini, Edoardo Ponti, Antonio Vergari*. [[pdf](https://arxiv.org/pdf/2511.11346)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Multi-Token Prediction via Self-Distillation**  
+  *John Kirchenbauer, Abhimanyu Hans, Brian Bartoldson, Micah Goldblum, Ashwinee Panda, Tom Goldstein*. [[pdf](https://arxiv.org/pdf/2602.06019)], [[code](https://github.com/jwkirchenbauer/mtp-lm)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Speculative Decoding for Diffusion LMs
 
