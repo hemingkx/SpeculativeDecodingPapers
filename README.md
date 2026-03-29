@@ -494,6 +494,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Jian Chen, Yesheng Liang, Zhijian Liu*. [[pdf](https://arxiv.org/pdf/2602.06036)], [[homepage](https://z-lab.ai/projects/dflash/)], [[code](https://github.com/z-lab/dflash)], [[models](https://huggingface.co/collections/z-lab/dflash)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **P-EAGLE: Parallel-Drafting EAGLE with Scalable Training**  
   *Mude Hui, Xin Huang, Jaime Campos Salas, Yue Sun, Nathan Pemberton, Xiang Song, Ashish Khetan, George Karypis*. [[pdf](https://arxiv.org/pdf/2602.01469)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
+- **MineDraft: A Framework for Batch Parallel Speculative Decoding**
+  *Zhenwei Tang, Arun Verma, Zijian Zhou, Zhaoxuan Wu, Alok Prakash, Daniela Rus, Bryan Kian Hsiang Low*. [[pdf] (https://arxiv.org/abs/2603.18016)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Multi-Token Prediction
 
