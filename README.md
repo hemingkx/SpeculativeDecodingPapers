@@ -566,7 +566,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **Spec-LLaVA: Accelerating Vision-Language Models with Dynamic Tree-Based Speculative Decoding**  
   *Mingxiao Huo, Jiayi Zhang, Hewei Wang, Jinfeng Xu, Zheyu Chen, Huilin Tai, Ian Yijun Chen*. [[pdf](https://openreview.net/pdf?id=GiILZG2fjG)], 2025.07. ![](https://img.shields.io/badge/TTODLer--FM-orange) ![](https://img.shields.io/badge/Spec--LLaVA-blue)
 - **Spec-VLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance**  
-  *Songsheng Wang, Rucheng Yu, Zhihang Yuan, Chao Yu, Feng Gao, Yu Wang, Derek F. Wong*. [[pdf](https://arxiv.org/pdf/2507.22424)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Spec--VLA-blue)
+  *Songsheng Wang, Rucheng Yu, Zhihang Yuan, Chao Yu, Feng Gao, Yu Wang, Derek F. Wong*. [[pdf](https://arxiv.org/pdf/2507.22424)], 2025.07. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/Spec--VLA-blue)
 - **Grouped Speculative Decoding for Autoregressive Image Generation**  
   *Junhyuk So, Juncheol Shin, Hyunho Kook, Eunhyeok Park*. [[pdf](https://arxiv.org/pdf/2508.07747)], [[code](https://github.com/junhyukso/GSD)], 2025.08. ![](https://img.shields.io/badge/ICCV2025-orange) ![](https://img.shields.io/badge/GSD-blue)
 - **SpecVLM: Enhancing Speculative Decoding of Video LLMs via Verifier-Guided Token Pruning**  
