@@ -770,6 +770,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Bo Lv, Nayu Liu, Chen Tang, Xin Liu, Yue Yu, Ping Luo*. [[pdf](https://yuyue.github.io/res/paper/SpecEM_NeurIPS2025.pdf)], 2025.10. ![](https://img.shields.io/badge/NeurIPS2025-orange)
 - **Faster In-Context Learning for LLMs via N-Gram Trie Speculative Decoding**  
   *Jinglin Chen, Qiwei Li, Zuchao Li, Baoyuan Qi, Liu Guoming, Haojun Ai, Hai Zhao, Ping Wang*. [[pdf](https://yuyue.github.io/res/paper/SpecEM_NeurIPS2025.pdf)], 2025.10. ![](https://img.shields.io/badge/EMNLP2025-orange)
+- **SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning**  
+  *Haoyu Huang, Jinfa Huang, Zhongwei Wan, Xiawu Zheng, Rongrong Ji, Jiebo Luo*. [[pdf](https://arxiv.org/pdf/2603.23483)], [[code](https://github.com/MAC-AutoML/SpecEyes)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecEyes-blue)
 
 ### Analysis
 
