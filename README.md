@@ -495,7 +495,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 - **P-EAGLE: Parallel-Drafting EAGLE with Scalable Training**  
   *Mude Hui, Xin Huang, Jaime Campos Salas, Yue Sun, Nathan Pemberton, Xiang Song, Ashish Khetan, George Karypis*. [[pdf](https://arxiv.org/pdf/2602.01469)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **MineDraft: A Framework for Batch Parallel Speculative Decoding**  
-  *Zhenwei Tang, Arun Verma, Zijian Zhou, Zhaoxuan Wu, Alok Prakash, Daniela Rus, Bryan Kian Hsiang Low*. [[pdf](https://arxiv.org/abs/2603.18016)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Zhenwei Tang, Arun Verma, Zijian Zhou, Zhaoxuan Wu, Alok Prakash, Daniela Rus, Bryan Kian Hsiang Low*. [[pdf](https://arxiv.org/pdf/2603.18016)], [[code](https://github.com/electron-shaders/MineDraft)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Batch_Parallel_Draft--Verify-lightgray) ![](https://img.shields.io/badge/MineDraft-blue)
 
 ### Multi-Token Prediction
 
