@@ -637,7 +637,7 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Shengyin Sun, Yiming Li, Xing Li, Yingzhao Lian, Weizhe Lin, Hui-Ling Zhen, Zhiyuan Yang, Chen Chen, Xianzhi Yu, Mingxuan Yuan, Chen Ma.* [[pdf](https://arxiv.org/pdf/2509.04474)], [[code](https://github.com/sunshy-1/SpecTTS-Bench)], 2025.09. ![](https://img.shields.io/badge/ICLR2026-orange)
 - **Speculative Decoding: Performance or Illusion?**  
   *Xiaoxuan Liu, Jiaxiang Yu, Jongseok Park, Ion Stoica, Alvin Cheung*. [[pdf](https://arxiv.org/pdf/2505.13204)], [[code](https://github.com/SpecDecode-Bench/simulator)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/vLLM-green)
-- **SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**
+- **SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**  
   *Talor Abramovich, Maor Ashkenazi, Carl (Izzy) Putterman, Benjamin Chislett, Tiyasa Mitra, Bita Darvish Rouhani, Ran Zilberstein, Yonatan Geifman* [[pdf](https://arxiv.org/pdf/2604.09557)], [[code](https://huggingface.co/datasets/nvidia/SPEED-Bench)], [[blog](https://huggingface.co/blog/nvidia/speed-bench)], 2026.02.
 
 ### Applications
