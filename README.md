@@ -436,8 +436,6 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Zohaib Hasan Siddiqui, Jiechao Gao, Ebad Shabbir, Mohammad Anas Azeez, Rafiq Ali, Gautam Siddharth Kashyap, Usman Naseem*. [[pdf](https://arxiv.org/abs/2506.18952v1)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HSD-blue)
 - **VOCABTRIM: Vocabulary Pruning for Efficient Speculative Decoding in LLMs**  
   *Raghavv Goel, Sudhanshu Agrawal, Mukul Gagrani, Junyoung Park, Yifan Zao, He Zhang, Tian Liu, Yiping Yang, Xin Yuan, Jiuyan Lu, Chris Lott, Mingu Lee*. [[pdf](https://arxiv.org/pdf/2506.22694)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VOCABTRIM-blue)
-- **Balancing Coverage and Draft Latency in Vocabulary Trimming for Faster Speculative Decoding**  
-  *Ofir Ben Shoham*. [[pdf](https://arxiv.org/pdf/2603.05210)], [[code](https://github.com/Ofir408/balanced-coverage-latency-spec-decoding)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_vocabulary_trimming-green) ![](https://img.shields.io/badge/Vocabulary_Trimming-lightgray)
 - **OmniDraft: A Cross-vocabulary, Online Adaptive Drafter for On-device Speculative Decoding**  
   *Ramchalam Kinattinkara Ramakrishnan, Zhaocong Yuan, Shaojie Zhuo, Chen Feng, Yicheng Lin, Chenzheng Su, Xiaopeng Zhang*. [[pdf](https://arxiv.org/pdf/2507.02659)], 2025.07. ![](https://img.shields.io/badge/NeurIPS2025-orange) ![](https://img.shields.io/badge/OmniDraft-blue)
 - **PROMTEC: Fast LLM Inference Decoding using Prompt Multi-Lookup with Template Database and Common Sequences**  
@@ -496,6 +494,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Jian Chen, Yesheng Liang, Zhijian Liu*. [[pdf](https://arxiv.org/pdf/2602.06036)], [[homepage](https://z-lab.ai/projects/dflash/)], [[code](https://github.com/z-lab/dflash)], [[models](https://huggingface.co/collections/z-lab/dflash)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **P-EAGLE: Parallel-Drafting EAGLE with Scalable Training**  
   *Mude Hui, Xin Huang, Jaime Campos Salas, Yue Sun, Nathan Pemberton, Xiang Song, Ashish Khetan, George Karypis*. [[pdf](https://arxiv.org/pdf/2602.01469)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Balancing Coverage and Draft Latency in Vocabulary Trimming for Faster Speculative Decoding**  
+  *Ofir Ben Shoham*. [[pdf](https://arxiv.org/pdf/2603.05210)], [[code](https://github.com/Ofir408/balanced-coverage-latency-spec-decoding)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_vocabulary_trimming-green) ![](https://img.shields.io/badge/Vocabulary_Trimming-lightgray)
 - **MineDraft: A Framework for Batch Parallel Speculative Decoding**  
   *Zhenwei Tang, Arun Verma, Zijian Zhou, Zhaoxuan Wu, Alok Prakash, Daniela Rus, Bryan Kian Hsiang Low*. [[pdf](https://arxiv.org/pdf/2603.18016)], [[code](https://github.com/electron-shaders/MineDraft)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Batch_Parallel_Draft--Verify-lightgray) ![](https://img.shields.io/badge/MineDraft-blue)
 
