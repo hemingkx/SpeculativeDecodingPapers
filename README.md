@@ -498,6 +498,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Ofir Ben Shoham*. [[pdf](https://arxiv.org/pdf/2603.05210)], [[code](https://github.com/Ofir408/balanced-coverage-latency-spec-decoding)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Drafter:_vocabulary_trimming-green) ![](https://img.shields.io/badge/Vocabulary_Trimming-lightgray)
 - **MineDraft: A Framework for Batch Parallel Speculative Decoding**  
   *Zhenwei Tang, Arun Verma, Zijian Zhou, Zhaoxuan Wu, Alok Prakash, Daniela Rus, Bryan Kian Hsiang Low*. [[pdf](https://arxiv.org/pdf/2603.18016)], [[code](https://github.com/electron-shaders/MineDraft)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Batch_Parallel_Draft--Verify-lightgray) ![](https://img.shields.io/badge/MineDraft-blue)
+- **DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification**  
+  *Ziyi Wang, Siva Rajesh Kasa, Ankith M S, Santhosh Kumar Kasa, Jiaru Zou, Sumit Negi, Ruqi Zhang, Nan Jiang, Qifan Song*. [[pdf](https://arxiv.org/abs/2604.07622)], [[code](https://github.com/comeusr/diversed)], [[homepage](https://kasakh.github.io/relaxed-spec-decoding/)], 2026.04. ![](https://img.shields.io/badge/AISTATS2026-orange) ![](https://img.shields.io/badge/Verification:_dynamic_ensemble-lightgray) ![](https://img.shields.io/badge/DIVERSED-blue)
 
 ### Multi-Token Prediction
 
