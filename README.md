@@ -835,6 +835,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 
 **AngelSlim: Efficient LLM Compression Toolkit.** The Tencent Team. 2026.01. [[Docs](https://angelslim.readthedocs.io/zh-cn/latest/)] [[Code](https://github.com/Tencent/AngelSlim)]
 
+**Width vs. depth: speculating on the margin.** Doubleword. 2026.07. [[Blog](https://blog.doubleword.ai/speculating-on-the-margin)]
+
 ## Contributors
 
 <a href="https://github.com/hemingkx/SpeculativeDecodingPapers/graphs/contributors">
