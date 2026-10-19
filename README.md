@@ -778,6 +778,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Jinglin Chen, Qiwei Li, Zuchao Li, Baoyuan Qi, Liu Guoming, Haojun Ai, Hai Zhao, Ping Wang*. [[pdf](https://yuyue.github.io/res/paper/SpecEM_NeurIPS2025.pdf)], 2025.10. ![](https://img.shields.io/badge/EMNLP2025-orange)
 - **SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning**  
   *Haoyu Huang, Jinfa Huang, Zhongwei Wan, Xiawu Zheng, Rongrong Ji, Jiebo Luo*. [[pdf](https://arxiv.org/pdf/2603.23483)], [[code](https://github.com/MAC-AutoML/SpecEyes)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SpecEyes-blue)
+- **Unlocking the Edge deployment and ondevice acceleration of multi-LoRA enabled one-for-all foundational LLM**  
+  *Sravanth Kodavanti, Sowmya Vajrala, Srinivas Miriyala, Utsav Tiwari, Uttam Kumar, Utkarsh Kumar Mahawar, Achal Pratap Singh, Arya D, Narendra Mutyala, Vikram Nelvoy Rajendiran, Sharan Kumar Allur, Euntaik Lee, Dohyoung Kim, HyeonSu Lee, Gyusung Cho, JungBae Kim*. [[pdf](https://arxiv.org/pdf/2604.18655)], 2026.04. ![](https://img.shields.io/badge/ACL2026--findings-orange) ![](https://img.shields.io/badge/Self--Draft:_prefix--tuning-green) ![](https://img.shields.io/badge/DS2D-blue)
 
 ### Analysis
 
