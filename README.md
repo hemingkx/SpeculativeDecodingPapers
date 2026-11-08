@@ -835,6 +835,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
 
 **AngelSlim: Efficient LLM Compression Toolkit.** The Tencent Team. 2026.01. [[Docs](https://angelslim.readthedocs.io/zh-cn/latest/)] [[Code](https://github.com/Tencent/AngelSlim)]
 
+**KFlash: Verifying the Drafter's Best Guesses as a Tree.** Nace AI. 2026.10. [[Docs](https://github.com/nace-ai/kapitsa/blob/main/docs/kflash.md)] [[Code](https://github.com/nace-ai/kapitsa)]
+
 ## Contributors
 
 <a href="https://github.com/hemingkx/SpeculativeDecodingPapers/graphs/contributors">
